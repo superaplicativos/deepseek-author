@@ -1,0 +1,60 @@
+Com base na Instrução Normativa MinC nº 23/2025 (a mais recente) e no seu contexto específico, estruturei as diretrizes técnicas para que você alimente o seu data room no Antigravity/Claude Code.
+
+Como você pretende submeter dois projetos de R$ 200.000,00 cada como Pessoa Física (PF), você está dentro do limite de carteira para CPF (até 2 projetos ativos e total de R$ 500.000,00) . Além disso, por serem projetos de até R$ 200 mil, você fica dispensado de comprovar experiência prévia na área cultural para a aprovação .
+
+Aqui está o guia mestre de diretrizes para gerar as propostas:
+
+1. Estratégia de Enquadramento e Objeto
+Área Cultural: Humanidades.
+
+Segmento: Livros de Valor Artístico, Literário ou Humanístico.
+
+Enquadramento Legal: Artigo 18 da Lei 8.313/91. Isto garante que seus investidores PF possam deduzir 100% do valor investido do imposto de renda deles, respeitando o limite de 6% do imposto devido .
+
+Produtos Principais:
+
+Projeto 1: Livro "Turma da Aventura: Invenções Brasileiras - Vol. 1" (Físico + E-book + Audiobook).
+
+Projeto 2: Livro "Turma da Aventura: Invenções Brasileiras - Vol. 2" (Físico + E-book + Audiobook).
+
+2. Memória de Cálculo para o Orçamento (Teto R$ 200.000,00 cada)
+Para o Claude Code gerar a planilha analítica, use estas travas percentuais da IN 23/2025:
+
+Remuneração do Proponente (Você): Até 30% do valor total captado (R$ 60.000,00 por projeto), já que você é PF e atuará na execução/autoria .
+
+Custos de Administração: Máximo de 15% (R$ 30.000,00), incluindo contador (obrigatório para prestação de contas) e assessoria jurídica .
+
+Custos de Divulgação e Acessibilidade: Limite somado de 20% (R$ 40.000,00).
+
+Nota: A acessibilidade (Audiobook e E-book com audiodescrição) agora é item obrigatório e integrado .
+
+Produção Editorial (Gráfica e Software): O restante (R$ 70.000,00) deve cobrir a impressão de até 3.000 exemplares (limite da nova IN), diagramação, revisão e o licenciamento das ferramentas de IA/IDE que você utiliza para as ilustrações .
+
+3. Diretrizes de Justificativa e Impacto (Inputs para o Pitch)
+Oriente o Antigravity a redigir os textos focando nestes pilares:
+
+Soberania Tecnológica e Identidade: Destaque que o projeto usa tecnologia de ponta (IA e Claude Code) para exaltar o patrimônio imaterial brasileiro (as invenções), unindo inovação com educação patrimonial .
+
+Democratização de Acesso (Parceria BSJ):
+
+Defina que 20% da tiragem (600 livros) será para distribuição gratuita .
+
+Cite nominalmente a Biblioteca Sinhá Junqueira em Ribeirão Preto como polo de distribuição e contrapartida social, prevendo uma tarde de autógrafos/palestra gratuita sobre "Invenções e Tecnologia" como ação formativa (obrigatória) .
+
+Inovação no Processo Criativo: Descreva o uso da IA não como substituta da criação, mas como ferramenta de "ilustração assistida por algoritmos", o que reduz o custo de produção unitário e permite uma obra altamente visual para crianças em idade escolar .
+
+4. Checklist para o Claude Code Gerar os Arquivos
+Peça para o sistema gerar três blocos de texto por projeto:
+
+Resumo da Proposta: Texto conciso de até 5 linhas focando no "O quê" (Edição, publicação e distribuição de série literária infantil sobre invenções brasileiras) .
+
+Objetivos e Metas: Definir a tiragem (3.000 unidades), o preço de venda (máximo R$ 50,00 para os exemplares comercializados) e o alcance de público na região de Ribeirão Preto .
+
+Plano de Distribuição: Tabela detalhando quantas unidades vão para doação (BSJ e escolas públicas), quantas para patrocinadores (até 10%) e quantas para venda .
+
+Conclusão e Recomendação Estratégica
+Como você já tem os investidores (PF), o seu principal cuidado não é o "pitch" de venda, mas a conformidade técnica.
+
+Dica de Ouro: Submeta o primeiro projeto agora. Após captar os primeiros 10%, você já pode pedir a "adequação à realidade de execução" se os custos de papel ou gráfica mudarem .
+
+Cuidado com a IA: No formulário do SALIC, na ficha técnica, coloque-se como Autor e Coordenador. O software (Claude/IDEs) entra como "ferramenta tecnológica de suporte à produção", garantindo que a titularidade dos direitos autorais permaneça vinculada a você (pessoa humana), condição essencial para projetos Rouanet .

@@ -1,0 +1,350 @@
+════════════════════════════════════════════════════════════════════════════════
+ PERSONAGENS FIXOS - TURMA DA AVENTURA
+ Especificações Visuais e de Personalidade
+ NUNCA MODIFICAR - Aplicável a TODAS as séries
+════════════════════════════════════════════════════════════════════════════════
+
+PROPÓSITO DESTE DOCUMENTO:
+Manter 100% de consistência visual e de personalidade dos personagens em TODOS os
+livros, traduções, ilustrações e materiais de marketing.
+
+REGRA DE OURO: NUNCA altere idades, aparências ou personalidades core.
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 1: WILL (WILIAN) - O LÍDER
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Idade: 9 anos (SEMPRE mencionar)
+- Etnia: Menino branco
+- Cabelo: Castanho claro, liso, curto
+- Expressão: Inteligente, determinada, confiante
+
+ROUPA (NUNCA MUDA):
+- Camiseta: Azul escura com estampa digital
+- Calça: Jeans
+- Calçado: Tênis
+
+PROPS OBRIGATÓRIOS:
+- Smartphone: SEMPRE em mãos ou mencionado
+- Íris AI: Interface holográfica ativa (descrever luz azul/hologramas)
+- Mencionar: Mínimo 5x por livro que ele está "consultando Íris" ou "verificando dados"
+
+PERSONALIDADE:
+- Líder natural
+- Analítico, justo
+- Toma decisões ponderadas
+- Confia na tecnologia E intuição
+
+CATCHPHRASE:
+"Cada aventura começa com uma pergunta!" (usar 1-2x por livro)
+
+MOMENTOS OBRIGATÓRIOS:
+- Cena de liderança crucial (Ato 3)
+- Momento de dúvida que supera (Ato 3-4)
+- Coordenação do plano final (Ato 4)
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 2: MIA - A INVENTORA
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Idade: 8 anos
+- Etnia: Menina branca
+- Cabelo: Ruivo (cabelo ruivo/vermelho), penteado em DOIS COQUES LATERAIS (nunca outro estilo)
+- Expressão: Expressiva, entusiasmada, energética
+
+ROUPA (NUNCA MUDA):
+- Camiseta: Roxa com ícones de tecnologia
+- Short: Jeans curto
+- Calçado: Tênis roxos
+
+PROPS OBRIGATÓRIOS:
+- Cinto de ferramentas: SEMPRE mencionado, com:
+  * Chave inglesa (visível)
+  * Trena
+  * Gadgets pequenos
+- Mencionar: Mínimo 3x por livro que ela está "ajustando ferramentas" ou "pegando algo do cinto"
+
+PERSONALIDADE:
+- Criativa, engenhosa
+- Fala rápido quando animada
+- Resolve problemas com invenções
+- Adora desafios técnicos
+
+MOMENTOS OBRIGATÓRIOS:
+- Cria/conserta dispositivo crucial (Ato 2 ou 4)
+- Explica conceito STEM de forma acessível (Ato 2)
+- Momento "eureka!" (Ato 4)
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 3: LEO - O CORAJOSO
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Idade: 10 anos (mais velho do grupo)
+- Etnia: Menino branco
+- Cabelo: Loiro, curto, bagunçado
+- Corpo: Atlético, mais forte fisicamente
+
+ROUPA (NUNCA MUDA):
+- Camiseta: Verde escura
+- Short/Bermuda: Cáqui
+- Calçado: Botas ou tênis de trilha
+
+PROPS OBRIGATÓRIOS:
+- Mochila de aventura: SEMPRE nas costas (verde/cáqui)
+- Mencionar: Mínimo 2x por livro que ele "pega algo da mochila" ou "ajusta a mochila"
+
+PERSONALIDADE:
+- Atlético, destemido
+- Protetor dos amigos
+- Grande coração
+- MEDO SECRETO: Escuridão total (usar em pelo menos 30% dos livros)
+
+MOMENTOS OBRIGATÓRIOS:
+- Ação física corajosa (Ato 3 ou 4)
+- Protege alguém do grupo (qualquer ato)
+- Confronta medo quando relevante (Ato 3)
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 4: SOPHIE - A DETETIVE
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Idade: 8 anos
+- Etnia: Menina branca
+- Cabelo: Castanho escuro, liso, preso em RABO DE CAVALO LATERAL (nunca outro estilo)
+- Expressão: Curiosa, investigativa, atenta
+
+ROUPA (NUNCA MUDA):
+- Vestido: Amarelo com estampas de lupa e pistas/pegadas
+- Calçado: Sapatilhas ou tênis
+
+PROPS OBRIGATÓRIOS:
+- Bloco de notas pequeno: SEMPRE nas mãos ou bolso
+- Lápis: Geralmente atrás da orelha ou em mãos
+- Mencionar: Mínimo 4x por livro que ela está "anotando" ou "consultando anotações"
+
+PERSONALIDADE:
+- Observadora extrema
+- Percebe detalhes que outros perdem
+- Adora livros de mistério
+- Metódica, organizada
+
+MOMENTOS OBRIGATÓRIOS:
+- Percebe detalhe crucial (Ato 2 ou 3)
+- Conecta pistas dispersas (Ato 4)
+- Faz pergunta que muda perspectiva (qualquer ato)
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 5: MAX - O ENGRAÇADO
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Idade: 7 anos (mais novo do grupo)
+- Etnia: Menino branco
+- Cabelo: Castanho claro, corte em FORMATO DE COGUMELO (bowl cut)
+- Expressão: Sempre sorrindo, fazendo caretas, divertido
+
+ROUPA (NUNCA MUDA):
+- Camiseta: Vermelha com estampa de animal (pode variar: dinossauro, leão, etc.)
+- Calça: Bege
+- Calçado: Tênis
+
+PROPS OBRIGATÓRIOS:
+- Bichinho de pelúcia OU pequeno animal/inseto: Carrega algo em pelo menos 50% das cenas
+- Mencionar: Mínimo 2x por livro
+
+PERSONALIDADE:
+- Palhaço da turma
+- Adora animais
+- Cria situações engraçadas sem querer
+- Perspectiva emocional única
+
+MOMENTOS OBRIGATÓRIOS:
+- Alívio cômico em momento tenso (Ato 2 ou 3)
+- Conexão emocional/animal que ajuda (Ato 2 ou 4)
+- Fala inesperada que resolve impasse (Ato 4)
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGEM 6: JIMMY HENDRIX - O BORDER COLLIE
+════════════════════════════════════════════════════════════════════════════════
+
+DADOS BÁSICOS:
+- Espécie: Cachorro Border Collie
+- Pelagem: MARROM E BRANCO (NUNCA caramelo, dourado, bege)
+- Olhos: Expressivos, inteligentes, quase humanos
+- Orelhas: Alertas, móveis
+- Porte: Médio, ágil
+
+DESCRIÇÃO FÍSICA:
+- Pelagem densa
+- Olhar penetrante e inteligente
+- Sempre atento e ativo
+- Postura de cão de trabalho (não pet decorativo)
+
+PERSONALIDADE:
+- Superinteligente
+- Arteiro, brincalhão
+- Corajoso, leal
+- Comunicativo (expressões faciais, latidos, ações)
+
+HABILIDADES:
+- Farejar pistas
+- Perceber perigos antes dos humanos
+- Confortar emocionalmente
+- Ação física (puxar cordas, pressionar botões, etc.)
+
+MOMENTOS OBRIGATÓRIOS:
+- Encontra pista crucial farejando (Ato 2)
+- Salva situação com ação (Ato 3 ou 4)
+- Momento de conexão emocional (Ato 5)
+
+MENCIONAR: Mínimo 10x por livro de forma ativa (não só "Jimmy estava lá")
+
+════════════════════════════════════════════════════════════════════════════════
+VILÃO RECORRENTE: DR. GRIMSTONE
+════════════════════════════════════════════════════════════════════════════════
+
+IDENTIDADE:
+- Nome Completo: Dr. Grimstone
+- Profissão: Cientista excêntrico/maluco
+- Objetivo: "Acabar com a imaginação das crianças"
+- Filosofia: Tudo deve ser números e lógica pura, sem criatividade
+
+APARÊNCIA:
+- Jaleco de cientista (branco ou cinza)
+- Cabelo desgrenhado (opcional: óculos grandes)
+- Expressão sempre confiante (antes de falhar)
+- Postura dramática
+
+SIDEKICK OBRIGATÓRIO:
+- MORTY: Corvo preto
+- Personalidade: Sarcástico, sempre reclamando do trabalho
+- Função: Comentarista cômico das falhas de Grimstone
+
+CATCHPHRASE OBRIGATÓRIA:
+"Imaginar é perda de tempo! O futuro é a lógica pura!"
+(Usar pelo menos 1x quando Grimstone aparece)
+
+FREQUÊNCIA DE APARIÇÃO:
+- Série Viajantes do Tempo (Livros 1-6): OBRIGATÓRIO em todos
+- Série Lugares Incríveis (Livros 1-3): Livros 2-3 escritos SEM ele (aprovado)
+- Série Lugares Incríveis (Livros 4+): OBRIGATÓRIO
+- Todas as séries futuras: OBRIGATÓRIO (2-3 aparições por livro)
+
+TOM: 100% CÔMICO - NUNCA ameaçador de verdade
+
+SUBPLOT PADRÃO (2-3 aparições por livro):
+
+1ª APARIÇÃO (Ato 2, Cap 3-4):
+- Grimstone chega no setting com invenção ridícula
+- Explica plano absurdo para "racionalizar" o mistério
+- Morty reclama ("Por que sempre eu tenho que carregar isso?")
+- Catchphrase dita com convicção
+- Primeira falha pequena
+
+2ª APARIÇÃO (Ato 3, Cap 6-7):
+- Grimstone interfere na ação principal SEM QUERER
+- Atrapalha vilão verdadeiro OU ajuda turma acidentalmente
+- Invenção falha espetacularmente (slapstick, físico)
+- Morty faz comentário sarcástico
+- Grimstone foge ou é expulso
+
+3ª APARIÇÃO OPCIONAL (Ato 4-5, Cap 8-9):
+- Grimstone tenta roubar crédito pela vitória
+- Dispositivo explode/desmorona/falha finalmente
+- Morty: "Eu avisei..."
+- Grimstone jura vingança cômica enquanto foge
+
+TIPOS DE INVENÇÕES (exemplos):
+- "Calculadora de Mistérios"
+- "Destruidor de Imaginação Mk. VII"
+- "Racionalizador Quântico"
+- "Analisador de Magia Pura"
+- Nomes sempre pomposos e absurdos
+
+FALHAS CÔMICAS (exemplos):
+- Máquina explode cobrindo Grimstone de fuligem
+- Dispositivo funciona ao contrário (aumenta imaginação)
+- Componente cai e rola para lugar ridículo
+- Grimstone fica preso em sua própria armadilha
+- Animais (especialmente Jimmy) sabotam dispositivo
+
+IMPORTANTE:
+❌ NUNCA fazer Grimstone ameaçador
+❌ NUNCA fazer Grimstone ter sucesso (exceto acidental)
+❌ NUNCA fazer crianças terem medo dele
+✅ SEMPRE humor slapstick/físico (traduz bem)
+✅ SEMPRE Morty comentando sarcasticamente
+✅ SEMPRE falha é hilária, não triste
+
+════════════════════════════════════════════════════════════════════════════════
+FORMATO DE APRESENTAÇÃO NO CAPÍTULO 1 (OBRIGATÓRIO)
+════════════════════════════════════════════════════════════════════════════════
+
+Incluir parágrafo similar a este no Capítulo 1, linhas 40-100:
+
+"Will, de 9 anos, ajustou sua camiseta azul escura com estampa digital enquanto
+verificava seu smartphone - Íris, sua assistente de inteligência artificial, já
+estava analisando [contexto da aventura]. Mia chegou correndo, seus dois coques
+de cabelo ruivo balançando, camiseta roxa brilhando, e o cinto de ferramentas
+tilintando a cada passo. Leo, o mais velho do grupo aos 10 anos, ajustou a
+mochila de aventura nas costas da camiseta verde escura, cabelo loiro
+bagunçado como sempre. Sophie, de 8 anos, já tinha o bloco de notas aberto,
+vestido amarelo com estampas de lupa, anotando tudo com precisão. Max, o mais
+novo com 7 anos, segurava seu bichinho de pelúcia favorito debaixo do braço
+da camiseta vermelha com estampa de animal, sorrindo como sempre. E claro,
+Jimmy Hendrix - o Border Collie marrom e branco - corria em círculos,
+olhos inteligentes observando tudo."
+
+ADAPTE O CONTEXTO, mas mantenha TODOS esses elementos visuais.
+
+════════════════════════════════════════════════════════════════════════════════
+CHECKLIST DE CONSISTÊNCIA VISUAL
+════════════════════════════════════════════════════════════════════════════════
+
+Antes de finalizar qualquer manuscrito ou ilustração:
+
+[ ] Will tem smartphone com interface Íris visível
+[ ] Mia tem cinto de ferramentas com chave inglesa, trena, gadgets
+[ ] Leo tem mochila de aventura nas costas
+[ ] Sophie tem bloco de notas nas mãos
+[ ] Max tem bichinho de pelúcia ou criatura
+[ ] Jimmy Hendrix é Border Collie MARROM E BRANCO (NÃO caramelo!)
+[ ] Todas as cores de roupa correspondem exatamente
+[ ] Estilos de cabelo correspondem exatamente
+[ ] Idades são visualmente apropriadas (7-10 anos)
+[ ] Expressões faciais combinam com personalidade
+[ ] Dr. Grimstone tem jaleco e aparência excêntrica
+[ ] Morty (corvo preto) está com Grimstone
+
+════════════════════════════════════════════════════════════════════════════════
+IMPORTANTE PARA ILUSTRADORES/IAs DE IMAGEM
+════════════════════════════════════════════════════════════════════════════════
+
+Quando criar ilustrações (Midjourney, DALL-E, Stable Diffusion, etc.):
+
+ARQUIVOS CHROMAKEY DISPONÍVEIS:
+Localização: C:\Users\xberi\Desktop\TURMA-DA-AVENTURA\PERSONAGENS-CHROMAKEY\
+- WILL.jpg
+- MIA.jpg
+- LEO.jpg (verificar se existe, criar se necessário)
+- SOPHIE.jpg
+- MAX.jpg
+- JIMMY.jpg
+- GRIMSTONE.jpg
+- TURMATODA.fw.png
+
+USE ESTES ARQUIVOS como referência para manter 100% de consistência visual.
+
+PROMPTS PARA GEMINI/MIDJOURNEY:
+Ver arquivo: DOCS/DIRETRIZES_VISUAIS_IDENTIDADE.md
+
+════════════════════════════════════════════════════════════════════════════════
+
+ÚLTIMA ATUALIZAÇÃO: 2026-01-10
+Este arquivo é OBRIGATÓRIO e aplica-se a TODAS as séries da Turma da Aventura.
+
+════════════════════════════════════════════════════════════════════════════════

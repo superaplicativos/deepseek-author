@@ -1,0 +1,371 @@
+════════════════════════════════════════════════════════════════════════════════
+ SÉRIE: INVENÇÕES
+ Turma da Aventura e as Grandes Invenções da Humanidade
+ Diretrizes Específicas desta Série
+════════════════════════════════════════════════════════════════════════════════
+
+TEMA CENTRAL:
+Exploração das grandes invenções que mudaram o mundo, combinando história STEM,
+biografias de inventores, e aventuras centradas em compreender e recriar
+tecnologias revolucionárias.
+
+DIFERENÇA DAS OUTRAS SÉRIES:
+- Viajantes do Tempo: Foco em PERÍODOS históricos gerais
+- Lugares Incríveis: Foco em LOCALIZAÇÕES específicas
+- INVENÇÕES: Foco em TECNOLOGIAS/DESCOBERTAS específicas e seus inventores
+
+STATUS: 📝 Planejamento (série futura baseada em análise de mercado)
+LOCALIZAÇÃO: LIVROS/SERIE-INVENCOES/
+
+════════════════════════════════════════════════════════════════════════════════
+CONCEITO DA SÉRIE
+════════════════════════════════════════════════════════════════════════════════
+
+PREMISSA:
+Cada livro foca em uma invenção específica que mudou a humanidade. Turma viaja
+(no tempo, se necessário) para conhecer inventor(a), entender desafio que
+levou à invenção, e vivenciar impacto da descoberta.
+
+PROTAGONISTA EM DESTAQUE: MIA (A INVENTORA)
+- Mia tem papel central (mas todos participam)
+- Ela conecta emocionalmente com inventores
+- Aprende princípios para aplicar em suas próprias invenções
+- Moments de "eureka!" inspirados pelos inventores históricos
+
+FOCO EDUCACIONAL: STEM (Ciência, Tecnologia, Engenharia, Matemática)
+- Princípios científicos explicados de forma acessível
+- Engenharia/mecânica demonstrada praticamente
+- Matemática integrada naturalmente (não como "aula")
+- Processo de invenção valorizado (tentativa, erro, persistência)
+
+DR. GRIMSTONE OBRIGATÓRIO:
+- Aparece em TODOS os livros (2-3x)
+- Tenta provar que invenção é "sorte" ou "não precisa imaginação"
+- Falha hilariamente, frequentemente provando valor da criatividade
+
+════════════════════════════════════════════════════════════════════════════════
+INVENÇÕES SUGERIDAS (Baseado em SEO Amazon - 5 mercados)
+════════════════════════════════════════════════════════════════════════════════
+
+ALTÍSSIMA PRIORIDADE (Forte apelo educacional + comercial):
+
+1. A RODA
+   - Inventor: Civilizações mesopotâmicas (5.500 anos atrás)
+   - Impacto: Transporte, cerâmica, engrenagens
+   - Narrativa: Como humanidade concebeu movimento circular aplicado
+   - SEO: "wheel invention kids", "mesopotamia children", "first wheel story"
+   - Apelo: Invenção fundamental, fácil de entender, visual simples mas profundo
+
+2. A IMPRENSA (GUTENBERG)
+   - Inventor: Johannes Gutenberg (1440)
+   - Impacto: Democratização do conhecimento, Bíblia, Renascimento
+   - Narrativa: Gutenberg desenvolvendo tipos móveis, primeiras impressões
+   - SEO: "printing press children", "gutenberg kids book", "invention book"
+   - Apelo: Livros sobre livros (meta!), revolução do conhecimento
+
+3. A LÂMPADA (EDISON)
+   - Inventor: Thomas Edison (1879) - (nota: outros também trabalharam nisso)
+   - Impacto: Iluminação, fim da dependência do dia/noite
+   - Narrativa: 1.000 tentativas de Edison, perseverança
+   - SEO: "thomas edison children", "light bulb invention kids", "electricity"
+   - Apelo: História de perseverança, inventor famoso, experimento reproduzível
+
+4. O AVIÃO (IRMÃOS WRIGHT)
+   - Inventores: Wilbur e Orville Wright (1903)
+   - Impacto: Aviação, conexão global, exploração
+   - Narrativa: Kitty Hawk, primeiros voos, sonho humano de voar
+   - SEO: "wright brothers children", "first airplane kids", "flight invention"
+   - Apelo: Aventura no ar, sonho de voar, engenharia fascinante
+
+5. O TELEFONE (BELL)
+   - Inventor: Alexander Graham Bell (1876)
+   - Impacto: Comunicação instantânea à distância
+   - Narrativa: Primeira ligação ("Sr. Watson, venha aqui"), competição
+   - SEO: "alexander graham bell children", "telephone invention kids"
+   - Apelo: Comunicação (rel relatable para crianças com smartphones)
+
+ALTA PRIORIDADE:
+
+6. A INTERNET/COMPUTADOR
+   - Inventores: Múltiplos (ARPANET, Tim Berners-Lee para WWW)
+   - Impacto: Era digital, informação global
+   - Narrativa: Primeiros computadores gigantes, origem da internet
+   - SEO: "internet invention kids", "computer history children"
+
+7. A VACINA (JENNER/PASTEUR)
+   - Inventores: Edward Jenner (varíola, 1796), Louis Pasteur (raiva)
+   - Impacto: Medicina preventiva, erradicação de doenças
+   - Narrativa: Primeiro teste de Jenner, coragem de Pasteur
+   - SEO: "vaccine invention children", "edward jenner kids", "louis pasteur"
+
+8. O MOTOR A VAPOR
+   - Inventor: James Watt (aperfeiçoamento, 1776)
+   - Impacto: Revolução Industrial, trens, fábricas
+   - Narrativa: Watt observando chaleira, mecânica do vapor
+   - SEO: "steam engine children", "james watt kids", "industrial revolution"
+
+9. O ANTIBIÓTICO (PENICILINA - FLEMING)
+   - Inventor: Alexander Fleming (1928)
+   - Impacto: Medicina moderna, salvou milhões de vidas
+   - Narrativa: Descoberta acidental, mofo que salvou mundo
+   - SEO: "penicillin children", "alexander fleming kids", "antibiotic story"
+
+10. A FOTOGRAFIA/CINEMA (LUMIÈRE)
+    - Inventores: Louis e Auguste Lumière (cinema, 1895)
+    - Impacto: Captura de momentos, entretenimento visual
+    - Narrativa: Primeira projeção, público assustado com trem na tela
+    - SEO: "lumiere brothers children", "first movie kids", "cinema invention"
+
+MÉDIA PRIORIDADE:
+
+11. A BÚSSOLA
+12. O TELESCÓPIO (GALILEU)
+13. O MOTOR A COMBUSTÃO
+14. O REFRIGERADOR
+15. A TELEVISÃO
+
+════════════════════════════════════════════════════════════════════════════════
+TEMPLATE DE ESTRUTURA PARA LIVRO DE INVENÇÕES
+════════════════════════════════════════════════════════════════════════════════
+
+ATO 1: INTRODUÇÃO
+────────────────
+- Problema moderno que invenção resolveu (estabelecer ANTES da invenção)
+- Turma descobre sobre invenção através de projeto escolar/desafio
+- Pesquisa inicial: Quando foi inventado? Por quem? Por quê?
+- Decisão de viajar no tempo para conhecer inventor(a)
+- Chegada à época - contraste de vida SEM a invenção
+- Encontro com inventor(a) - humanização (não apenas gênio, mas pessoa)
+
+ATO 2: EXPLORAÇÃO
+────────────────
+- Compreender desafio que inventor enfrentava
+- Turma observa primeiras tentativas (muitas falhas)
+- Cada personagem contribui com observação/ideia:
+  * Mia: Analisa mecânica/princípios científicos
+  * Will: Organiza informação, vê padrões
+  * Sophie: Pesquisa tentativas anteriores de outros inventores
+  * Leo: Testa protótipos fisicamente
+  * Max: Perspectiva simples que revela solução óbvia
+  * Jimmy: Interage com protótipo de forma inesperada
+- Dr. Grimstone aparece (1ª vez) tentando "provar" que invenção é desnecessária
+- Complicação: Invenção enfrenta oposição (técnica, social, ou financeira)
+- Momento de dúvida do inventor - turma incentiva
+
+ATO 3: CONFLITO PRINCIPAL
+────────────────
+- Tentativa crucial de fazer invenção funcionar
+- Falha dramática (quase sucesso, mas não totalmente)
+- Inventor pensa em desistir
+- Stakes: Se desistir, invenção pode nunca acontecer (linha temporal afetada)
+- Dr. Grimstone reaparece, atrapalha experimento (2ª vez) mas...
+  ... acidentalmente revela solução!
+- Corrida contra tempo (financiamento acaba, rival está quase lá, etc.)
+
+ATO 4: RESOLUÇÃO CRIATIVA
+────────────────
+- Insight que combina observação da turma com genialidade do inventor
+- Mia e inventor trabalham juntos no design final
+- Teste final da invenção - MOMENTO ÉPICO
+  * Roda gira pela primeira vez
+  * Lâmpada acende
+  * Avião decola
+  * Telefone transmite voz
+  * [etc.]
+- FUNCIONA! Celebração
+- Turma vê impacto imediato e potencial futuro
+
+ATO 5: ENCERRAMENTO
+────────────────
+- Retorno ao presente
+- Reflexão sobre como invenção mudou suas vidas modernas
+- Mia aplica princípio aprendido em própria invenção pequena
+- Lição sobre:
+  * Perseverança (tentativa e erro)
+  * Criatividade + ciência
+  * Impacto de uma ideia no mundo
+- Momento de coração: Amizade + admiração por inventores
+- Hook: Próxima invenção aparece (artefato, desafio, etc.)
+
+════════════════════════════════════════════════════════════════════════════════
+PRINCÍPIOS EDUCACIONAIS STEM
+════════════════════════════════════════════════════════════════════════════════
+
+1. EXPLICAR CIÊNCIA NATURALMENTE:
+   ✅ Demonstrar através de ação, não aulas
+   ✅ Usar analogias que crianças entendem
+   ✅ Mia explica conceitos de forma empolgada (não professoral)
+
+   Exemplo (Lâmpada de Edison):
+   "— É simples! — disse Mia, olhos brilhando. — Eletricidade aquece o
+   filamento até ele brilhar, como quando você esfrega as mãos e fica
+   quente. Mas precisa ser no vácuo, sem ar, senão queima!"
+
+2. PROCESSO > RESULTADO:
+   - Mostrar tentativas falhadas do inventor
+   - Valorizar aprendizado com erros
+   - Perseverança como virtude
+
+3. MATEMÁTICA INVISÍVEL:
+   - Integrar cálculos sem "fazer contas"
+   - Usar matemática para resolver problemas práticos
+   - Geometria, física, proporções aparecem naturalmente
+
+4. ENGENHARIA PRÁTICA:
+   - Mostrar COMO coisas funcionam mecanicamente
+   - Diagramas simples descritos em texto
+   - Crianças podem imaginar construindo
+
+5. INSPIRAÇÃO PARA INVENTAR:
+   - Cada livro termina com Mia tendo ideia nova
+   - Leitores sentem que ELES também podem inventar
+   - Mensagem: "Você pode mudar o mundo com uma ideia"
+
+════════════════════════════════════════════════════════════════════════════════
+HUMANIZAÇÃO DOS INVENTORES
+════════════════════════════════════════════════════════════════════════════════
+
+IMPORTANTE: Inventores não são apenas gênios distantes.
+
+MOSTRAR:
+✅ Dúvidas e medos (medo de falhar, de ser ridicularizado)
+✅ Vida pessoal (família, amigos, hobbies)
+✅ Falhas múltiplas antes do sucesso
+✅ Apoio de outros (assistentes, família, financiadores)
+✅ Motivação pessoal (por que queriam inventar ISSO?)
+
+EVITAR:
+❌ "Gênio solitário que sozinho muda o mundo"
+❌ Inventores sem defeitos/desafios
+❌ Processo de invenção parecendo mágica ou sorte pura
+
+EXEMPLO:
+"Edison não sorriu quando a lâmpada apagou pela 247ª vez. Esfregou os olhos
+cansados.
+
+— Mais 753 materiais para testar — murmurou.
+
+— Sr. Edison — disse Will hesitante —, por que continua tentando?
+
+Edison olhou para a janela escura lá fora.
+
+— Porque quando eu era menino, minha mãe lia para mim à noite. Mas só
+podia ler uma hora, até a vela acabar. — Seus olhos brilharam. — Imagina
+se todas as crianças pudessem ler à noite, quanto tempo quisessem? Vale
+qualquer número de tentativas."
+
+════════════════════════════════════════════════════════════════════════════════
+DR. GRIMSTONE NA SÉRIE INVENÇÕES
+════════════════════════════════════════════════════════════════════════════════
+
+Grimstone nesta série frequentemente:
+
+INVENÇÕES TÍPICAS DELE:
+- "Detector de Coincidências Inventivas"
+- "Eliminador de Criatividade Desnecessária"
+- "Calculadora de Invenções Lógicas Puras"
+- "Provador de Sorte vs. Gênio Mark VI"
+
+SUBPLOT TÍPICA:
+- Tenta provar que invenção foi "sorte" ou "acidente sem mérito"
+- Cria dispositivo para "automatizar" processo criativo
+- Dispositivo falha, frequentemente:
+  * Desenhando invenção ridícula
+  * Ou acidentalmente provando valor da criatividade
+  * Ou revelando solução sem querer
+
+EXEMPLO (Livro do Telefone):
+──────────────────────────
+Grimstone surgiu carregando máquina coberta de tubos e fios.
+
+"Crianças! Apresento o Comunicador de Lógica Pura! Provarei que telefone
+de Bell é apenas sorte. Imaginação não inventa - LÓGICA inventa! Imaginar
+é perda de tempo! O futuro é a lógica pura!"
+
+Conectou fios aleatoriamente. Apertou botão.
+
+BZZZZT! CRACK!
+
+Centelhas voaram. Todos os fios se fundiram em nó impossível.
+
+"Por que sempre acabo amarrado nos próprios fios?" resmungou Grimstone,
+preso no emaranhado.
+
+"Porque lógica sem criatividade é caos," observou Morty secamente.
+
+════════════════════════════════════════════════════════════════════════════════
+ANÁLISE DE MERCADO - SÉRIE INVENÇÕES
+════════════════════════════════════════════════════════════════════════════════
+
+COMPETIDORES:
+- Who Was? series (biografias, mas não aventura)
+- I Survived series (eventos, não invenções)
+- Magic School Bus (ciência, mas não história de inventores)
+
+DIFERENCIAL TURMA DA AVENTURA:
+✅ Aventura narrativa + educação STEM
+✅ Biografia de inventores através de experiência
+✅ Personagens consistentes que leitores amam
+✅ Spielberg style (épico mas acessível)
+
+PALAVRAS-CHAVE SEO - Gerais:
+- "invention books for kids"
+- "famous inventors children"
+- "STEM adventure children"
+- "how things were invented kids"
+- "science history children book"
+- "engineering for kids story"
+
+MERCADOS ESPECÍFICOS:
+- USA: "great inventions kids", "inventor biography children"
+- Brasil: "grandes invenções infantil", "inventores famosos"
+- Alemanha: "große erfindungen kinder", "erfinder geschichte"
+- Espanha: "grandes inventos niños", "inventores famosos"
+
+TENDÊNCIAS FORTES:
+📈 STEM education (crescente em todos os 5 mercados)
+📈 Female inventors (diversidade, empoderamento de meninas)
+📈 Hands-on learning (crianças querem FAZER, não só ler)
+📈 Biografias inspiradoras
+
+OPORTUNIDADE:
+Série focada em inventores mulheres e não-ocidentais:
+- Marie Curie (radioatividade)
+- Hedy Lamarr (wifi precursor)
+- Ada Lovelace (programação)
+- Inventores chineses, árabes, africanos
+
+════════════════════════════════════════════════════════════════════════════════
+PRÓXIMOS PASSOS PARA ATIVAR SÉRIE
+════════════════════════════════════════════════════════════════════════════════
+
+1. PESQUISA DE MERCADO PROFUNDA:
+   [ ] Análise Amazon KDP - categoria "Inventions & Inventors"
+   [ ] Trends Google para termos STEM
+   [ ] Competitor analysis (Who Was?, Magic School Bus, etc.)
+   [ ] Survey com pais/educadores sobre invenções de interesse
+
+2. SELEÇÃO DA PRIMEIRA INVENÇÃO:
+   [ ] Escolher entre top 5 sugeridos
+   [ ] Verificar disponibilidade de recursos históricos
+   [ ] Confirmar apelo educacional + comercial
+
+3. DESENVOLVIMENTO:
+   [ ] Criar outline detalhado 5 atos
+   [ ] Pesquisar inventor específico profundamente
+   [ ] Planejar subplot Dr. Grimstone
+   [ ] Escrever manuscrito (35-50k palavras)
+
+4. VALIDAÇÃO:
+   [ ] Consultar com educadores STEM
+   [ ] Verificar precisão histórica
+   [ ] Testar legibilidade para 8-12 anos
+   [ ] QA normal da série
+
+════════════════════════════════════════════════════════════════════════════════
+
+ÚLTIMA ATUALIZAÇÃO: 2026-01-10
+Esta série está em PLANEJAMENTO. Use em conjunto com diretrizes universais
+(PERSONAGENS-FIXOS, ESTILO-SPIELBERG, ESTRUTURA-NARRATIVA).
+
+════════════════════════════════════════════════════════════════════════════════

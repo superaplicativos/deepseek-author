@@ -1,0 +1,1183 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Bizantino - Turma da Aventura | Publishing Automation com IA</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #6366f1;
+            --primary-dark: #4f46e5;
+            --secondary: #ec4899;
+            --accent: #f59e0b;
+            --success: #10b981;
+            --dark: #1f2937;
+            --light: #f9fafb;
+            --text: #374151;
+            --border: #e5e7eb;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--light);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* Header & Navigation */
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 1.5rem;
+            list-style: none;
+            flex-wrap: wrap;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: opacity 0.3s;
+        }
+
+        .nav-links a:hover {
+            opacity: 0.8;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 4rem 0;
+            text-align: center;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+            opacity: 0.95;
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        .hero-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 3rem;
+            animation: fadeInUp 0.8s ease-out 0.4s both;
+        }
+
+        .stat-card {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            padding: 1.5rem;
+            border-radius: 12px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.9;
+        }
+
+        /* Section */
+        section {
+            padding: 4rem 0;
+        }
+
+        section:nth-child(even) {
+            background: white;
+        }
+
+        .section-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--dark);
+            text-align: center;
+        }
+
+        .section-subtitle {
+            text-align: center;
+            font-size: 1.1rem;
+            color: var(--text);
+            margin-bottom: 3rem;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Cards Grid */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+            border: 1px solid var(--border);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+        }
+
+        .card-icon {
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+        }
+
+        .card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 0.75rem;
+            color: var(--dark);
+        }
+
+        .card p {
+            color: var(--text);
+            line-height: 1.7;
+        }
+
+        .card ul {
+            margin: 1rem 0;
+            padding-left: 1.5rem;
+        }
+
+        .card ul li {
+            margin: 0.5rem 0;
+        }
+
+        /* Personagens */
+        .personagens-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .personagem {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+            border: 2px solid var(--border);
+            transition: all 0.3s;
+        }
+
+        .personagem:hover {
+            border-color: var(--primary);
+            transform: scale(1.05);
+        }
+
+        .personagem-icon {
+            width: 80px;
+            height: 80px;
+            margin: 0 auto 1rem;
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 2.5rem;
+        }
+
+        .personagem h4 {
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+            color: var(--dark);
+        }
+
+        .personagem p {
+            font-size: 0.85rem;
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        /* Timeline */
+        .timeline {
+            position: relative;
+            padding: 2rem 0;
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: 3rem;
+            margin-bottom: 2rem;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 20px;
+            height: 20px;
+            background: var(--primary);
+            border-radius: 50%;
+            border: 4px solid white;
+            box-shadow: 0 0 0 2px var(--primary);
+        }
+
+        .timeline-item::after {
+            content: '';
+            position: absolute;
+            left: 9px;
+            top: 20px;
+            width: 2px;
+            height: calc(100% + 2rem);
+            background: var(--border);
+        }
+
+        .timeline-item:last-child::after {
+            display: none;
+        }
+
+        .timeline-content {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.07);
+        }
+
+        .timeline-content h4 {
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Metrics Dashboard */
+        .metrics-dashboard {
+            background: white;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+            margin-top: 2rem;
+        }
+
+        .metrics-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 2rem;
+            margin-top: 1.5rem;
+        }
+
+        .metric {
+            text-align: center;
+            padding: 1.5rem;
+            background: var(--light);
+            border-radius: 8px;
+        }
+
+        .metric-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--primary);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .metric-label {
+            font-size: 0.9rem;
+            color: var(--text);
+        }
+
+        /* Badge */
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin: 0.25rem;
+        }
+
+        .badge-success {
+            background: #d1fae5;
+            color: #065f46;
+        }
+
+        .badge-warning {
+            background: #fef3c7;
+            color: #92400e;
+        }
+
+        .badge-info {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .badge-primary {
+            background: #e0e7ff;
+            color: #3730a3;
+        }
+
+        /* Footer */
+        footer {
+            background: var(--dark);
+            color: white;
+            padding: 3rem 0 1.5rem;
+            margin-top: 4rem;
+        }
+
+        .footer-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .footer-section h3 {
+            margin-bottom: 1rem;
+            color: var(--primary);
+        }
+
+        .footer-section ul {
+            list-style: none;
+        }
+
+        .footer-section ul li {
+            margin: 0.5rem 0;
+            opacity: 0.8;
+        }
+
+        .footer-bottom {
+            text-align: center;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            opacity: 0.7;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .section-title {
+                font-size: 2rem;
+            }
+
+            .nav-links {
+                width: 100%;
+                justify-content: center;
+            }
+        }
+
+        /* Scroll smooth */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Highlight boxes */
+        .highlight-box {
+            background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(236, 72, 153, 0.1));
+            border-left: 4px solid var(--primary);
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin: 1.5rem 0;
+        }
+
+        .highlight-box h4 {
+            color: var(--primary);
+            margin-bottom: 0.75rem;
+        }
+
+        /* Systems Grid */
+        .systems-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .system-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            border-left: 4px solid var(--primary);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.07);
+        }
+
+        .system-number {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 40px;
+            font-weight: bold;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">
+                📚 Projeto Bizantino
+            </div>
+            <ul class="nav-links">
+                <li><a href="#overview">Visão Geral</a></li>
+                <li><a href="#sistemas">Sistemas</a></li>
+                <li><a href="#livros">Livros</a></li>
+                <li><a href="#personagens">Personagens</a></li>
+                <li><a href="#metricas">Métricas</a></li>
+                <li><a href="#tecnologias">Tecnologias</a></li>
+                <li><a href="#investidores">Investidores</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>🚀 Turma da Aventura: Viajantes do Tempo</h1>
+            <p>Publishing Automation com IA | O Clone Brasileiro da Spines ($16M funding)</p>
+
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <span class="stat-number">331</span>
+                    <span class="stat-label">Vendas em 10 Países</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">24.8K</span>
+                    <span class="stat-label">Páginas KENP Lidas</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">$811</span>
+                    <span class="stat-label">Receita Total</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number">95%</span>
+                    <span class="stat-label">Automação</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="overview">
+        <div class="container">
+            <h2 class="section-title">💡 Visão Geral do Projeto</h2>
+            <p class="section-subtitle">
+                Sistema automatizado de publicação de livros infantis usando IA de ponta,
+                produzindo conteúdo de qualidade 200x mais barato que a concorrência.
+            </p>
+
+            <div class="highlight-box">
+                <h4>🎯 Propósito</h4>
+                <p>
+                    O Projeto Bizantino é uma <strong>plataforma de publicação automatizada</strong> que utiliza
+                    Claude AI para criar livros infantis de 35-50 mil palavras em apenas 3 horas,
+                    com custo de $10-25 por livro (vs $1.200-$5.000 da Spines).
+                </p>
+            </div>
+
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-icon">⚡</div>
+                    <h3>Velocidade Extrema</h3>
+                    <p>Livros completos de 35-50 mil palavras criados em <strong>~3 horas</strong>, do manuscrito à publicação em 4 idiomas simultâneos.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">💰</div>
+                    <h3>Custo Revolucionário</h3>
+                    <p><strong>200x mais barato</strong> que Spines. $10-25 por livro vs $1.200-$5.000 da concorrência.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">🌍</div>
+                    <h3>Alcance Global</h3>
+                    <p>Publicação simultânea em <strong>4 idiomas</strong> (PT, EN, ES, DE) em <strong>10 países</strong> via Amazon KDP.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">🤖</div>
+                    <h3>IA de Ponta</h3>
+                    <p>Claude AI para narrativa épica + Google Gemini para ilustrações estilo Pixar de alta qualidade.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">📈</div>
+                    <h3>Crescimento Orgânico</h3>
+                    <p><strong>$0 em marketing</strong>. Vendas triplicando mensalmente através de SEO e algoritmo Amazon.</p>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">✅</div>
+                    <h3>Qualidade Validada</h3>
+                    <p>Ratings <strong>4.5-5.0 estrelas</strong>. Sistema de QA com 6 relatórios obrigatórios por livro.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="sistemas">
+        <div class="container">
+            <h2 class="section-title">⚙️ Sistemas e Automação</h2>
+            <p class="section-subtitle">
+                6 sistemas integrados que automatizam 95% do processo de criação e publicação
+            </p>
+
+            <div class="systems-grid">
+                <div class="system-card">
+                    <div class="system-number">1</div>
+                    <h3>Criação de Manuscritos</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>epic-book-writer (agente IA)</li>
+                        <li>Diretrizes de qualidade</li>
+                        <li>Scripts de conversão TXT→DOCX</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Output:</strong> Manuscritos de 35-50k palavras em estrutura de 5 atos</p>
+                </div>
+
+                <div class="system-card">
+                    <div class="system-number">2</div>
+                    <h3>Tradução Multilíngue</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>tradutor_docx_GRATUITO.py (principal)</li>
+                        <li>7 scripts de tradução e QA</li>
+                        <li>Google Translate via web</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Custo:</strong> $0 (100% gratuito)</p>
+                </div>
+
+                <div class="system-card">
+                    <div class="system-number">3</div>
+                    <h3>Formatação Amazon KDP</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>Conversores DOCX→EPUB</li>
+                        <li>Ajuste de margens 6x9"</li>
+                        <li>Scripts de otimização Kindle</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Output:</strong> Livros prontos para publicação</p>
+                </div>
+
+                <div class="system-card">
+                    <div class="system-number">4</div>
+                    <h3>Identidade Visual</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>Personagens chromakey (refs fixas)</li>
+                        <li>Google Gemini para geração</li>
+                        <li>Templates de prompts detalhados</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Estilo:</strong> Pixar semi-realista consistente</p>
+                </div>
+
+                <div class="system-card">
+                    <div class="system-number">5</div>
+                    <h3>Validação e QA</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>6 relatórios MD obrigatórios</li>
+                        <li>Scripts de análise automática</li>
+                        <li>Checklist de qualidade</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Garantia:</strong> Qualidade antes de publicar</p>
+                </div>
+
+                <div class="system-card">
+                    <div class="system-number">6</div>
+                    <h3>Pesquisa de Mercado</h3>
+                    <p><strong>Componentes:</strong></p>
+                    <ul>
+                        <li>6 scripts de análise Amazon</li>
+                        <li>Keywords trending</li>
+                        <li>Dados KDP reais</li>
+                    </ul>
+                    <p style="margin-top: 1rem;"><strong>Uso:</strong> Definir temas de novos livros</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="livros">
+        <div class="container">
+            <h2 class="section-title">📚 Catálogo de Livros</h2>
+            <p class="section-subtitle">
+                6 livros publicados, 2 em QA, planejamento para expansão
+            </p>
+
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 1: Turma da Aventura e a Máquina do Tempo</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span></p>
+                        <p style="margin-top: 0.5rem;">A origem da série. Will e seus amigos descobrem uma máquina do tempo e iniciam suas aventuras.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 2: Turma da Aventura e as Pirâmides do Tempo</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span></p>
+                        <p style="margin-top: 0.5rem;">Aventura no Egito Antigo explorando os mistérios das pirâmides.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 3: Uma Aventura em Roma</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span></p>
+                        <p style="margin-top: 0.5rem;">Viagem à Roma Antiga durante o auge do Império Romano.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 4: Mistério no Castelo Medieval</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span></p>
+                        <p style="margin-top: 0.5rem;">Aventura medieval com cavaleiros, castelos e mistérios.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 5: Enigma no Renascimento</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span></p>
+                        <p style="margin-top: 0.5rem;">Exploração da Era do Renascimento com arte e ciência.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 6: O Despertar dos Sonhos no Futuro</h4>
+                        <p><span class="badge badge-success">Publicado</span> <span class="badge badge-info">4 idiomas</span> <span class="badge badge-primary">Com ilustrações</span></p>
+                        <p style="margin-top: 0.5rem;">Primeiro livro com imagens internas. Aventura futurista.</p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 7: Os Ecos de Constantinopla</h4>
+                        <p><span class="badge badge-warning">Em QA</span> <span class="badge badge-info">Império Bizantino 537 CE</span></p>
+                        <p style="margin-top: 0.5rem;"><strong>Tema:</strong> Construção da Hagia Sophia, cristais atlantes. <strong>Nova personagem:</strong> Theodora (guardiã órfã). <strong>~35.000 palavras</strong></p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-content">
+                        <h4>Livro 8: Os Segredos das Pirâmides</h4>
+                        <p><span class="badge badge-warning">Em QA</span> <span class="badge badge-info">Egito Antigo 2560 BCE</span></p>
+                        <p style="margin-top: 0.5rem;"><strong>Tema:</strong> Tecnologia antiga das pirâmides. <strong>Novos personagens:</strong> Nadia, Khenti, O Primeiro. <strong>~38.024 palavras, 8 relatórios de validação</strong></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 2rem;">
+                <h4>📊 Estatísticas da Série</h4>
+                <div class="metrics-row">
+                    <div class="metric">
+                        <span class="metric-value">28</span>
+                        <span class="metric-label">Títulos Publicados<br>(7 livros × 4 idiomas)</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">35-50k</span>
+                        <span class="metric-label">Palavras por Livro</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">100+</span>
+                        <span class="metric-label">Páginas DOCX</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">4.5-5.0⭐</span>
+                        <span class="metric-label">Rating Médio</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="personagens">
+        <div class="container">
+            <h2 class="section-title">👥 Personagens Fixos</h2>
+            <p class="section-subtitle">
+                7 personagens principais que definem a identidade da série (NUNCA MODIFICAR)
+            </p>
+
+            <div class="personagens-grid">
+                <div class="personagem">
+                    <div class="personagem-icon">👦</div>
+                    <h4>Will (9 anos)</h4>
+                    <p><strong>Papel:</strong> Líder<br>
+                    <strong>Visual:</strong> Camiseta azul escuro, smartphone com Íris (IA)</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">👧</div>
+                    <h4>Mia (8 anos)</h4>
+                    <p><strong>Papel:</strong> Inventora<br>
+                    <strong>Visual:</strong> Camiseta roxa, cabelo ruivo em 2 coques, cinto de ferramentas</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">🧒</div>
+                    <h4>Leo (10 anos)</h4>
+                    <p><strong>Papel:</strong> Protetor atlético<br>
+                    <strong>Visual:</strong> Camiseta verde escuro, loiro, mochila</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">👧</div>
+                    <h4>Sophie (8 anos)</h4>
+                    <p><strong>Papel:</strong> Detetive<br>
+                    <strong>Visual:</strong> Vestido amarelo, cabelo em rabo lateral, caderninho</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">👶</div>
+                    <h4>Max (7 anos)</h4>
+                    <p><strong>Papel:</strong> Alívio cômico<br>
+                    <strong>Visual:</strong> Camiseta vermelha, cabelo cogumelo, pelúcia</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">🐕</div>
+                    <h4>Jimmy Hendrix</h4>
+                    <p><strong>Raça:</strong> Border Collie<br>
+                    <strong>Cor:</strong> Marrom e branco (NUNCA caramelo!)</p>
+                </div>
+
+                <div class="personagem">
+                    <div class="personagem-icon">🦹</div>
+                    <h4>Dr. Grimstone</h4>
+                    <p><strong>Papel:</strong> Vilão recorrente<br>
+                    <strong>Tom:</strong> Cômico, nunca assustador (obrigatório Livros 9+)</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="metricas">
+        <div class="container">
+            <h2 class="section-title">📊 Métricas e Performance</h2>
+            <p class="section-subtitle">
+                Dados reais de 26 meses de operação com crescimento orgânico
+            </p>
+
+            <div class="metrics-dashboard">
+                <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--primary);">Performance Comercial</h3>
+                <div class="metrics-row">
+                    <div class="metric">
+                        <span class="metric-value">331</span>
+                        <span class="metric-label">Unidades Vendidas</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">24,823</span>
+                        <span class="metric-label">Páginas KENP Lidas</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">$377</span>
+                        <span class="metric-label">Receita USD</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">R$434</span>
+                        <span class="metric-label">Receita BRL</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metrics-dashboard">
+                <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--primary);">Eficiência Operacional</h3>
+                <div class="metrics-row">
+                    <div class="metric">
+                        <span class="metric-value">95%</span>
+                        <span class="metric-label">Processo Automatizado</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">3h</span>
+                        <span class="metric-label">Tempo por Livro Completo</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">$10-25</span>
+                        <span class="metric-label">Custo por Livro</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">200x</span>
+                        <span class="metric-label">Mais Barato que Spines</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="metrics-dashboard">
+                <h3 style="text-align: center; margin-bottom: 1.5rem; color: var(--primary);">Alcance e Distribuição</h3>
+                <div class="metrics-row">
+                    <div class="metric">
+                        <span class="metric-value">10</span>
+                        <span class="metric-label">Países Ativos</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">4</span>
+                        <span class="metric-label">Idiomas</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">5</span>
+                        <span class="metric-label">Mercados Principais</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-value">$0</span>
+                        <span class="metric-label">Gasto em Marketing</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 2rem;">
+                <h4>🚀 Projeção de Crescimento</h4>
+                <p><strong>Potencial de Escala:</strong></p>
+                <ul>
+                    <li><strong>Atual:</strong> 1 conta KDP = 1.080 livros/ano</li>
+                    <li><strong>Com 10 contas:</strong> 10.800 livros/ano</li>
+                    <li><strong>Crescimento:</strong> Vendas triplicando mensalmente</li>
+                    <li><strong>Viralização potencial:</strong> Comparável à Spines ($16M+ valuation)</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="tecnologias">
+        <div class="container">
+            <h2 class="section-title">🛠️ Stack Tecnológico</h2>
+            <p class="section-subtitle">
+                Ferramentas e tecnologias que tornam a automação possível
+            </p>
+
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-icon">🤖</div>
+                    <h3>Inteligência Artificial</h3>
+                    <ul>
+                        <li><strong>Claude AI (Anthropic)</strong> - Geração de manuscritos épicos</li>
+                        <li><strong>Google Gemini</strong> - Ilustrações estilo Pixar</li>
+                        <li><strong>Google Translate</strong> - Tradução multilíngue gratuita</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">🐍</div>
+                    <h3>Linguagens e Frameworks</h3>
+                    <ul>
+                        <li><strong>Python 3.x</strong> - Scripts de automação</li>
+                        <li><strong>Markdown</strong> - Documentação</li>
+                        <li><strong>XML/DOCX</strong> - Formato de livros</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">📦</div>
+                    <h3>Bibliotecas Python</h3>
+                    <ul>
+                        <li><strong>python-docx</strong> - Manipulação DOCX</li>
+                        <li><strong>deep-translator</strong> - Tradução gratuita</li>
+                        <li><strong>ebooklib</strong> - Manipulação EPUB</li>
+                        <li><strong>lxml</strong> - Processamento XML</li>
+                        <li><strong>beautifulsoup4</strong> - Parsing HTML</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">🔧</div>
+                    <h3>Ferramentas Externas</h3>
+                    <ul>
+                        <li><strong>LibreOffice Writer</strong> - Exportação EPUB (crítico)</li>
+                        <li><strong>Amazon KDP</strong> - Plataforma de publicação</li>
+                        <li><strong>Serena AI</strong> - Assistente de projeto</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">📁</div>
+                    <h3>Estrutura de Scripts</h3>
+                    <ul>
+                        <li><strong>1-MANUSCRITO/</strong> - 3 scripts de conversão</li>
+                        <li><strong>2-TRADUCAO/</strong> - 7 scripts (sistema crítico)</li>
+                        <li><strong>3-FORMATACAO-KDP/</strong> - 5 scripts</li>
+                        <li><strong>4-ANALISE/</strong> - 5 scripts</li>
+                        <li><strong>5-MARKETING-RESEARCH/</strong> - 6 scripts</li>
+                        <li><strong>6-GERACAO-IMAGENS/</strong> - 1 script</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <div class="card-icon">📋</div>
+                    <h3>Sistema de QA</h3>
+                    <ul>
+                        <li>VALIDACAO_ESTRUTURA_NARRATIVA.md</li>
+                        <li>VALIDACAO_CULTURAL_HISTORICA.md</li>
+                        <li>REVISAO_IDADE_APROPRIACAO.md</li>
+                        <li>RELATORIO_CONSISTENCIA.md</li>
+                        <li>POLIMENTO_FINAL.md</li>
+                        <li>MANUSCRITO_FINAL_INFO.md</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="investidores">
+        <div class="container">
+            <h2 class="section-title">💼 Oportunidade de Investimento</h2>
+            <p class="section-subtitle">
+                Comparação direta com Spines ($16M funding) - mesma tecnologia, custo 200x menor
+            </p>
+
+            <div class="cards-grid">
+                <div class="card">
+                    <h3 style="color: var(--primary);">🎯 Por Que Investir?</h3>
+                    <ul style="margin-top: 1rem;">
+                        <li><strong>Tração comprovada:</strong> 331 vendas com $0 marketing</li>
+                        <li><strong>Tecnologia superior:</strong> Claude > GPT (Spines usa GPT)</li>
+                        <li><strong>Custo disruptivo:</strong> $25 vs $5.000 da Spines</li>
+                        <li><strong>Mercado validado:</strong> Spines levantou $16M</li>
+                        <li><strong>Escalabilidade:</strong> 10.800 livros/ano possíveis</li>
+                        <li><strong>Crescimento orgânico:</strong> Triplicando mensalmente</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3 style="color: var(--secondary);">📊 NÓS vs Spines</h3>
+                    <table style="width: 100%; margin-top: 1rem; font-size: 0.9rem;">
+                        <tr>
+                            <td><strong>Custo/Livro:</strong></td>
+                            <td style="color: var(--success); font-weight: bold;">$10-25</td>
+                            <td style="opacity: 0.6;">$1.200-$5.000</td>
+                        </tr>
+                        <tr>
+                            <td><strong>IA:</strong></td>
+                            <td style="color: var(--success); font-weight: bold;">Claude (superior)</td>
+                            <td style="opacity: 0.6;">GPT</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tempo:</strong></td>
+                            <td style="color: var(--success); font-weight: bold;">3 horas</td>
+                            <td style="opacity: 0.6;">Semanas</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Automação:</strong></td>
+                            <td style="color: var(--success); font-weight: bold;">95%</td>
+                            <td style="opacity: 0.6;">Não divulgado</td>
+                        </tr>
+                        <tr>
+                            <td><strong>Tração:</strong></td>
+                            <td style="color: var(--success); font-weight: bold;">331 vendas</td>
+                            <td style="opacity: 0.6;">$16M funding</td>
+                        </tr>
+                    </table>
+                </div>
+
+                <div class="card">
+                    <h3 style="color: var(--accent);">💰 Opções de Investimento</h3>
+                    <div style="margin-top: 1rem;">
+                        <p><strong>1. SEED Round</strong></p>
+                        <p style="font-size: 0.9rem; margin: 0.5rem 0;">Para escalar operações e marketing</p>
+
+                        <p style="margin-top: 1rem;"><strong>2. GROWTH Round</strong></p>
+                        <p style="font-size: 0.9rem; margin: 0.5rem 0;">Expansão para novos mercados e idiomas</p>
+
+                        <p style="margin-top: 1rem;"><strong>3. REVENUE SHARE</strong></p>
+                        <p style="font-size: 0.9rem; margin: 0.5rem 0;">Participação nas receitas futuras</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="highlight-box" style="margin-top: 2rem;">
+                <h4>📄 Materiais Disponíveis para Investidores</h4>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">
+                    <div>
+                        <p><strong>📊 One-Pager</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Comparação NÓS vs Spines</p>
+                    </div>
+                    <div>
+                        <p><strong>📧 Email Template</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Primeiro contato investidores</p>
+                    </div>
+                    <div>
+                        <p><strong>📝 Investor Memo</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Análise completa (9 páginas)</p>
+                    </div>
+                    <div>
+                        <p><strong>🎤 Talking Points</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Script para reuniões</p>
+                    </div>
+                    <div>
+                        <p><strong>🎯 Pitch Decks</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Apresentações visuais (PDF)</p>
+                    </div>
+                    <div>
+                        <p><strong>✅ Validações</strong></p>
+                        <p style="font-size: 0.85rem; opacity: 0.8;">Dados verificados</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>📚 Projeto Bizantino</h3>
+                    <p style="opacity: 0.8; margin-top: 0.5rem;">
+                        Sistema automatizado de publicação de livros infantis com IA.
+                        Criando histórias épicas para crianças de 8-12 anos.
+                    </p>
+                </div>
+
+                <div class="footer-section">
+                    <h3>🔗 Links Rápidos</h3>
+                    <ul>
+                        <li>Turma da Aventura - Série Principal</li>
+                        <li>Amazon KDP - Plataforma de Publicação</li>
+                        <li>Claude AI - Narrativa</li>
+                        <li>Google Gemini - Ilustrações</li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>📊 Estatísticas</h3>
+                    <ul>
+                        <li>6 Livros Publicados</li>
+                        <li>2 Livros em QA</li>
+                        <li>28 Títulos (4 idiomas)</li>
+                        <li>10 Países Ativos</li>
+                        <li>331 Vendas Totais</li>
+                    </ul>
+                </div>
+
+                <div class="footer-section">
+                    <h3>🛠️ Tecnologias</h3>
+                    <ul>
+                        <li>Claude AI (Anthropic)</li>
+                        <li>Google Gemini</li>
+                        <li>Python 3.x</li>
+                        <li>Amazon KDP</li>
+                        <li>LibreOffice</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <p>© 2026 Projeto Bizantino - Turma da Aventura | Localização: D:\TRAE-PROJETOS\livro1\BIZANTINO</p>
+                <p style="margin-top: 0.5rem;">Mapeamento gerado em 2026-01-10 por Claude Code (Anthropic)</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scroll para links de navegação
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Animação ao scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.card, .system-card, .personagem, .timeline-item').forEach(el => {
+            el.style.opacity = '0';
+            el.style.transform = 'translateY(20px)';
+            el.style.transition = 'opacity 0.6s ease-out, transform 0.6s ease-out';
+            observer.observe(el);
+        });
+    </script>
+</body>
+</html>

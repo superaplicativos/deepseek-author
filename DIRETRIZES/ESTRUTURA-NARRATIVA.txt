@@ -1,0 +1,501 @@
+════════════════════════════════════════════════════════════════════════════════
+ ESTRUTURA NARRATIVA DE 5 ATOS
+ Template Obrigatório para Todos os Livros
+ Aplicável a TODAS as séries Turma da Aventura
+════════════════════════════════════════════════════════════════════════════════
+
+PROPÓSITO DESTE DOCUMENTO:
+Garantir que cada livro siga estrutura narrativa comprovada que mantém leitores
+engajados do início ao fim, com ritmo adequado e satisfação emocional.
+
+FILOSOFIA:
+"Estrutura não limita criatividade - liberta o escritor para focar em
+personagens e aventura dentro de framework sólido."
+
+════════════════════════════════════════════════════════════════════════════════
+VISÃO GERAL DA ESTRUTURA
+════════════════════════════════════════════════════════════════════════════════
+
+Todo livro da Turma da Aventura DEVE seguir esta estrutura de 5 atos:
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ATO 1: INTRODUÇÃO (15-20%)                                                  │
+│ Hook → Apresentação do problema → Estabelecimento do mundo                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ATO 2: EXPLORAÇÃO (30-35%)                                                  │
+│ Investigação → Descoberta de pistas → Tensão crescente                      │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ATO 3: CONFLITO PRINCIPAL (20-25%)                                          │
+│ Tensão no pico → Stakes claros → Momento de dúvida                          │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ATO 4: RESOLUÇÃO CRIATIVA (15-20%)                                          │
+│ Solução via trabalho em equipe → Cada personagem contribui → Clímax        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ ATO 5: ENCERRAMENTO (10-15%)                                                │
+│ Lição aprendida → Momento de coração → Hook sutil para próximo livro       │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+COMPRIMENTO TOTAL ALVO: 35.000-50.000 palavras
+CAPÍTULOS: 10-15 (3.000-4.000 palavras cada)
+PÁGINAS DOCX: 100-150 páginas
+
+════════════════════════════════════════════════════════════════════════════════
+ATO 1: INTRODUÇÃO (15-20% do total)
+════════════════════════════════════════════════════════════════════════════════
+
+PERCENTUAL ALVO: 15-20%
+CAPÍTULOS: Geralmente 1-2
+PALAVRAS: 6.000-10.000 (em livro de 40.000 palavras)
+
+────────────────────────────────────────────────────────────────────────────────
+ELEMENTOS OBRIGATÓRIOS:
+────────────────────────────────────────────────────────────────────────────────
+
+1. HOOK IMEDIATO (primeiras 3 páginas):
+   - Algo intrigante acontece
+   - Pergunta que precisa ser respondida
+   - Situação incomum que desperta curiosidade
+   - NÃO começar com acordar, ir para escola, dia normal
+
+   ✅ BOM: "O relógio começou a andar para trás exatamente à meia-noite."
+   ❌ RUIM: "Will acordou numa manhã de terça-feira como qualquer outra."
+
+2. APRESENTAÇÃO DO PROBLEMA/MISTÉRIO:
+   - O que a turma precisa resolver?
+   - Por que isso importa?
+   - Qual é o desafio inicial?
+
+3. DESCRIÇÃO VISUAL COMPLETA DE TODOS OS PERSONAGENS (Capítulo 1):
+   - OBRIGATÓRIO: Parágrafo descritivo com TODOS os 6 personagens + Jimmy
+   - Mencionar idades naturalmente
+   - Mostrar props característicos (smartphone, cinto, mochila, bloco, etc.)
+   - Ver exemplo em PERSONAGENS-FIXOS.txt
+
+4. ESTABELECIMENTO DO SETTING:
+   - Onde estamos? (época, lugar)
+   - Qual é o mundo desta aventura?
+   - Regras do mundo (se fantástico/sci-fi)
+
+5. ÍRIS AI INTRODUZIDA:
+   - Will usando smartphone
+   - Íris fazendo análise inicial
+   - Estabelecer tecnologia como ferramenta
+
+6. JIMMY HENDRIX PERCEBE ALGO:
+   - Mostrar inteligência canina desde o início
+   - Jimmy nota detalhe que humanos perdem
+
+7. TOM: Intrigante, estabelece maravilha
+
+────────────────────────────────────────────────────────────────────────────────
+ESTRUTURA DE CAPÍTULOS NO ATO 1:
+────────────────────────────────────────────────────────────────────────────────
+
+CAPÍTULO 1 (3.000-4.000 palavras):
+- Primeiras 3 páginas: Hook forte
+- Páginas 4-8: Descrição completa dos personagens
+- Páginas 9-12: Apresentação do mistério/problema
+- Última página: Cliffhanger que leva ao Cap 2
+
+CAPÍTULO 2 (se houver no Ato 1) (3.000-3.500 palavras):
+- Aprofundamento do mistério
+- Decisão de investigar/aceitar missão
+- Íris fornecendo dados iniciais
+- Cada personagem reagindo ao desafio
+- Cliffhanger forte (descoberta inicial OU perigo aparece)
+
+────────────────────────────────────────────────────────────────────────────────
+EXEMPLO DE ABERTURA (Ato 1):
+────────────────────────────────────────────────────────────────────────────────
+
+[HOOK - primeiras linhas]
+"O cristal não deveria estar brilhando. Artefatos de três mil anos não pulsam
+com luz azul em museus modernos. Mas ali estava ele, vibrando suavemente na
+vitrine, como se estivesse... chamando.
+
+Will sentiu o smartphone esquentar em sua mão."
+
+[Continua com descrição dos personagens, depois revelação do mistério...]
+
+════════════════════════════════════════════════════════════════════════════════
+ATO 2: EXPLORAÇÃO (30-35% do total)
+════════════════════════════════════════════════════════════════════════════════
+
+PERCENTUAL ALVO: 30-35%
+CAPÍTULOS: Geralmente 3-5
+PALAVRAS: 12.000-14.000 (em livro de 40.000 palavras)
+
+────────────────────────────────────────────────────────────────────────────────
+ELEMENTOS OBRIGATÓRIOS:
+────────────────────────────────────────────────────────────────────────────────
+
+1. INVESTIGAÇÃO DO MISTÉRIO:
+   - Turma reúne pistas
+   - Cada descoberta levanta nova pergunta
+   - Progresso gradual mas constante
+
+2. CADA PERSONAGEM CONTRIBUI COM HABILIDADE ÚNICA:
+   - Will: Liderança, coordenação, uso de Íris
+   - Mia: Invenção/conserto de dispositivo
+   - Leo: Ação física, proteção
+   - Sophie: Observação de detalhe crucial
+   - Max: Perspectiva animal/emocional
+   - Jimmy: Farejar pista importante
+
+3. DR. GRIMSTONE APARECE PELA 1ª VEZ (geralmente Cap 3-4):
+   - Apresenta invenção ridícula
+   - Declara catchphrase
+   - Morty reclama
+   - Primeira falha pequena
+   - Tom 100% cômico
+
+4. WORLDBUILDING DETALHADO:
+   - Descrições sensoriais ricas (5 sentidos)
+   - Se histórico: cultura, arquitetura, tecnologia da época
+   - Se fantástico: regras do mundo mágico/sci-fi
+   - Tornar setting vivo e respirável
+
+5. DESCOBERTA DE PISTAS:
+   - Mínimo 3-5 pistas importantes
+   - Algumas são red herrings (pistas falsas)
+   - Pistas conectam-se gradualmente
+
+6. CLIFFHANGERS CRESCENTES:
+   - Cada capítulo termina com gancho mais forte
+   - Leitor quer virar página
+
+7. SUBPLOTS DE PERSONAGENS COMEÇAM:
+   - Ex: Leo confrontando medo de escuro
+   - Ex: Mia tendo ideia para invenção crucial
+
+8. TOM: Curiosidade, descoberta, tensão crescente
+
+────────────────────────────────────────────────────────────────────────────────
+RITMO DO ATO 2:
+────────────────────────────────────────────────────────────────────────────────
+
+CAPÍTULO 3: Primeira investigação séria
+CAPÍTULO 4: Dr. Grimstone (1ª aparição) + descoberta importante
+CAPÍTULO 5: Tensão aumenta, stakes ficam mais claros
+(Se houver Cap 6-7 no Ato 2: continuar escalada gradual)
+
+CADA CAPÍTULO:
+- Abre com pequeno recap emocional (não factual)
+- Progride investigação
+- Momento de cada personagem
+- Fecha com cliffhanger
+
+════════════════════════════════════════════════════════════════════════════════
+ATO 3: CONFLITO PRINCIPAL (20-25% do total)
+════════════════════════════════════════════════════════════════════════════════
+
+PERCENTUAL ALVO: 20-25%
+CAPÍTULOS: Geralmente 6-7 (2 capítulos)
+PALAVRAS: 8.000-10.000 (em livro de 40.000 palavras)
+
+────────────────────────────────────────────────────────────────────────────────
+ELEMENTOS OBRIGATÓRIOS:
+────────────────────────────────────────────────────────────────────────────────
+
+1. TENSÃO NO PICO:
+   - Momento mais intenso do livro
+   - Relógio correndo (deadline)
+   - Obstáculos parecem insuperáveis
+
+2. VILÃO EM AÇÃO MÁXIMA:
+   - Se houver vilão além de Grimstone: aqui é o confronto
+   - Se só Grimstone: 2ª aparição com falha espetacular
+
+3. DR. GRIMSTONE 2ª APARIÇÃO (Cap 6-7):
+   - Interfere SEM QUERER na ação principal
+   - Atrapalha vilão OU ajuda turma acidentalmente
+   - Invenção falha hilariamente (slapstick)
+   - Morty: comentário sarcástico
+   - Grimstone foge/é expulso
+
+4. STAKES FICAM CLAROS E ALTOS:
+   - Consequência de falha está evidente
+   - Leitor entende por que isso importa
+   - Emocional, não apenas factual
+
+5. MOMENTO DE DÚVIDA/MEDO DOS PERSONAGENS:
+   - Turma questiona se conseguirão
+   - Momento vulnerável mas não derrotista
+   - Amizade os levanta novamente
+
+6. LEO CONFRONTA SEU MEDO (em ~30% dos livros):
+   - Se relevante para plot: escuridão total
+   - Momento de crescimento pessoal
+
+7. JIMMY HENDRIX SALVA SITUAÇÃO CRITICAMENTE:
+   - Ação canina heroica
+   - Não apenas latir - ação física importante
+
+8. TOM: Intenso, emocional, urgente
+
+────────────────────────────────────────────────────────────────────────────────
+ESTRUTURA DO ATO 3:
+────────────────────────────────────────────────────────────────────────────────
+
+INÍCIO DO ATO 3:
+Revelação que aumenta stakes ("Se não agirmos agora...")
+
+MEIO DO ATO 3:
+Tentativa de solução que falha ou complica situação
+
+FINAL DO ATO 3:
+Momento de maior dúvida → TRANSIÇÃO para Ato 4 quando têm insight
+
+════════════════════════════════════════════════════════════════════════════════
+ATO 4: RESOLUÇÃO CRIATIVA (15-20% do total)
+════════════════════════════════════════════════════════════════════════════════
+
+PERCENTUAL ALVO: 15-20%
+CAPÍTULOS: Geralmente 8-9 (2 capítulos)
+PALAVRAS: 6.000-8.000 (em livro de 40.000 palavras)
+
+────────────────────────────────────────────────────────────────────────────────
+ELEMENTOS OBRIGATÓRIOS:
+────────────────────────────────────────────────────────────────────────────────
+
+1. SOLUÇÃO ENCONTRADA ATRAVÉS DE TRABALHO EM EQUIPE:
+   - NUNCA um personagem sozinho salva o dia
+   - Cada um contribui com habilidade única
+   - Colaboração é chave do sucesso
+
+2. CONTRIBUIÇÕES ESPECÍFICAS (TODOS DEVEM PARTICIPAR):
+   - Will: Coordena plano final, lidera execução
+   - Mia: Cria/conserta dispositivo crucial
+   - Sophie: Conecta pistas dispersas (momento "aha!")
+   - Max: Fornece perspectiva emocional/animal inesperada
+   - Leo: Executa ação física corajosa
+   - Jimmy: Participa ativamente da solução
+
+3. ÍRIS AI FORNECE INSIGHT TÉCNICO CRUCIAL:
+   - Dados que humanos não teriam
+   - Cálculo preciso
+   - Análise que revela solução
+
+4. MOMENTO "AHA!" SATISFATÓRIO:
+   - Leitor pode acompanhar a lógica
+   - Não é deus ex machina (solução do nada)
+   - Pistas do Ato 2 se conectam
+   - "Ah, faz sentido!"
+
+5. CLÍMAX EMOCIONANTE:
+   - Execução do plano
+   - Tensão até último segundo
+   - Vitória conquistada, não dada
+
+6. TOM: Triunfo, satisfação, emoção positiva
+
+────────────────────────────────────────────────────────────────────────────────
+ESTRUTURA DO ATO 4:
+────────────────────────────────────────────────────────────────────────────────
+
+CAPÍTULO 8:
+- Insight inicial ("Espera... e se...?")
+- Planejamento da solução
+- Montagem/preparação (pode ser quick montage)
+- Início da execução
+
+CAPÍTULO 9:
+- Execução do plano
+- Complicação de última hora
+- Cada personagem fazendo sua parte
+- CLÍMAX: Sucesso!
+
+════════════════════════════════════════════════════════════════════════════════
+ATO 5: ENCERRAMENTO (10-15% do total)
+════════════════════════════════════════════════════════════════════════════════
+
+PERCENTUAL ALVO: 10-15%
+CAPÍTULOS: Geralmente 9-10, ou só 10 (1 capítulo)
+PALAVRAS: 4.000-6.000 (em livro de 40.000 palavras)
+
+────────────────────────────────────────────────────────────────────────────────
+ELEMENTOS OBRIGATÓRIOS:
+────────────────────────────────────────────────────────────────────────────────
+
+1. LIÇÃO APRENDIDA (sutil, NÃO preachy):
+   - Tema do livro refletido naturalmente
+   - Personagem menciona crescimento brevemente
+   - Evitar "moral da história" explícita
+
+   ✅ BOM: "Will percebeu que até a tecnologia mais avançada não substitui
+          olhar nos olhos de um amigo."
+
+   ❌ RUIM: "E assim eles aprenderam que amizade é mais importante que qualquer
+           coisa e que devemos sempre trabalhar em equipe porque sozinhos
+           não conseguimos nada."
+
+2. DESPEDIDA DE PERSONAGENS SECUNDÁRIOS (se houver):
+   - Se fizeram amigos no passado/lugar: despedida emocional mas breve
+   - Promessa de lembrar
+   - Presente simbólico (opcional)
+
+3. MOMENTO DE AMIZADE/CORAÇÃO:
+   - Turma reflete sobre aventura juntos
+   - Expressão de apreço (ações > palavras)
+   - Reafirmação de amizade
+   - Ver exemplos em ESTILO-SPIELBERG.txt
+
+4. REFLEXÃO SOBRE AVENTURA:
+   - O que aprenderam (sobre história, ciência, mundo)
+   - Como cresceram
+   - Momento de admiração pelo que viveram
+
+5. HOOK PARA PRÓXIMO LIVRO (sutil, 1-2 parágrafos):
+   - NÃO cliffhanger frustrante
+   - Teaser intrigante
+   - Algo que desperta curiosidade sem deixar leitor insatisfeito
+
+   ✅ BOM: "Quando chegaram em casa, Will notou uma mensagem estranha no
+          smartphone. Coordenadas. Uma data: 1503. E uma palavra: 'Mona Lisa'."
+
+   ❌ RUIM: "De repente, o chão começou a tremer e tudo ficou escuro! [FIM]"
+          (Isso frustra - não é hook, é cliffhanger injusto)
+
+6. EPÍLOGO (OPCIONAL):
+   - Mostrar impacto da aventura
+   - 1-3 parágrafos
+   - Zoom out mostrando consequência positiva
+
+7. TOM: Caloroso, esperançoso, satisfatório
+
+────────────────────────────────────────────────────────────────────────────────
+ESTRUTURA DO ATO 5:
+────────────────────────────────────────────────────────────────────────────────
+
+CAPÍTULO 10 (ou final):
+- Abertura: Respirar após vitória
+- Meio: Despedidas (se houver), reflexão
+- Momento de coração (ver ESTILO-SPIELBERG.txt)
+- Hook sutil para próxima aventura
+- Encerramento satisfatório
+- (Opcional) Epílogo breve
+
+════════════════════════════════════════════════════════════════════════════════
+TABELA DE CÁLCULO DE PERCENTUAIS
+════════════════════════════════════════════════════════════════════════════════
+
+Para livro de 40.000 palavras (padrão):
+
+┌──────┬──────────────┬────────────┬────────────┬───────────────┐
+│ ATO  │ PERCENTUAL   │ PALAVRAS   │ CAPÍTULOS  │ PALAVRAS/CAP  │
+├──────┼──────────────┼────────────┼────────────┼───────────────┤
+│ 1    │ 15-20%       │ 6k-8k      │ 1-2        │ 3.000-4.000   │
+│ 2    │ 30-35%       │ 12k-14k    │ 3-5        │ 3.000-4.000   │
+│ 3    │ 20-25%       │ 8k-10k     │ 6-7 (2)    │ 3.000-4.000   │
+│ 4    │ 15-20%       │ 6k-8k      │ 8-9 (2)    │ 3.000-4.000   │
+│ 5    │ 10-15%       │ 4k-6k      │ 9-10 (1)   │ 4.000-6.000   │
+├──────┼──────────────┼────────────┼────────────┼───────────────┤
+│ TOTAL│ 100%         │ 40k        │ 10-12      │ Média 3.500   │
+└──────┴──────────────┴────────────┴────────────┴───────────────┘
+
+COMO CALCULAR PARA SEU LIVRO:
+
+1. Definir target total: ______ palavras
+
+2. Calcular por ato:
+   Ato 1 (17.5% médio): Total × 0.175 = ______ palavras
+   Ato 2 (32.5% médio): Total × 0.325 = ______ palavras
+   Ato 3 (22.5% médio): Total × 0.225 = ______ palavras
+   Ato 4 (17.5% médio): Total × 0.175 = ______ palavras
+   Ato 5 (12.5% médio): Total × 0.125 = ______ palavras
+
+3. Dividir por capítulos (3.000-4.000 palavras cada)
+
+4. Ajustar conforme necessário (mas manter proporções próximas)
+
+════════════════════════════════════════════════════════════════════════════════
+COMO VERIFICAR ESTRUTURA APÓS ESCREVER
+════════════════════════════════════════════════════════════════════════════════
+
+COMANDO (bash/terminal):
+```bash
+# Contar palavras total
+wc -w manuscrito.txt
+
+# Contar capítulos
+grep -c "CAPÍTULO" manuscrito.txt
+```
+
+VALIDAÇÃO MANUAL:
+
+1. Identificar onde cada ato termina no manuscrito
+2. Contar palavras de cada ato (seleção no editor + word count)
+3. Calcular percentuais:
+   (Palavras do Ato / Palavras Totais) × 100 = _____%
+
+4. Comparar com alvos:
+   Ato 1: ____% (alvo: 15-20%)
+   Ato 2: ____% (alvo: 30-35%)
+   Ato 3: ____% (alvo: 20-25%)
+   Ato 4: ____% (alvo: 15-20%)
+   Ato 5: ____% (alvo: 10-15%)
+
+5. Se algum ato estiver muito fora:
+   - Expandir ou condensar conforme necessário
+   - Manter qualidade (não encher linguiça!)
+
+════════════════════════════════════════════════════════════════════════════════
+CHECKLIST DE ESTRUTURA NARRATIVA
+════════════════════════════════════════════════════════════════════════════════
+
+Antes de finalizar manuscrito:
+
+ATO 1:
+[ ] Hook nas primeiras 3 páginas
+[ ] Descrição visual completa de TODOS personagens (Cap 1)
+[ ] Idades mencionadas naturalmente
+[ ] Mistério/problema apresentado claramente
+[ ] Setting estabelecido
+[ ] 15-20% do total de palavras
+
+ATO 2:
+[ ] Investigação progride com pistas
+[ ] Dr. Grimstone aparece (1ª vez)
+[ ] Cada personagem contribui
+[ ] Worldbuilding rico e sensorial
+[ ] Tensão crescente
+[ ] Cliffhangers efetivos
+[ ] 30-35% do total de palavras
+
+ATO 3:
+[ ] Tensão no pico
+[ ] Stakes claros
+[ ] Dr. Grimstone aparece (2ª vez) e falha hilariamente
+[ ] Momento de dúvida/medo
+[ ] Jimmy salva situação
+[ ] 20-25% do total de palavras
+
+ATO 4:
+[ ] Solução via TRABALHO EM EQUIPE
+[ ] Todos os 6 personagens + Jimmy contribuem
+[ ] Momento "aha!" satisfatório
+[ ] Íris AI fornece insight crucial
+[ ] Clímax emocionante
+[ ] 15-20% do total de palavras
+
+ATO 5:
+[ ] Lição aprendida (sutil)
+[ ] Momento de coração/amizade
+[ ] Despedidas (se aplicável)
+[ ] Reflexão sobre aventura
+[ ] Hook sutil para próximo livro
+[ ] Encerramento satisfatório
+[ ] 10-15% do total de palavras
+
+GERAL:
+[ ] Total: 35.000-50.000 palavras
+[ ] 10-15 capítulos
+[ ] Cada capítulo: 3.000-4.000 palavras
+[ ] Todos os atos balanceados dentro dos percentuais
+
+════════════════════════════════════════════════════════════════════════════════
+
+ÚLTIMA ATUALIZAÇÃO: 2026-01-10
+Este arquivo é OBRIGATÓRIO e aplica-se a TODAS as séries da Turma da Aventura.
+
+════════════════════════════════════════════════════════════════════════════════

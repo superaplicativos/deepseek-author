@@ -1,0 +1,109 @@
+Turma da Aventura: Nova Geração — Livro 4
+Título: Mistério do Triângulo das Bermudas
+
+Objetivo
+Gerar um romance completo (10 capítulos, 3 cenas por capítulo) com estilo cinematográfico, mantendo regras rígidas de “mostrar, não contar”, todos os 7 personagens ativos, humor orgânico e ganchos em cada capítulo.
+
+Gênero e Tom
+- Aventura infantil/juvenil (8–12 anos), suspense/mistério marítimo.
+- Cinematográfico “Spielbergiano”: descrições visuais ricas, emoção genuína, ritmo variado.
+
+Estilo Global (Guia/Guardrails)
+- Mostrar sempre em tempo real; nunca resumir eventos.
+- Descrições sensoriais (luz, sombra, sons, cores, texturas) e “movimentos de câmera” imaginários.
+- Diálogos extensos e naturais; cada personagem com voz própria.
+- Usar poderes criativamente, sempre com limitações e consequências (cansaço, dor, erros).
+- Humor orgânico distribuído; momentos emocionais autênticos.
+- Ambiente interativo: oceano, navios, portais, tecnologia e criaturas participam ativamente da ação.
+- Final de cada capítulo com gancho dramático.
+- Evitar platitudes, clichês e generalidades; escrever de modo específico e concreto.
+
+Estrutura (por cena)
+- Abertura Cinematográfica (≈200+ palavras): posicionamento espacial, atmosfera, detalhes visuais.
+- Desenvolvimento de Ação e Diálogo (≈600+ palavras): uso de poderes, conflito, hipóteses, humor.
+- Progressão do Plot (≈400+ palavras): revelação/decisão, preparo para próxima cena, cliffhanger.
+
+Metas de Extensão
+- Capítulo: 3.500+ palavras (meta).
+- Cena: 1.200+ palavras (meta). Se gerar menos, expandir.
+
+Personagens (resumo útil)
+- Will (9): Líder. Campo de energia cinética (escudos, manipula movimento). Limite: cansaço extremo.
+- Mia (8): Inventora. Tecnomorfose (entende/funde tecnologias). Limite: precisa de tech existente.
+- Leo (10): Atleta. Supercorpo adaptativo (força, velocidade, defesa). Limite: dor/exaustão.
+- Sophie (8): Detetive. Mente quântica (análise, probabilidades, memória). Limite: enxaquecas.
+- Max (7): Empatia animal. Coordena e sente animais. Limite: sente dor deles.
+- Jimmy (cão): Inteligência desperta. Fala (para equipe), sentidos apurados. Limite: corpo de cachorro.
+- Íris (IA): Consciência digital. Hackeia, hologramas, dados. Limite: vulnerável a vírus digitais.
+
+Proibições
+- Não resumir (“eles lutaram”, “passou o tempo”).
+- Não pular transições de tempo/ação.
+- Não usar termos genéricos (“batalha épica aconteceu”, etc.).
+- Não esquecer limitações dos poderes.
+- Não resolver conflitos de forma fácil.
+
+Livro 4 — Outline de Capítulos (3 cenas cada)
+Capítulo 1: O Portal Dimensional
+1) Anomalia Detectada: base à noite; Íris detecta padrão temporal no Triângulo; Sophie analisa; Will convoca missão; Mia inicia gadgets aquáticos; humor Max/Jimmy; gancho: holograma de portal.
+2) Chegada ao Oceano: barco no Atlântico; névoa estranha; distorção espacial; medições; vórtice se forma; gancho: barco é sugado.
+3) Dentro da Anomalia: dimensão de bolso; física estranha; destroços de eras distintas; navio fantasma surge; gancho: canhões disparam.
+
+Capítulo 2: Náufragos Fantasmas
+1) Encontro com o Almirante: Will escuda; Leo salva; tripulação captura; Almirante fantasma explica maldição; Max fala com papagaio; gancho: exige ajuda.
+2) Investigação dos Náufragos: diários antigos; Íris traduz; Mia analisa instrumentos; Leo acha prisioneiros de épocas; Jimmy suspeita; gancho: Sophie descobre que Almirante aprisiona intencionalmente.
+3) Fuga do Navio: combate com poderes e gadgets; distração com animais; humor Jimmy; escape ao mar; gancho: tempestade sobrenatural.
+
+Capítulo 3: Tempestade Misteriosa
+1) Fúria dos Elementos: ondas gigantes; Will cria bolhas; Mia constrói gadget de sobrevivência; Sophie calcula rota; Max pede ajuda à baleia; gancho: destroços modernos.
+2) Refúgio Temporário: ilha de destroços; descanso emocional; Mia ergue abrigo; ciclos temporais; híbridos animais; gancho: Íris detecta centro do portal.
+3) Plano de Escape: plano quântico; rota sobreposta; dispositivo de ancoragem de Mia; Will delega; Leo assume risco; humor Jimmy vs papagaio; gancho: navio do Almirante se aproxima.
+
+Capítulo 4: Dimensão Paralela
+1) Mergulho no Vórtice: realidades alternativas; enxaqueca de Sophie; visões emocionais de cada um; gancho: colapso do portal.
+2) Labirinto Temporal: geometria impossível; prisioneiros de linhas temporais; Mia funde tecnologias; Leo enfrenta duplicata; Will lidera escolhas; gancho: Almirante quer fundir realidades.
+3) Verdade Revelada: Almirante era cientista impostor; captura energia vital; plano de fechamento; dilema moral; gancho: invasão do Almirante.
+
+Capítulo 5: Mistério dos Relógios
+1) Enigmas Temporais: câmara de relógios; sincronizações; Will “congela” tempo local; gancho: um relógio zera uma linha temporal.
+2) Corrida Contra o Tempo: equipe divide câmaras; versões jovens de si; humor Max com Max bebê; insight: tempo emocional; gancho: alarme simultâneo.
+3) Sincronização: ação em uníssono (combo); Sophie coordena timing; Íris calcula; gancho: portal colapsa e Almirante surge furioso.
+
+Capítulo 6: Batalha Naval
+1) Confronto nas Águas: frota fantasma; escudos, sabotagens, tsunami animal; gancho: Kraken dimensional.
+2) Poderes Aquáticos: bolhas de ar; brânquias temporárias; pontos fracos; humor Jimmy morde tentáculo; gancho: Kraken é guardião aprisionado.
+3) Aliança Inesperada: interior bioluminescente; Max sente dor do Kraken; libertação; Kraken aliado; gancho: ataque à frota do Almirante.
+
+Capítulo 7: Retorno ao Presente
+1) Busca pela Saída: múltiplos portais; assinaturas temporais; decisão de Will; gancho: portal correto prestes a fechar.
+2) Despedidas Dimensionais: aliados de outras realidades; perdas e aprendizados; Íris derrama “lágrima digital”; gancho: última tentativa do Almirante.
+3) Salto de Fé: confronto final rápido; campo gigante de Will; salto conjunto; flashes das aventuras; emergem no oceano; gancho: algo diferente.
+
+Capítulo 8: Segredo dos Náufragos
+1) Retorno Estranho: presente com defasagem de dias; artefato brilha; cicatrizes na realidade; gancho: mapa antigo.
+2) Investigação Final: diário revela impostor; verdadeiro capitão preso; debate ético; decisão de resgate; gancho: portal reabre brevemente.
+3) Resgate Impossível: missão cirúrgica; Leo salva capitão; aviso de ameaça maior; gancho: portal fecha e deixa sinal.
+
+Capítulo 9: Nova Ameaça
+1) Sinais Perturbadores: anomalias globais; padrões; tech dimensional com propósito sinistro; gancho: Almirante era peão.
+2) Preparação: treinamento intensivo; novos protocolos; arsenal de gadgets; gancho: portal em local inesperado.
+3) União do Grupo: reflexões pessoais; amizade vencedora; Íris chama equipe de “família”; gancho: sirene para próxima missão.
+
+Capítulo 10: Oceano em Paz
+1) Fechamento dos Portais: operação global; rede de monitoramento; mascote Jimmy; gancho: “eco” dimensional.
+2) Reconhecimento e Reflexão: honras; responsabilidade; convites; Max porta-voz marinho; gancho: Sophie percebe padrão oculto.
+3) Epílogo com Gancho: paz aparente; sombra de ameaça maior (setup próximo livro); promessa de proteger realidades.
+
+Template de Beat (use em cada cena)
+- Ambiente e clima visual específicos.
+- Objetivo imediato dos heróis + obstáculo claro.
+- Uso criativo de poderes com limitações e consequências.
+- Interação com tecnologia/animais/IA (quando relevante).
+- Humor orgânico (1 momento) + 1 emoção genuína.
+- Revelação/decisão concreta + cliffhanger.
+
+Dicas de Execução (Sudowrite)
+- Modele saída longa por cena; se vier curto, use Expand/Describe.
+- Insira “evitar platitudes; mostrar não contar; terminar com cliffhanger” nos beats.
+- Garanta que TODOS os 7 personagens participem com ação/diálogo em cada cena.
+- Ajuste criatividade 60–75% e inclua exemplos de estilo se necessário.

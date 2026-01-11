@@ -1,0 +1,464 @@
+════════════════════════════════════════════════════════════════════════════════
+ SÉRIE: CIÊNCIA
+ Turma da Aventura e as Grandes Descobertas Científicas
+ Diretrizes Específicas desta Série
+════════════════════════════════════════════════════════════════════════════════
+
+TEMA CENTRAL:
+Exploração das grandes descobertas científicas que mudaram nossa compreensão
+do universo, combinando história da ciência, experimentação, e biografias de
+cientistas pioneiros.
+
+DIFERENÇA DAS OUTRAS SÉRIES:
+- Viajantes do Tempo: Foco em PERÍODOS históricos gerais
+- Lugares Incríveis: Foco em LOCALIZAÇÕES arquitetônicas
+- Invenções: Foco em TECNOLOGIAS práticas aplicadas
+- Mistérios: Foco em ENIGMAS históricos não resolvidos
+- CIÊNCIA: Foco em DESCOBERTAS científicas e compreensão do universo
+
+STATUS: 📝 Planejamento (série futura baseada em análise de mercado)
+LOCALIZAÇÃO: LIVROS/SERIE-CIENCIA/
+
+════════════════════════════════════════════════════════════════════════════════
+CONCEITO DA SÉRIE
+════════════════════════════════════════════════════════════════════════════════
+
+PREMISSA:
+Cada livro explora uma descoberta científica fundamental que revolucionou
+nossa compreensão do mundo. Turma viaja (no tempo, se necessário) para
+presenciar momento "eureka!" e compreender ciência através de experiência.
+
+PROTAGONISTAS EM DESTAQUE: MIA (INVENTORA) + WILL (TECNOLOGIA)
+- Mia: Fascinada pela ciência experimental
+- Will: Usa Íris AI para análises e dados
+- Sophie: Documenta método científico
+- Todos participam de experimentos
+
+FOCO EDUCACIONAL: CIÊNCIA PURA (Biologia, Química, Física, Astronomia)
+- Princípios científicos explicados experimentalmente
+- Método científico demonstrado em ação
+- Processo de descoberta valorizado
+- Questionar, hipótese, testar, concluir
+- Wonder científico - maravilha do universo
+
+DR. GRIMSTONE OBRIGATÓRIO:
+- Aparece em TODOS os livros (2-3x)
+- Ironicamente, é cientista, mas usa ciência SEM imaginação
+- Tenta reduzir descobertas a "apenas números"
+- Falha porque ciência requer criatividade E lógica
+- Prove que ciência sem wonder é incompleta
+
+════════════════════════════════════════════════════════════════════════════════
+DESCOBERTAS CIENTÍFICAS SUGERIDAS (Baseado em SEO Amazon - 5 mercados)
+════════════════════════════════════════════════════════════════════════════════
+
+ALTÍSSIMA PRIORIDADE (Apelo educacional + comercial forte):
+
+1. GRAVIDADE (ISAAC NEWTON)
+   - Descoberta: Lei da gravitação universal (1687)
+   - Cientista: Isaac Newton
+   - Momento: Lenda da maçã (apócrifo mas poderoso narrativamente)
+   - Conceitos: Gravidade, órbitas, movimento planetário
+   - SEO: "isaac newton children", "gravity for kids", "apple story"
+   - Apelo: História icônica, ciência fundamental, fácil de demonstrar
+
+2. DNA (WATSON, CRICK, FRANKLIN)
+   - Descoberta: Estrutura da hélice dupla do DNA (1953)
+   - Cientistas: Watson, Crick (creditados) + Rosalind Franklin (crucial mas sub-reconhecida)
+   - Momento: Foto 51 de Franklin, modelo de Watson & Crick
+   - Conceitos: Genética, hereditariedade, código da vida
+   - SEO: "dna discovery children", "double helix kids", "genetics for children"
+   - Apelo: Código da vida, relevância pessoal, justiça para Franklin
+
+3. EVOLUÇÃO (CHARLES DARWIN)
+   - Descoberta: Seleção natural e evolução das espécies (1859)
+   - Cientista: Charles Darwin
+   - Momento: Viagem do Beagle, observações em Galápagos
+   - Conceitos: Adaptação, evolução, biodiversidade
+   - SEO: "charles darwin children", "evolution for kids", "galapagos adventure"
+   - Apelo: Viagem aventureira, animais, mudança de paradigma
+
+4. RADIOATIVIDADE (MARIE CURIE)
+   - Descoberta: Radioatividade, elementos rádio e polônio (1898)
+   - Cientista: Marie Curie (primeira mulher a ganhar Nobel, única com 2)
+   - Momento: Trabalho no galpão, brilho do rádio no escuro
+   - Conceitos: Radiação, elementos, energia nuclear
+   - SEO: "marie curie children", "radioactivity kids", "woman scientist"
+   - Apelo: Cientista mulher pioneira, elementos brilhantes, inspirador
+
+5. HELIOCENTRISMO (COPÉRNICO/GALILEU)
+   - Descoberta: Terra gira em torno do Sol (não o contrário)
+   - Cientistas: Copérnico (teoria), Galileu (evidência com telescópio)
+   - Momento: Galileu observando luas de Júpiter, conflito com Igreja
+   - Conceitos: Sistema solar, astronomia, método científico vs. dogma
+   - SEO: "galileo children", "copernicus kids", "solar system discovery"
+   - Apelo: Telescópios, espaço, coragem de desafiar autoridade
+
+ALTA PRIORIDADE:
+
+6. ELETRICIDADE (BENJAMIN FRANKLIN)
+   - Experimento da pipa e raio (1752)
+   - Conceitos: Eletricidade, corrente, cargas
+   - SEO: "benjamin franklin children", "electricity for kids"
+
+7. GERMES E MICRÓBIOS (LOUIS PASTEUR)
+   - Teoria microbiana das doenças
+   - Pasteurização, vacinas
+   - SEO: "louis pasteur children", "germ theory kids"
+
+8. RELATIVIDADE (ALBERT EINSTEIN)
+   - E=mc², tempo relativo, espaço-tempo
+   - Conceitos complexos, mas Einstein acessível para crianças
+   - SEO: "albert einstein children", "relativity for kids"
+
+9. BIG BANG (TEORIA DO UNIVERSO)
+   - Origem do universo, expansão
+   - George Lemaître, Edwin Hubble, cosmic background radiation
+   - SEO: "big bang for kids", "universe origin children"
+
+10. FOTOSSÍNTESE (JAN INGENHOUSZ)
+    - Como plantas produzem oxigênio e energia
+    - Fundamental para vida na Terra
+    - SEO: "photosynthesis for kids", "how plants make food"
+
+MÉDIA PRIORIDADE:
+
+11. Tabela Periódica (Mendeleev)
+12. Átomo (Rutherford, Bohr)
+13. Termodinâmica (Joule, Kelvin)
+14. Vacinas (Jenner, já listado em Invenções, overlap possível)
+15. Célula (Robert Hooke, microscópio)
+
+════════════════════════════════════════════════════════════════════════════════
+TEMPLATE DE ESTRUTURA PARA LIVRO DE CIÊNCIA
+════════════════════════════════════════════════════════════════════════════════
+
+ATO 1: INTRODUÇÃO
+────────────────
+- Fenômeno/pergunta científica apresentada (por que coisas caem? o que é herança genética?)
+- Turma descobre através de aula de ciências ou curiosidade
+- Pesquisa inicial: O que não sabemos? Quem descobriu?
+- Decisão de viajar no tempo para presenciar descoberta
+- Chegada à época - contraste do conhecimento da época
+- Encontro com cientista - humanização (dúvidas, falhas, paixão)
+
+ATO 2: EXPLORAÇÃO
+────────────────
+- Compreender problema científico da perspectiva da época
+- Observar cientista formulando hipóteses
+- Turma participa de experimentos (Ato 2 = muito hands-on)
+- Cada personagem contribui:
+  * Mia: Ajuda com aparato experimental
+  * Will: Usa Íris para coletar dados/padrões
+  * Sophie: Documenta método científico rigorosamente
+  * Leo: Testes físicos (força, movimento, etc.)
+  * Max: Faz perguntas "simples" que revelam insights
+  * Jimmy: Interage com experimentos de forma inesperada
+- Dr. Grimstone aparece (1ª vez) tentando "pular" experimentação
+- Falhas experimentais (parte do processo!)
+- Complicação: Sociedade/igreja/academia resiste à nova ideia
+
+ATO 3: CONFLITO PRINCIPAL
+────────────────
+- Experimento crucial para provar teoria
+- Oposição intensifica (dogma religioso, paradigma científico antigo)
+- Pressão sobre cientista (ridicularização, ameaça)
+- Momento de dúvida - vale a pena continuar?
+- Dr. Grimstone reaparece (2ª vez), tenta "desacreditar" ciência mas...
+  ... acidentalmente fornece evidência adicional!
+- Stakes: Se cientista desistir, descoberta atrasará décadas/séculos
+
+ATO 4: RESOLUÇÃO CRIATIVA
+────────────────
+- Experimento final decisivo
+- Turma ajuda preparar/executar
+- MOMENTO "EUREKA!" - descoberta confirmada!
+  * Gravidade medida
+  * DNA visualizado
+  * Evolução evidenciada
+  * Radioatividade detectada
+  * [etc.]
+- Dados provam teoria
+- Clímax: Apresentação à comunidade científica
+
+ATO 5: ENCERRAMENTO
+────────────────
+- Retorno ao presente
+- Reflexão sobre como descoberta mudou mundo
+- Demonstração moderna da descoberta (tecnologia atual baseada nela)
+- Lição sobre:
+  * Método científico
+  * Perseverança na ciência
+  * Coragem de desafiar conhecimento estabelecido
+  * Ciência como maravilha E ferramenta
+- Mia aplica princípio em experimento próprio
+- Momento de coração: Admiração por cientistas
+- Hook: Próxima descoberta científica aparece
+
+════════════════════════════════════════════════════════════════════════════════
+MÉTODO CIENTÍFICO (Ensinar aos Leitores)
+════════════════════════════════════════════════════════════════════════════════
+
+CADA LIVRO DEMONSTRA MÉTODO CIENTÍFICO EM AÇÃO:
+
+1. OBSERVAÇÃO:
+   - Cientista nota fenômeno
+   - "Por que isso acontece?"
+
+2. PERGUNTA:
+   - Formular questão específica
+   - "O que causa X?"
+
+3. HIPÓTESE:
+   - Propor explicação possível
+   - "Eu acho que Y causa X porque..."
+
+4. EXPERIMENTO:
+   - Testar hipótese
+   - Controlar variáveis
+   - Coletar dados
+
+5. ANÁLISE:
+   - Examinar resultados
+   - Dados apoiam ou contradizem hipótese?
+
+6. CONCLUSÃO:
+   - Hipótese confirmada, rejeitada, ou modificada
+   - Se rejeitada, formular nova hipótese!
+
+7. COMPARTILHAMENTO:
+   - Publicar resultados
+   - Permitir que outros repliquem
+
+IMPORTANTE: Mostrar FALHAS como parte do processo
+- "Hipótese estava errada? Ótimo! Aprendemos algo!"
+- "Experimento falhou? Vamos ajustar e tentar de novo!"
+
+════════════════════════════════════════════════════════════════════════════════
+EXPERIMENTOS PRÁTICOS (Leitores Podem Reproduzir)
+════════════════════════════════════════════════════════════════════════════════
+
+Cada livro deve incluir 1-2 experimentos SIMPLES que leitores podem fazer em casa:
+
+EXEMPLO (Livro sobre Gravidade):
+─────────────────────────────────
+Experimento de Newton Simplificado:
+
+Materiais:
+- 2 bolas de tamanhos diferentes (tênis e basquete)
+- Lugar alto seguro para soltar (escada com adulto supervisionando)
+
+Procedimento:
+1. Soltar ambas bolas ao mesmo tempo
+2. Observar: Qual chega ao chão primeiro?
+3. Hipótese: Bola maior cai mais rápido?
+4. Resultado: Caem quase simultaneamente!
+5. Conclusão: Gravidade age igual em objetos de massas diferentes
+
+(Galileu provou isso antes de Newton!)
+
+FORMATO NO LIVRO:
+- Integrado na narrativa (Mia faz em casa depois)
+- NÃO em "caixa de texto" separada (mantém fluxo narrativo)
+- Disclaimer de segurança: "Com supervisão de adulto"
+
+════════════════════════════════════════════════════════════════════════════════
+HUMANIZAÇÃO DOS CIENTISTAS
+════════════════════════════════════════════════════════════════════════════════
+
+IMPORTANTE: Cientistas não são gênios frios - são humanos apaixonados.
+
+MOSTRAR:
+✅ Falhas e frustrações (experimentos que não funcionam)
+✅ Vida pessoal (família, hobbies, interesses além da ciência)
+✅ Motivação emocional (curiosidade, wonder, desejo de ajudar)
+✅ Colaboração (raramente trabalham sozinhos)
+✅ Mulheres e minorias na ciência (dar crédito devido)
+
+EVITAR:
+❌ "Gênio louco" estereótipo
+❌ Cientista sem emoções
+❌ Descoberta como "acidente de sorte"
+❌ Erasure de cientistas mulheres/não-brancos
+
+EXEMPLO MARIE CURIE:
+"Marie Curie não estava pensando em Nobel quando mexia rádio com uma colher
+de pau no galpão gelado. Estava pensando no brilho estranho, na dança de
+partículas invisíveis, no mistério profundo da matéria.
+
+'Pierre!' chamou seu marido. 'Olha!'
+
+No escuro, o rádio brilhava sozinho - verde-azulado, como se estivesse vivo.
+
+Marie sorriu, lágrimas nos olhos. Não de tristeza, mas de pura maravilha.
+Isto era ciência. Isto era descobrir o universo, uma molécula de cada vez."
+
+════════════════════════════════════════════════════════════════════════════════
+DR. GRIMSTONE NA SÉRIE CIÊNCIA
+════════════════════════════════════════════════════════════════════════════════
+
+IRONIA: Grimstone É cientista, mas ciência "errada".
+
+Ele representa CIÊNCIA SEM WONDER:
+- Só números, sem curiosidade
+- Só lógica, sem criatividade
+- Conclusões sem experimentação
+- Certeza sem evidência
+
+INVENÇÕES TÍPICAS DELE:
+- "Provador de Teorias por Lógica Pura 5000"
+- "Eliminador de Experimentos Desnecessários"
+- "Calculadora de Respostas Científicas Óbvias"
+- "Saltador de Método Científico Pro"
+
+SUBPLOT TÍPICA:
+- Chega com "resposta" sem fazer experimento
+- Ridiculariza processo experimental ("perda de tempo!")
+- Cria atalho que não funciona
+- Falha espetacularmente, provando valor do método científico
+- Às vezes, falha gera dados úteis acidentalmente
+
+EXEMPLO (Livro sobre DNA):
+──────────────────────────
+Dr. Grimstone surgiu com máquina coberta de tubos de ensaio.
+
+"Crianças! Apresento o Decodificador Genético Instantâneo! Para quê observar
+células no microscópio quando posso CALCULAR estrutura do DNA? Imaginar formas
+é perda de tempo! O futuro é a lógica pura!"
+
+Enfiou amostra na máquina. Apertou botão.
+
+BZZZT! POP!
+
+Máquina cuspiu papel com desenho: DNA em formato de cubo.
+
+"...uh... cubos são logicamente mais estáveis que hélices..." Grimstone
+piscou, confuso.
+
+Sophie mostrou Foto 51 de Rosalind Franklin. "Evidência experimental diz
+hélice, Dr. Grimstone."
+
+"Evidência é imaginação fotografada!" gritou, fugindo com máquina fumegante.
+
+Morty suspirou. "Ele nunca vai aprender que ciência precisa de observação E lógica."
+
+════════════════════════════════════════════════════════════════════════════════
+PRECISÃO CIENTÍFICA
+════════════════════════════════════════════════════════════════════════════════
+
+OBRIGATÓRIO:
+[ ] Consultar fontes científicas primárias
+[ ] Verificar que princípios científicos estão corretos
+[ ] Se simplificar para crianças, não distorcer ciência
+[ ] Reconhecer contribuições de múltiplos cientistas
+[ ] Crédito a mulheres e minorias frequentemente apagadas
+
+CUIDADO COM:
+- Mitos científicos populares mas incorretos
+- Oversimplification que cria misconceptions
+- Erasure histórico (ex: Franklin e DNA, Lise Meitner e fissão nuclear)
+
+VALIDAÇÃO:
+[ ] Revisar com professor de ciências ou cientista
+[ ] Verificar que experimentos descritos são seguros/precisos
+[ ] Consultar comunicadores de ciência para kids (ex: Neil deGrasse Tyson, Bill Nye style)
+
+════════════════════════════════════════════════════════════════════════════════
+DIVERSIDADE NA CIÊNCIA
+════════════════════════════════════════════════════════════════════════════════
+
+PRIORIZAR LIVROS SOBRE:
+
+CIENTISTAS MULHERES:
+- Marie Curie (radioatividade) - PRIORIDADE MÁXIMA
+- Rosalind Franklin (DNA)
+- Jane Goodall (primatologia)
+- Rachel Carson (ecologia)
+- Mae Jemison (astronauta/médica)
+
+CIENTISTAS NÃO-BRANCOS:
+- George Washington Carver (agricultura)
+- Tu Youyou (medicina, Nobel 2015)
+- Chien-Shiung Wu (física nuclear)
+- Subrahmanyan Chandrasekhar (astrofísica)
+
+CIENTISTAS LGBTQ+:
+- Alan Turing (computação)
+- Sally Ride (astronauta)
+
+OBJETIVO: Mostrar que QUALQUER UM pode ser cientista.
+
+════════════════════════════════════════════════════════════════════════════════
+ANÁLISE DE MERCADO - SÉRIE CIÊNCIA
+════════════════════════════════════════════════════════════════════════════════
+
+COMPETIDORES:
+- Magic School Bus (ficção educacional, não história)
+- Who Was? Scientists series (biografia, não aventura)
+- National Geographic Kids Science
+- Bill Nye books
+
+DIFERENCIAL TURMA DA AVENTURA:
+✅ Aventura narrativa + ciência rigorosa
+✅ Viagem no tempo para presenciar descobertas
+✅ Método científico em ação (não só fatos)
+✅ Personagens consistentes + Spielberg style
+✅ Experimentos reproduzíveis
+
+PALAVRAS-CHAVE SEO - Gerais:
+- "science adventure children"
+- "famous scientists kids"
+- "scientific discovery children book"
+- "stem adventure kids"
+- "how science works children"
+- "experiment story kids"
+
+MERCADOS ESPECÍFICOS:
+- USA: "science history kids", "scientist biography children"
+- Brasil: "cientistas famosos infantil", "descobertas científicas"
+- Alemanha: "große wissenschaftler kinder", "wissenschaftsgeschichte"
+- Espanha: "grandes científicos niños", "descubrimientos ciencia"
+
+TENDÊNCIAS FORTES:
+📈 STEM education (altíssima demanda)
+📈 Women in STEM (crescendo rapidamente)
+📈 Hands-on science (experimentos práticos)
+📈 Science communication (Neil deGrasse Tyson effect)
+📈 Climate/environmental science (relevância atual)
+
+════════════════════════════════════════════════════════════════════════════════
+PRÓXIMOS PASSOS PARA ATIVAR SÉRIE
+════════════════════════════════════════════════════════════════════════════════
+
+1. PESQUISA DE MERCADO PROFUNDA:
+   [ ] Análise Amazon KDP - categoria "Children's Science"
+   [ ] Competitor analysis (Magic School Bus, Who Was?, etc.)
+   [ ] Survey com educadores STEM
+   [ ] Trends em educação científica 2026+
+
+2. SELEÇÃO DA PRIMEIRA DESCOBERTA:
+   [ ] Escolher entre top 5 sugeridos
+   [ ] Priorizar cientista mulher ou minoria (diversidade)
+   [ ] Verificar que ciência é age-appropriate
+   [ ] Confirmar disponibilidade de fontes históricas
+
+3. DESENVOLVIMENTO:
+   [ ] Criar outline detalhado 5 atos
+   [ ] Pesquisar cientista e descoberta profundamente
+   [ ] Planejar experimentos reproduzíveis
+   [ ] Consultar com professor de ciências
+   [ ] Escrever manuscrito (35-50k palavras)
+
+4. VALIDAÇÃO:
+   [ ] Revisar com cientista/educador STEM
+   [ ] Verificar precisão científica
+   [ ] Testar experimentos para segurança
+   [ ] QA normal da série
+
+════════════════════════════════════════════════════════════════════════════════
+
+ÚLTIMA ATUALIZAÇÃO: 2026-01-10
+Esta série está em PLANEJAMENTO. Use em conjunto com diretrizes universais
+(PERSONAGENS-FIXOS, ESTILO-SPIELBERG, ESTRUTURA-NARRATIVA).
+
+════════════════════════════════════════════════════════════════════════════════

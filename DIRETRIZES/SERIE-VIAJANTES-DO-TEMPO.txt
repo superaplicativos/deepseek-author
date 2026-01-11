@@ -1,0 +1,395 @@
+════════════════════════════════════════════════════════════════════════════════
+ SÉRIE: VIAJANTES DO TEMPO
+ Turma da Aventura através da História
+ Diretrizes Específicas desta Série
+════════════════════════════════════════════════════════════════════════════════
+
+TEMA CENTRAL:
+Viagens através de diferentes períodos históricos usando máquina do tempo,
+explorando civilizações, eventos e personagens que moldaram a humanidade.
+
+STATUS: 6 livros publicados e vendendo bem
+LOCALIZAÇÃO: LIVROS/SERIE-VIAJANTES-DO-TEMPO/
+
+════════════════════════════════════════════════════════════════════════════════
+LIVROS DA SÉRIE (PUBLICADOS)
+════════════════════════════════════════════════════════════════════════════════
+
+LIVRO 1: A MÁQUINA DO TEMPO
+- Pasta: LIVRO-01-MAQUINA-DO-TEMPO/
+- Tema: Introdução à máquina do tempo e mecânicas de viagem temporal
+- Primeiro encontro com Dr. Grimstone
+- Estabelece regras da viagem no tempo
+- Status: ✅ Publicado
+
+LIVRO 2: PIRÂMIDES DO TEMPO
+- Pasta: LIVRO-02-PIRAMIDES-DO-TEMPO/
+- Período: Egito Antigo
+- Tema: Mistérios das pirâmides e tecnologia antiga
+- Status: ✅ Publicado
+
+LIVRO 3: UMA AVENTURA EM ROMA
+- Pasta: LIVRO-03-ROMA/
+- Período: Império Romano
+- Tema: Cultura romana, gladiadores, arquitetura
+- Status: ✅ Publicado
+
+LIVRO 4: MISTÉRIO NO CASTELO MEDIEVAL
+- Pasta: LIVRO-04-CASTELO-MEDIEVAL/
+- Período: Idade Média
+- Tema: Castelos, cavaleiros, vida medieval
+- Foco em mistério
+- Status: ✅ Publicado
+
+LIVRO 5: ENIGMA NO RENASCIMENTO
+- Pasta: LIVRO-05-RENASCIMENTO/
+- Período: Renascimento (Era Leonardo da Vinci)
+- Tema: Arte, ciência, invenções
+- Status: ✅ Publicado
+
+LIVRO 6: O DESPERTAR DOS SONHOS NO FUTURO
+- Pasta: LIVRO-06-FUTURO/
+- Período: Futuro distópico/utópico
+- Tema: Tecnologia, imaginação vs. lógica pura
+- Contraste com aventuras históricas
+- Status: ✅ Publicado
+
+════════════════════════════════════════════════════════════════════════════════
+ELEMENTOS ESPECÍFICOS DA SÉRIE VIAJANTES DO TEMPO
+════════════════════════════════════════════════════════════════════════════════
+
+1. MÁQUINA DO TEMPO:
+   - Estabelecida no Livro 1
+   - Tecnologia semi-explicada (não muito detalhada para manter mistério)
+   - Requer algum tipo de ativação/coordenadas
+   - Pode ter limitações narrativas conforme necessário
+
+2. REGRAS DE VIAGEM NO TEMPO:
+   ✅ Podem observar história mas devem evitar alterá-la
+   ✅ Consequências de mudanças temporais são sérias
+   ✅ Conhecimento do futuro pode ser perigoso
+   ✅ Às vezes ficam "presos" até resolverem missão
+   ⚠️ Paradoxos temporais devem ser evitados ou usados com cuidado
+
+3. DR. GRIMSTONE OBRIGATÓRIO:
+   - TODOS os livros desta série TÊM Dr. Grimstone
+   - Frequência: 2-3 aparições por livro
+   - Sempre tentando "racionalizar" ou "destruir imaginação" do período
+   - Sempre falha de forma hilária
+   - Ver PERSONAGENS-FIXOS.txt para detalhes
+
+4. FOCO EDUCACIONAL - HISTÓRIA:
+   - Precisão histórica é CRÍTICA
+   - Pesquisa sobre período deve ser profunda
+   - Arquitetura, roupas, comida, linguagem da época
+   - Personagens históricos reais (se aparecerem) respeitosamente retratados
+   - Eventos históricos precisos
+
+5. CONEXÃO ENTRE LIVROS:
+   - Referências sutis a aventuras anteriores
+   - Crescimento de personagens ao longo da série
+   - Habilidades de Mia evoluem (invenções mais sofisticadas)
+   - Leo confronta medo de escuro em alguns livros
+   - Will amadurece como líder
+
+════════════════════════════════════════════════════════════════════════════════
+PERÍODOS HISTÓRICOS JÁ EXPLORADOS
+════════════════════════════════════════════════════════════════════════════════
+
+✅ Egito Antigo (Pirâmides)
+✅ Roma Antiga (Império)
+✅ Idade Média (Castelos)
+✅ Renascimento (Século XV-XVI)
+✅ Futuro (linha temporal futura)
+
+════════════════════════════════════════════════════════════════════════════════
+PRÓXIMOS PERÍODOS SUGERIDOS (Baseado em Análise de Mercado)
+════════════════════════════════════════════════════════════════════════════════
+
+ALTA PRIORIDADE (Palavras-chave fortes em Amazon - 5 mercados):
+
+1. GRÉCIA ANTIGA
+   - Olimpíadas originais
+   - Filosofia (Sócrates, Platão)
+   - Mitologia grega integrada com história real
+   - Atenas e Esparta
+   - SEO: "ancient greece children", "greek mythology adventure"
+
+2. VIKINGS
+   - Explorações nórdicas
+   - Cultura viking (não apenas batalhas)
+   - Navegação, runas, mitologia nórdica
+   - SEO: "viking adventure kids", "norse mythology children"
+
+3. CHINA ANTIGA
+   - Dinastia, Grande Muralha
+   - Invenções chinesas (pólvora, papel, bússola)
+   - Filosofia confucionista
+   - SEO: "ancient china children", "chinese history kids"
+
+4. REVOLUÇÃO INDUSTRIAL
+   - Invenções que mudaram o mundo
+   - Contraste pobreza/riqueza
+   - Fábricas, trens, telégrafo
+   - SEO: "industrial revolution children", "steam engine adventure"
+
+5. COLONIZAÇÃO DAS AMÉRICAS
+   - Encontro de culturas
+   - Astecas, Maias, Incas
+   - Sensibilidade cultural importante
+   - SEO: "aztec maya children", "ancient america adventure"
+
+MÉDIA PRIORIDADE:
+
+6. PRÉ-HISTÓRIA
+   - Dinossauros (sempre popular)
+   - Homens das cavernas
+   - Descoberta do fogo
+   - SEO: "dinosaur adventure kids", "caveman children book"
+
+7. PRIMEIRA GUERRA MUNDIAL/SEGUNDA GUERRA MUNDIAL
+   - CUIDADO: Temas sensíveis
+   - Foco em coragem, amizade, esperança (NÃO horror de guerra)
+   - Talvez foco em invenções/tecnologia da época
+   - Perspectiva de civis/crianças da época
+   - SEO: "ww2 children history", "world war kids adventure"
+
+8. REVOLUÇÃO FRANCESA
+   - Eventos históricos dramáticos
+   - Ciência e Iluminismo
+   - CUIDADO: Violência (guilhotina) - focar em ideias, não execuções
+   - SEO: "french revolution children", "enlightenment kids"
+
+BAIXA PRIORIDADE (Nicho mas interessante):
+
+9. ERA VITORIANA
+   - Londres de Sherlock Holmes
+   - Invenções, etiqueta, contraste social
+   - SEO: "victorian era children"
+
+10. IDADE DO GELO
+    - Megafauna extinta
+    - Sobrevivência humana
+    - SEO: "ice age adventure kids"
+
+════════════════════════════════════════════════════════════════════════════════
+TEMPLATE DE ESTRUTURA PARA NOVO LIVRO VIAJANTES DO TEMPO
+════════════════════════════════════════════════════════════════════════════════
+
+ATO 1: INTRODUÇÃO
+────────────────
+- Problema no presente desencadeia necessidade de viajar ao passado
+- Íris AI fornece coordenadas temporais e informações do período
+- Turma decide investigar
+- Chegada ao período histórico - contraste visual/sensorial forte
+- Apresentação de personagem secundário da época
+
+ATO 2: EXPLORAÇÃO
+────────────────
+- Imersão na cultura e vida do período
+- Investigação do mistério específico
+- Dr. Grimstone aparece com invenção anacrônica ridícula (1ª vez)
+- Aprendizado sobre período histórico (educacional mas natural)
+- Descoberta de pistas sobre o mistério
+- Cada personagem usa habilidade única para investigar
+
+ATO 3: CONFLITO PRINCIPAL
+────────────────
+- Descoberta de que interferência/problema é maior que pensavam
+- Stakes: Consequência para linha temporal se não resolverem
+- Vilão (se houver além de Grimstone) em ação
+- Dr. Grimstone reaparece, atrapalha vilão acidentalmente (2ª vez)
+- Momento de dúvida - parece impossível
+
+ATO 4: RESOLUÇÃO CRIATIVA
+────────────────
+- Insight que conecta conhecimento histórico com tecnologia moderna (Íris)
+- Invenção de Mia usando recursos do período
+- Trabalho em equipe combinando perspectivas de diferentes épocas
+- Solução que respeita história mas resolve problema
+- Clímax emocionante
+
+ATO 5: ENCERRAMENTO
+────────────────
+- Retorno ao presente
+- Verificação de que linha temporal está intacta (ou melhorada sutilmente)
+- Despedida de amigo do passado (emocional)
+- Reflexão sobre o que aprenderam sobre período histórico
+- Lição sobre valor da história e herança cultural
+- Momento de coração entre a turma
+- Hook: Mensagem/artefato que leva à próxima aventura
+
+════════════════════════════════════════════════════════════════════════════════
+PRECISÃO HISTÓRICA - CHECKLIST
+════════════════════════════════════════════════════════════════════════════════
+
+Antes de publicar qualquer livro Viajantes do Tempo:
+
+PESQUISA:
+[ ] Período histórico pesquisado em fontes acadêmicas confiáveis
+[ ] Datas e eventos principais verificados
+[ ] Arquitetura da época precisa
+[ ] Roupas e costumes apropriados
+[ ] Comida, moeda, linguagem da época considerados
+[ ] Tecnologia disponível no período respeitada
+
+PERSONAGENS HISTÓRICOS (se aparecerem):
+[ ] Retratados respeitosamente
+[ ] Características conhecidas respeitadas
+[ ] Não anacrônicos (não falam/pensam como modernos)
+[ ] Papel na história mantido
+
+ANACHRONISMOS:
+[ ] Apenas intencionais (parte do plot de viagem no tempo)
+[ ] Dr. Grimstone pode trazer tecnologia anacrônica (cômico)
+[ ] Turma tenta NÃO introduzir conhecimento moderno
+[ ] Se introduzirem acidentalmente, há consequências
+
+SENSIBILIDADE CULTURAL:
+[ ] Civilizações não-ocidentais retratadas com respeito
+[ ] Não exotização ou estereótipos
+[ ] Consultada perspectiva cultural apropriada
+[ ] Evitado eurocentrismo excessivo
+
+TEMAS SENSÍVEIS:
+[ ] Guerras: foco em coragem/esperança, não horror
+[ ] Escravidão: reconhecer sem detalhes gráficos (se relevante ao período)
+[ ] Pobreza/desigualdade: mostrar com empatia
+[ ] Religião: respeito por todas as crenças
+
+VALIDAÇÃO:
+[ ] Relatório VALIDACAO_CULTURAL_HISTORICA gerado
+[ ] Fontes acadêmicas listadas
+[ ] Erros históricos corrigidos antes de publicação
+
+════════════════════════════════════════════════════════════════════════════════
+DR. GRIMSTONE NA SÉRIE VIAJANTES DO TEMPO
+════════════════════════════════════════════════════════════════════════════════
+
+Grimstone nesta série frequentemente:
+
+INVENÇÕES TÍPICAS:
+- "Racionalizador de Milagres Históricos 3000"
+- "Destruidor de Mitos Antigos"
+- "Calculadora de Eventos Históricos"
+- "Analisador Temporal de Lógica Pura"
+- Sempre nomes pomposos e absurdos
+
+COMO ELE SE ENCAIXA:
+- Aparece no mesmo período temporal que a turma
+- Tenta "provar" que evento/lugar histórico é "só lógica"
+- Dispositivo sempre falha de forma hilária
+- Às vezes atrapalha vilão acidentalmente, ajudando turma
+- Morty (corvo) sempre sarcástico sobre falhas
+
+EXEMPLO DE CENA GRIMSTONE (Grécia Antiga):
+─────────────────────────────────────────
+Um barulho metálico ecoou entre as colunas do Partenon. Dr. Grimstone surgiu
+carregando uma engenhoca que parecia um cruzamento entre astrolábio e calculadora.
+
+"Crianças! Que surpresa desagradável!" Grimstone ajustou os óculos. "Apresento
+o Analisador de Filosofia Pura Mark VII! Provarei que Sócrates era apenas um
+homem com boa lógica, nada de sabedoria especial. Imaginar é perda de tempo!
+O futuro é a lógica pura!"
+
+"Por que sempre EU tenho que carregar as baterias de mármore?" resmungou Morty,
+quase caindo do ombro de Grimstone.
+
+Grimstone apontou o dispositivo para uma estátua de Atena. Apertou o botão
+com dramaticidade.
+
+CRASH! A máquina caiu em pedaços, rolando escada abaixo do Partenon.
+
+"Isso... era para... analisar... não para... desmontar..." murmurou Grimstone,
+correndo atrás das peças.
+
+"Mármore grego," suspirou Morty. "Mais duro que a lógica dele."
+
+════════════════════════════════════════════════════════════════════════════════
+PERSONAGENS SECUNDÁRIOS HISTÓRICOS
+════════════════════════════════════════════════════════════════════════════════
+
+Em cada livro Viajantes do Tempo, considere criar:
+
+1. CRIANÇA DA ÉPOCA:
+   - Aproximadamente mesma idade da turma
+   - Perspectiva da vida no período
+   - Torna-se amigo temporário
+   - Ensina turma sobre cultura da época
+   - Turma ensina algo útil (sem anachronismos sérios)
+   - Despedida emocional no final
+
+2. MENTOR ADULTO (opcional):
+   - Figura histórica menor ou fictícia
+   - Ajuda turma mas não resolve problema
+   - Pode ser artesão, escriba, soldado, etc.
+
+3. ANTAGONISTA DO PERÍODO (se houver):
+   - Não necessariamente "vilão malvado"
+   - Pode ser pessoa com objetivo conflitante
+   - Motivação compreensível
+   - Resolvido com diálogo/inteligência, não violência
+
+════════════════════════════════════════════════════════════════════════════════
+COMO USAR ESTA DIRETRIZ
+════════════════════════════════════════════════════════════════════════════════
+
+ANTES DE ESCREVER:
+1. Ler esta diretriz completa
+2. Ler PERSONAGENS-FIXOS.txt
+3. Ler ESTILO-SPIELBERG.txt
+4. Ler ESTRUTURA-NARRATIVA.txt
+5. Escolher período histórico (ver sugestões acima)
+6. Pesquisar período profundamente (fontes acadêmicas)
+7. Planejar subplot de Dr. Grimstone
+8. Criar outline de 5 atos
+
+DURANTE A ESCRITA:
+- Manter diretrizes abertas para consulta
+- Verificar precisão histórica continuamente
+- Garantir que Dr. Grimstone aparece 2-3x
+- Balancear educação histórica com aventura
+
+APÓS ESCREVER:
+- Gerar relatório VALIDACAO_CULTURAL_HISTORICA
+- Verificar todos os anachronismos são intencionais
+- Confirmar que lição histórica está clara mas não preachy
+- Validar precisão de datas, nomes, eventos
+
+════════════════════════════════════════════════════════════════════════════════
+ANÁLISE DE MERCADO - VIAJANTES DO TEMPO
+════════════════════════════════════════════════════════════════════════════════
+
+COMPETIDORES PRINCIPAIS:
+- Magic Tree House (Mary Pope Osborne) - líder do mercado
+- Who Was? series - biografias históricas
+- I Survived series - eventos históricos dramáticos
+
+DIFERENCIAIS DA TURMA DA AVENTURA:
+✅ Grupo de amigos (não apenas 2 irmãos como Magic Tree House)
+✅ Tecnologia integrada (Íris AI, invenções de Mia)
+✅ Humor mais presente (Dr. Grimstone)
+✅ Estilo Spielberg (cinematográfico, épico)
+✅ Multilíngue desde o início (4 idiomas simultâneos)
+
+PALAVRAS-CHAVE AMAZON (SEO) - Gerais:
+- "time travel children book"
+- "historical fiction kids"
+- "adventure series children"
+- "educational adventure"
+- "history for kids"
+- "chapter book series"
+
+MERCADOS ESPECÍFICOS:
+- USA: "time machine adventure", "history mystery kids"
+- Brasil: "viagem no tempo infantil", "aventura histórica"
+- Alemanha: "zeitreise kinder", "historisches abenteuer"
+- Espanha: "viaje en el tiempo niños", "aventura histórica"
+
+════════════════════════════════════════════════════════════════════════════════
+
+ÚLTIMA ATUALIZAÇÃO: 2026-01-10
+Use esta diretriz em conjunto com diretrizes universais (PERSONAGENS-FIXOS,
+ESTILO-SPIELBERG, ESTRUTURA-NARRATIVA).
+
+════════════════════════════════════════════════════════════════════════════════

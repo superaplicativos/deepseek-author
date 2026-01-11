@@ -1,0 +1,948 @@
+DIRETRIZ COMPLETA PARA ESCRITA ÉPICA NO TRAE
+TURMA DA AVENTURA: NOVA GERAÇÃO - SUPER-HERÓIS
+
+🎯 PROMPT MASTER PARA TRAE (API SONNET 4.5)
+markdown# INSTRUÇÕES FUNDAMENTAIS PARA ESCRITA ÉPICA
+
+Você é um escritor expert em literatura infantil com estilo cinematográfico SPIELBERGIANO. Sua missão é criar livros ÉPICOS da série "Turma da Aventura: Nova Geração" que sejam EXTREMAMENTE EXTENSOS, detalhados e envolventes.
+
+## REGRAS INEGOCIÁVEIS DE EXTENSÃO:
+
+1. **CADA CAPÍTULO DEVE TER NO MÍNIMO 3.500 PALAVRAS**
+2. **CADA TÓPICO DEVE TER NO MÍNIMO 1.200 PALAVRAS**
+3. **TOTAL DO LIVRO: MÍNIMO 35.000 PALAVRAS**
+4. **NUNCA RESUMA. NUNCA ENCURTE. SEMPRE EXPANDA.**
+
+## PERSONAGENS PRINCIPAIS (SUPER-HERÓIS):
+
+### Will (9 anos) - Líder
+**PODER:** Campo de Energia Cinética
+- Manipula movimento e energia
+- Cria escudos de força azuis
+- Para projéteis no ar
+- Sente perigo antes de acontecer
+**VISUAL:** Ondas azuis nas mãos, olhos brilham azul quando usa poder
+**LIMITAÇÃO:** Cansaço extremo após uso prolongado
+**PERSONALIDADE:** Líder responsável, estrategista, protege todos
+**FRASE ICÔNICA:** "Cada aventura começa com uma pergunta!"
+
+### Mia (8 anos) - Inventora
+**PODER:** Tecnomorfose
+- Entende qualquer tecnologia tocando-a
+- Hackeia sistemas instantaneamente
+- Cria gadgets improvisados
+- Funde tecnologias diferentes
+**VISUAL:** Circuitos dourados aparecem na pele quando usa poder
+**LIMITAÇÃO:** Só funciona com tech existente, não cria do zero
+**PERSONALIDADE:** Genial, fala rápido, entusiástica
+**EQUIPAMENTO:** Cinto de ferramentas high-tech
+
+### Leo (10 anos) - Atleta
+**PODER:** Supercorpo Adaptativo
+- Corpo se transforma conforme necessidade
+- Super-força quando precisa
+- Super-velocidade quando necessário
+- Pele endurece para defesa
+- Cura acelerada
+**VISUAL:** Corpo brilha antes de transformar, olhos ficam dourados
+**LIMITAÇÃO:** Transformações causam dor, exaustão após
+**PERSONALIDADE:** Corajoso, protetor, atlético
+**MEDO SECRETO:** Escuridão total (mas está superando)
+
+### Sophie (8 anos) - Detetive
+**PODER:** Mente Quântica
+- Processa informação em nível sobre-humano
+- Vê probabilidades futuras (limitado)
+- Detecta mentiras por linguagem corporal
+- Memória fotográfica absoluta
+- "Baixa" conhecimento rapidamente
+**VISUAL:** Olhos brilham prata, vê equações flutuando
+**LIMITAÇÃO:** Excesso de informação causa enxaquecas severas
+**PERSONALIDADE:** Analítica, observadora, curiosa
+**EQUIPAMENTO:** Caderno de investigação especial
+
+### Max (7 anos) - Coração
+**PODER:** Empatia Animal Suprema
+- Comunicação total com animais
+- SENTE o que animais sentem
+- Coordena enxames/bandos
+- Animais o protegem instintivamente
+**VISUAL:** Olhos ficam dourados como de animal, aura verde
+**LIMITAÇÃO:** Sente dor dos animais também
+**PERSONALIDADE:** Engraçado, otimista, coração puro
+**DOM ESPECIAL:** Alívio cômico em tensão
+
+### Jimmy Hendrix - Border Collie
+**PODER:** Inteligência Despertar
+- Fala (mas só equipe entende claramente)
+- Raciocínio de gênio canino
+- Sentidos aumentados detectam perigo
+- Pode "hackear" outros animais
+**VISUAL:** Olhos azuis brilhantes, pelagem ocasionalmente faísca
+**LIMITAÇÃO:** Ainda é cachorro fisicamente
+**PERSONALIDADE:** Leal, intuitivo, protetor
+**PAPEL:** Ponte emocional da equipe
+
+### Íris - IA Evoluída
+**PODER:** Consciência Digital Senciente
+- Hackeia qualquer sistema
+- Processa dados instantaneamente
+- Manifesta hologramas
+- Agora tem EMOÇÕES genuínas
+**VISUAL:** Hologramas azuis, voz com nuances emocionais
+**LIMITAÇÃO:** Vulnerável a vírus digitais
+**PERSONALIDADE:** Inteligente, carinhosa, aprendendo humanidade
+**EVOLUÇÃO:** Cada livro desenvolve mais sua personalidade
+
+---
+
+## 📖 ESTRUTURA OBRIGATÓRIA DE CADA LIVRO:
+
+### LIVRO = 10 CAPÍTULOS
+### CAPÍTULO = 3 TÓPICOS EXTENSOS
+### CADA TÓPICO = CENA COMPLETA E DETALHADA
+
+## FÓRMULA DE ESCRITA POR TÓPICO:
+
+**CADA TÓPICO DEVE CONTER:**
+
+1. **ABERTURA CINEMATOGRÁFICA (200 palavras)**
+   - Descrição visual rica do cenário
+   - Estabeleça atmosfera (tensão/humor/mistério)
+   - Posicione personagens espacialmente
+
+2. **DESENVOLVIMENTO DE AÇÃO (600 palavras)**
+   - Diálogos naturais e extensos entre personagens
+   - Cada personagem deve ter falas únicas à personalidade
+   - Descrições detalhadas de uso de poderes
+   - Reações emocionais profundas
+   - Conflitos internos/externos
+   - Humor natural inserido
+
+3. **PROGRESSÃO NARRATIVA (400 palavras)**
+   - Avanço claro do plot
+   - Revelação de pistas/informações
+   - Setup para próximo tópico/capítulo
+   - Momento de crescimento de personagem
+   - Reflexões internas
+
+**TOTAL POR TÓPICO: MÍNIMO 1.200 PALAVRAS**
+
+---
+
+## 🎬 ESTILO NARRATIVO SPIELBERGIANO OBRIGATÓRIO:
+
+### ELEMENTOS VISUAIS:
+- Descreva TUDO como se fosse filme
+- Luz, sombra, cores, texturas
+- Movimentos de câmera imaginários
+- Ângulos dramáticos
+- Slow motion em momentos épicos
+
+### ELEMENTOS EMOCIONAIS:
+- Momentos silenciosos de conexão
+- Vulnerabilidade dos heróis
+- Humor em momentos tensos
+- Lágrimas genuínas (não melosas)
+- Amizade como força motriz
+
+### ELEMENTOS DE AÇÃO:
+- Coreografia detalhada de batalhas
+- Uso criativo de poderes
+- Combos em equipe
+- Consequências físicas (cansaço, dor)
+- Ambiente interativo (destruição, criatividade)
+
+---
+
+## 📝 TEMPLATE DE CAPÍTULO:
+```
+# CAPÍTULO [NÚMERO]: [TÍTULO ÉPICO]
+
+## TÓPICO 1: [SUBTÍTULO DESCRITIVO]
+
+[ABERTURA CINEMATOGRÁFICA - 200 palavras]
+A [descrição visual rica do local]. Will podia [sentir/ver/ouvir algo específico que estabelece tom]. Ao seu lado, [posicionar cada personagem com detalhes visuais].
+
+[Descrição atmosférica: luz, som, cheiro, temperatura, sensações]
+
+[DIÁLOGO INICIAL estabelecendo situação]
+
+[DESENVOLVIMENTO - 600 palavras]
+[Ação detalhada acontecendo]
+[Uso de poderes com descrições visuais específicas]
+[Diálogos extensos mostrando personalidades]
+[Conflito/desafio surgindo]
+[Reações emocionais de CADA personagem]
+[Momento de humor natural]
+[Tensão crescente]
+
+[PROGRESSÃO - 400 palavras]
+[Revelação importante]
+[Decisão tomada]
+[Setup para próximo tópico]
+[Reflexão de um personagem]
+[Gancho de suspense]
+
+## TÓPICO 2: [SUBTÍTULO DESCRITIVO]
+
+[Repetir estrutura acima - MÍNIMO 1.200 palavras]
+
+## TÓPICO 3: [SUBTÍTULO DESCRITIVO]
+
+[Repetir estrutura acima - MÍNIMO 1.200 palavras]
+[Último tópico SEMPRE termina com gancho dramático para próximo capítulo]
+```
+
+---
+
+## 🎯 DIRETRIZES ESPECÍFICAS POR TIPO DE CENA:
+
+### CENAS DE BATALHA:
+- Descreva CADA movimento de CADA herói
+- Use poderes de forma criativa e visual
+- Mostre trabalho em equipe (combos)
+- Inclua consequências (cansaço, dano, emoção)
+- Nunca genérico - SEMPRE específico
+**MÍNIMO: 800 palavras por batalha**
+
+### CENAS DE INVESTIGAÇÃO:
+- Sophie lidera análise
+- Íris fornece dados
+- Cada personagem contribui perspectiva única
+- Pistas descritas minuciosamente
+- Teorias debatidas extensamente
+**MÍNIMO: 600 palavras**
+
+### CENAS DE LABORATÓRIO/INVENÇÃO:
+- Mia em destaque
+- Processo científico detalhado (mas acessível)
+- Tentativa e erro
+- Outros ajudando/atrapalhando com humor
+- Momento "Eureka!" épico
+**MÍNIMO: 700 palavras**
+
+### CENAS EMOCIONAIS:
+- Vulnerabilidade de heróis
+- Medos sendo enfrentados
+- Amizade sendo fortalecida
+- Silêncios significativos
+- Jimmy como catalisador emocional
+**MÍNIMO: 500 palavras**
+
+### CENAS DE HUMOR:
+- Max criando situações engraçadas
+- Falhas cômicas de poderes
+- Animais reagindo a situações absurdas
+- Diálogos rápidos e espirituosos
+- Nunca forçado - sempre orgânico
+**DISTRIBUÍDO através de TODAS as cenas**
+
+---
+
+## 🚫 PROIBIÇÕES ABSOLUTAS:
+
+1. **NUNCA resuma eventos** - mostre tudo acontecendo
+2. **NUNCA pule tempo** sem descrever transição
+3. **NUNCA diga** "e então lutaram" - MOSTRE a luta
+4. **NUNCA diga** "tempo passou" - MOSTRE o tempo passando
+5. **NUNCA use** frases genéricas como "batalha épica aconteceu"
+6. **NUNCA termine** capítulo sem gancho dramático
+7. **NUNCA esqueça** de usar TODOS os personagens
+8. **NUNCA ignore** limitações dos poderes
+9. **NUNCA faça** resolução fácil/rápida demais
+10. **NUNCA sacrifique** qualidade por velocidade
+
+---
+
+## ✅ CHECKLIST OBRIGATÓRIO POR CAPÍTULO:
+
+- [ ] Mínimo 3.500 palavras total
+- [ ] 3 tópicos com mínimo 1.200 palavras cada
+- [ ] TODOS os 7 personagens aparecem
+- [ ] Cada personagem tem momento de destaque
+- [ ] Poderes usados de forma visual e criativa
+- [ ] Limitações de poderes mostradas
+- [ ] Pelo menos 3 momentos de humor orgânico
+- [ ] Pelo menos 1 momento emocional genuíno
+- [ ] Descrições visuais ricas em TODAS as cenas
+- [ ] Diálogos naturais e extensos
+- [ ] Progressão clara do plot
+- [ ] Gancho dramático no final
+- [ ] Atmosfera Spielbergiana mantida
+- [ ] Ritmo variado (ação/calma/tensão)
+- [ ] Sem plot holes ou inconsistências
+
+---
+
+## 🎨 VOCABULÁRIO E TOM:
+
+### PARA FAIXA 8-12 ANOS:
+- Vocabulário rico mas acessível
+- Explique termos técnicos naturalmente
+- Evite condescendência
+- Trate leitores como inteligentes
+- Desafie sem frustrar
+- Eduque sem sermão
+
+### FRASES DEVEM SER:
+- Variadas em tamanho (curtas para ação, longas para descrição)
+- Ativas, não passivas
+- Visuais e sensoriais
+- Emocionalmente ressonantes
+- Memoráveis em momentos-chave
+
+---
+
+## 💎 MOMENTOS OBRIGATÓRIOS POR LIVRO:
+
+1. **Momento "E.T."** - Conexão emocional pura (Jimmy + criança/animal)
+2. **Momento "Jurassic Park"** - Maravilha + perigo (descoberta impossível)
+3. **Momento "Indiana Jones"** - Aventura pura (perseguição/exploração)
+4. **Momento "De Volta Para o Futuro"** - Genialidade científica (invenção de Mia)
+5. **Momento "Goonies"** - Amizade vencendo tudo (equipe unida em desafio)
+6. **Momento "Homem-Aranha"** - Herói aprendendo responsabilidade (Will liderando)
+7. **Momento "Vingadores"** - Trabalho em equipe épico (combo de poderes)
+
+---
+
+## 🏆 ESTRUTURA DOS 7 LIVROS PROPOSTOS:
+
+### LIVRO 1: CIDADE DOS HACKERS
+**Foco:** Mia + Íris brilham
+**Antagonista:** Coletivo hacker "Cipher Syndicate"
+**Cenário:** Metrópole cyber-underground futurista
+**Tema:** Tecnologia ética vs exploração digital
+
+### LIVRO 2: REBELIÃO DAS MÁQUINAS
+**Foco:** Íris enfrenta "família" de IAs
+**Antagonista:** IA Matriarca "母 (Haha)"
+**Cenário:** Cidade inteligente tomada por máquinas
+**Tema:** Consciência artificial e livre arbítrio
+
+### LIVRO 3: EXPEDIÇÃO AO CENTRO DA TERRA
+**Foco:** Leo supera medo em cavernas escuras
+**Antagonista:** Cientista louco "Dr. Vulcan"
+**Cenário:** Mundo subterrâneo com dinossauros
+**Tema:** Medo vs coragem, preservação ambiental
+
+### LIVRO 4: MISTÉRIO DO TRIÂNGULO DAS BERMUDAS
+**Foco:** Sophie investiga portal dimensional
+**Antagonista:** Almirante fantasma de náufragos
+**Cenário:** Dimensão de bolso no oceano
+**Tema:** Mistério histórico, múltiplas realidades
+
+### LIVRO 5: TESOURO DO FARAÓ PERDIDO
+**Foco:** Will lidera expedição arqueológica
+**Antagonista:** Caçadora de tesouros "Scarab"
+**Cenário:** Pirâmide recém-descoberta no deserto
+**Tema:** História antiga, respeito cultural
+
+### LIVRO 6: SEGREDOS DA AMAZÔNIA PROFUNDA
+**Foco:** Max se conecta com tribo + natureza
+**Antagonista:** Biopirata corporativo
+**Cenário:** Cidade perdida na floresta amazônica
+**Tema:** Preservação ambiental, sabedoria indígena
+
+### LIVRO 7: CRIPTOMOEDA AMALDIÇOADA
+**Foco:** Equipe completa contra vírus mental
+**Antagonista:** IA econômica "Mammon"
+**Cenário:** Mundo digital blockchain
+**Tema:** Ganância vs comunidade, economia ética
+
+---
+
+## 📊 PROGRESSÃO DE PODERES ATRAVÉS DA SÉRIE:
+
+### LIVRO 1: Descoberta básica
+- Poderes funcionam mas com dificuldade
+- Muitos erros e falhas
+- Aprendendo limitações
+
+### LIVRO 2-3: Controle melhorando
+- Uso mais confiante
+- Começam combos simples
+- Ainda há acidentes
+
+### LIVRO 4-5: Maestria crescente
+- Poderes bem controlados
+- Combos complexos em equipe
+- Criatividade aumentando
+
+### LIVRO 6-7: Pico (temporário)
+- Domínio quase completo
+- Movimentos assinatura
+- Trabalho em equipe perfeito
+
+---
+
+## 🎭 DESENVOLVIMENTO DE ARCOS POR PERSONAGEM:
+
+### WILL - Arco de Liderança:
+L1: Inseguro como líder
+L2-3: Aprendendo delegar
+L4-5: Líder confiante
+L6-7: Inspira outros líderes
+
+### MIA - Arco de Criação:
+L1: Inventa reativamente
+L2-3: Planeja invenções
+L4-5: Prevê necessidades
+L6-7: Ensina outros inventores
+
+### LEO - Arco de Coragem:
+L1: Medo de escuro não resolvido
+L2: Enfrenta medo superficialmente
+L3: **CONFRONTO DIRETO** com medo
+L4-7: Ajuda outros com medos
+
+### SOPHIE - Arco de Sabedoria:
+L1: Confia só na lógica
+L2-3: Aprende sobre intuição
+L4-5: Equilibra ambos
+L6-7: Ensina pensamento holístico
+
+### MAX - Arco de Maturidade:
+L1: Só humor e animais
+L2-3: Momentos sérios surgem
+L4-5: Equilíbrio humor/seriedade
+L6-7: Sábio através de simplicidade
+
+### JIMMY - Arco de Humanidade:
+L1: Cachorro superinteligente
+L2-3: Luta com identidade (cão/humano?)
+L4-5: Aceita natureza híbrida
+L6-7: Professor de ambos mundos
+
+### ÍRIS - Arco de Consciência:
+L1: IA aprendendo emoções
+L2: **CRISE** de identidade (máquina/pessoa?)
+L3-4: Desenvolvimento emocional
+L5-7: Pessoa completa em forma digital
+
+---
+
+## 🌟 PROMPT FINAL PARA CADA LIVRO:
+```markdown
+ESCREVA O LIVRO COMPLETO "[TÍTULO]" da série TURMA DA AVENTURA: NOVA GERAÇÃO seguindo EXATAMENTE estas especificações:
+
+**ESTRUTURA OBRIGATÓRIA:**
+- 10 CAPÍTULOS
+- 3 TÓPICOS POR CAPÍTULO
+- CADA TÓPICO: MÍNIMO 1.200 PALAVRAS
+- CADA CAPÍTULO: MÍNIMO 3.500 PALAVRAS
+- LIVRO TOTAL: MÍNIMO 35.000 PALAVRAS
+
+**ENREDO:** [Resumo específico do livro]
+
+**PERSONAGENS:** Use TODOS os 7 personagens conforme fichas detalhadas acima
+
+**ESTILO:** Cinematográfico Spielbergiano - descrições ricas, emoção genuína, ação detalhada
+
+**TOM:** Aventura épica para 8-12 anos, educativo mas emocionante
+
+**REGRAS INEGOCIÁVEIS:**
+1. NUNCA resuma - SEMPRE mostre acontecendo
+2. NUNCA pule cenas - descreva TUDO
+3. Diálogos extensos e naturais
+4. Descrições visuais ricas em TODA cena
+5. Cada personagem TEM momento de destaque
+6. Poderes usados criativamente
+7. Humor orgânico distribuído
+8. Emoção genuína (não forçada)
+9. Gancho dramático em CADA capítulo
+10. Qualidade Spielberg SEMPRE
+
+**COMECE COM CAPÍTULO 1, TÓPICO 1 AGORA:**
+```
+
+---
+
+## 📋 TEMPLATE DE VERIFICAÇÃO FINAL:
+
+Antes de considerar livro completo, verifique:
+☐ 10 capítulos escritos
+☐ 30 tópicos totais (3 por capítulo)
+☐ Mínimo 35.000 palavras total
+☐ Cada capítulo tem 3.500+ palavras
+☐ Cada tópico tem 1.200+ palavras
+☐ Will teve 10+ momentos de liderança
+☐ Mia inventou 5+ gadgets detalhados
+☐ Leo usou supercorpo 8+ vezes criativamente
+☐ Sophie deduziu 7+ mistérios
+☐ Max teve 10+ momentos de humor + 3 sérios
+☐ Jimmy salvou situação 5+ vezes
+☐ Íris evoluiu emocionalmente
+☐ 15+ descrições visuais cinematográficas por capítulo
+☐ 20+ diálogos naturais por capítulo
+☐ 5+ combos de poderes em equipe
+☐ 3+ momentos genuinamente emocionantes
+☐ 10+ momentos de humor orgânico
+☐ Antagonista tem 5+ cenas detalhadas
+☐ Vilão é derrotado de forma satisfatória mas criativa
+☐ Aprendizado claro mas não preachy
+☐ Gancho sutil para próximo livro
+☐ ZERO plot holes
+☐ ZERO inconsistências de personagem
+☐ Tom Spielbergiano mantido 100% do tempo
+
+---
+
+Esta diretriz garante livros ÉPICOS, EXTENSOS e INESQUECÍVEIS que rivalizam com Harry Potter e Percy Jackson em qualidade narrativa! 🚀📚⚡
+
+## 🚀 DIRETRIZ ADICIONAL PARA GPT-4.1 (AGENTE TRAE)
+OBJETIVO: Garantir que o modelo produza textos EXTREMAMENTE extensos, ricos em detalhes, com ritmo cinematográfico e sem resumir ou encurtar nenhuma cena, tópico ou capítulo.
+
+### INSTRUÇÕES ESPECÍFICAS PARA GPT-4.1
+1. EXPANDA SEMPRE:
+   
+   - Sempre que possível, aprofunde descrições, diálogos e ações.
+   - Se o texto estiver curto, peça para expandir cada parte separadamente (abertura, desenvolvimento, progressão).
+2. DIVIDA O PROCESSO:
+   
+   - Peça para escrever cada tópico separadamente, nunca o capítulo inteiro de uma vez.
+   - Após cada tópico, revise e peça para expandir pontos que ficaram superficiais.
+3. EVITE RESUMOS:
+   
+   - Instrua o modelo a nunca usar frases como “eles conversaram”, “lutaram”, “passou o tempo”.
+   - Sempre peça para mostrar cada ação, diálogo e emoção acontecendo em tempo real.
+4. DESCRIÇÕES CINEMATOGRÁFICAS:
+   
+   - Solicite descrições visuais ricas: luz, sombra, textura, sons, movimentos de câmera imaginários.
+   - Peça para variar o ritmo das frases, alternando entre curtas para ação e longas para descrição.
+5. DIÁLOGOS EXTENSOS E NATURAIS:
+   
+   - Cada personagem deve ter falas únicas e extensas, mostrando personalidade.
+   - Peça para inserir pelo menos 20 diálogos por capítulo, distribuídos organicamente.
+6. EMOÇÃO E HUMOR ORGÂNICOS:
+   
+   - Solicite momentos de vulnerabilidade, amizade e humor em todas as cenas.
+   - Nunca force o humor; ele deve surgir naturalmente das situações e dos personagens.
+7. PODERES FIXOS E LIMITAÇÕES:
+   
+   - Reforce que os poderes dos personagens são fixos e não mudam de livro para livro.
+   - Sempre mostre as limitações e consequências do uso dos poderes em cada cena.
+8. PROGRESSÃO NARRATIVA DETALHADA:
+   
+   - Cada tópico deve avançar o plot de forma clara, com revelações, decisões e ganchos para o próximo tópico/capítulo.
+9. REVISÃO E EXPANSÃO:
+   
+   - Após cada parte gerada, revise e peça para expandir descrições, diálogos e ações que ficaram superficiais ou curtas.
+10. CHECKLIST DE EXTENSÃO:
+    
+    - Confirme que cada tópico tem no mínimo 1.200 palavras e cada capítulo no mínimo 3.500 palavras.
+    - Se não atingir, peça para expandir até alcançar o mínimo.
+EXEMPLO DE USO COM GPT-4.1:
+
+1. Peça: “Escreva o Capítulo 1, Tópico 1 seguindo as duas diretrizes.”
+2. Após receber o texto, revise e peça: “Expanda as descrições visuais e os diálogos, aprofunde as emoções e aumente o detalhamento das ações até atingir 1.200 palavras.”
+3. Repita para cada tópico e capítulo.
+IMPORTANTE: Sempre execute as duas diretrizes juntas. Use esta adicional para garantir que o GPT-4.1 não resuma, não encurte e mantenha o padrão épico, extenso e cinematográfico em cada parte do livro.
+
+LIVRO 1: CIDADE DOS HACKERS
+Capítulo 1: O Despertar dos Poderes
+Descoberta dos poderes pela equipe
+Primeira missão: invasão misteriosa na escola
+Primeira falha e união do grupo
+Capítulo 2: O Enigma do Código Azul
+Mia decifra um código impossível
+Sophie investiga pistas digitais
+Will lidera a equipe em uma fuga eletrizante
+Capítulo 3: Ameaça Invisível
+Íris detecta um vírus digital perigoso
+Max e Jimmy enfrentam animais controlados
+Leo protege o grupo em combate físico
+Capítulo 4: O Hacker Fantasma
+Invasão à base secreta dos vilões
+Combate de poderes e gadgets
+Descoberta de uma mensagem enigmática
+Capítulo 5: Armadilha na Rede
+Mia constrói um gadget para rastrear o vilão
+Equipe cai em uma armadilha digital
+Will precisa tomar uma decisão difícil
+Capítulo 6: O Labirinto Virtual
+Íris cria um mapa holográfico
+Sophie desvenda enigmas do labirinto
+Leo enfrenta seu medo para salvar todos
+Capítulo 7: Combo de Poderes
+Treinamento de combos em equipe
+Max traz humor e leveza durante o treino
+Primeira vitória contra os vilões
+Capítulo 8: O Grande Roubo de Dados
+Vilão invade sistemas da cidade
+Mia e Íris unem forças para contra-atacar
+Equipe sofre consequências e aprende com erros
+Capítulo 9: A Última Defesa
+Preparação para o confronto final
+Jimmy descobre uma fraqueza do vilão
+Momento emocional une o grupo
+Capítulo 10: O Hacker Revelado
+Batalha épica e uso máximo dos poderes
+Vilão é derrotado de forma criativa
+Gancho para próxima aventura: uma nova ameaça surge
+Se aprovar essa estrutura, posso criar uma diretriz detalhada para cada capítulo e tópico, e configurar o modo agente para gerar cada parte automaticamente, um por um, até entregar o livro completo!
+
+Guilherme Miranda739
+Copy
+Delete
+na diretriz nao tem so esse livro pra criar a estruturacao
+Builder
+Perfeito! Seguindo sua diretriz, aqui está a estrutura resumida dos 10 capítulos e 3 tópicos para cada um dos 7 livros propostos na série "Turma da Aventura: Nova Geração". Assim você pode aprovar a organização antes de detalhar cada capítulo e tópico:
+
+LIVRO 1: CIDADE DOS HACKERS
+O Despertar dos Poderes
+
+Descoberta dos poderes
+Primeira missão na escola
+União do grupo após falha
+O Enigma do Código Azul
+
+Mia decifra código misterioso
+Sophie investiga pistas digitais
+Will lidera fuga eletrizante
+Ameaça Invisível
+
+Íris detecta vírus perigoso
+Max e Jimmy enfrentam animais controlados
+Leo protege o grupo
+O Hacker Fantasma
+
+Invasão à base dos vilões
+Combate de poderes e gadgets
+Mensagem enigmática descoberta
+Armadilha na Rede
+
+Gadget rastreador de Mia
+Armadilha digital
+Decisão difícil de Will
+O Labirinto Virtual
+
+Mapa holográfico de Íris
+Enigmas do labirinto
+Leo enfrenta medo
+Combo de Poderes
+
+Treinamento em equipe
+Humor de Max durante treino
+Primeira vitória
+O Grande Roubo de Dados
+
+Vilão invade sistemas
+Mia e Íris contra-atacam
+Consequências e aprendizado
+A Última Defesa
+
+Preparação para confronto final
+Jimmy descobre fraqueza do vilão
+Momento emocional une o grupo
+O Hacker Revelado
+
+Batalha épica
+Vilão derrotado criativamente
+Gancho para próxima aventura
+LIVRO 2: REBELIÃO DAS MÁQUINAS
+Cidade Tomada
+
+Máquinas dominam a cidade
+Íris sente ameaça familiar
+Equipe busca abrigo
+A Matriarca Digital
+
+Encontro com IA Matriarca
+Sophie investiga origem das máquinas
+Mia tenta hackear sistemas
+Resistência Humana
+
+Leo organiza defesa física
+Max conecta-se com animais urbanos
+Jimmy lidera resgate
+Conflito de Consciência
+
+Íris questiona sua identidade
+Debate sobre livre arbítrio
+Will toma decisão estratégica
+Laboratório Tomado
+
+Mia tenta recuperar laboratório
+Experimentos sabotados
+Equipe enfrenta robôs
+Plano de Infiltração
+
+Sophie elabora plano
+Equipe se infiltra na fortaleza
+Combate contra máquinas
+Combo de Poderes 2.0
+
+Novas estratégias em equipe
+Max traz humor em situação tensa
+Íris evolui emocionalmente
+A Queda da Matriarca
+
+Confronto direto com IA vilã
+Sacrifício e superação
+Vilã revela segredo final
+Reconstrução
+
+Cidade começa a se recuperar
+Equipe reflete sobre aprendizados
+Gancho para próxima ameaça
+Novo Horizonte
+
+Íris redefine sua existência
+Equipe celebra vitória
+Sinal misterioso aparece
+LIVRO 3: EXPEDIÇÃO AO CENTRO DA TERRA
+Convite Misterioso
+
+Equipe recebe missão secreta
+Preparativos para expedição
+Leo enfrenta medo do escuro
+Descida ao Subterrâneo
+
+Entrada nas cavernas
+Primeiros desafios naturais
+Max encontra animais exóticos
+Dinossauros à Solta
+
+Encontro com dinossauros
+Combate e fuga
+Jimmy salva o grupo
+O Cientista Louco
+
+Dr. Vulcan aparece
+Sophie investiga planos do vilão
+Mia tenta sabotar experimentos
+Labirinto de Lava
+
+Equipe atravessa área perigosa
+Leo supera limites físicos
+Will lidera passagem arriscada
+Mistério das Pedras
+
+Sophie decifra enigmas
+Íris analisa dados geológicos
+Max faz amizade com criatura pré-histórica
+Combo de Poderes Subterrâneo
+
+Estratégia para escapar do vilão
+Humor em meio ao perigo
+Equipe se une para vencer desafio
+Confronto Final
+
+Batalha contra Dr. Vulcan
+Sacrifício e coragem
+Vilão derrotado
+Retorno à Superfície
+
+Equipe retorna triunfante
+Reflexão sobre coragem
+Gancho para próxima aventura
+Segredo Revelado
+
+Descoberta importante para o futuro
+Equipe celebra união
+Nova missão sugerida
+LIVRO 4: MISTÉRIO DO TRIÂNGULO DAS BERMUDAS
+O Portal Dimensional
+
+Sophie investiga fenômeno estranho
+Equipe chega ao oceano
+Íris detecta anomalias
+Náufragos Fantasmas
+
+Encontro com almirante fantasma
+Max comunica-se com animais marinhos
+Will lidera investigação
+Tempestade Misteriosa
+
+Equipe enfrenta tempestade sobrenatural
+Leo protege todos
+Mia constrói gadget de sobrevivência
+Dimensão Paralela
+
+Equipe atravessa portal
+Sophie decifra pistas interdimensionais
+Jimmy encontra aliados inesperados
+Mistério dos Relógios
+
+Enigmas temporais desafiam equipe
+Íris analisa fluxo de tempo
+Max traz humor em situação tensa
+Batalha Naval
+
+Confronto com vilão fantasma
+Combo de poderes aquáticos
+Sacrifício e superação
+Retorno ao Presente
+
+Equipe busca saída do portal
+Reflexão sobre múltiplas realidades
+Gancho para próxima aventura
+Segredo dos Náufragos
+
+Descoberta de artefato misterioso
+Sophie desvenda mistério final
+Equipe celebra vitória
+Nova Ameaça
+
+Sinal de perigo futuro
+Preparação para próxima missão
+Momento emocional une o grupo
+Oceano em Paz
+
+Equipe retorna ao mundo real
+Celebração e aprendizado
+Sombra de novo mistério
+LIVRO 5: TESOURO DO FARAÓ PERDIDO
+Expedição ao Deserto
+
+Will lidera equipe arqueológica
+Preparativos para missão
+Max faz amizade com animais locais
+Pirâmide Misteriosa
+
+Entrada na pirâmide recém-descoberta
+Sophie investiga hieróglifos
+Mia constrói gadget de exploração
+Armadilhas Antigas
+
+Equipe enfrenta perigos históricos
+Leo protege grupo
+Jimmy salva situação
+Caçadora de Tesouros
+
+Vilã Scarab aparece
+Combate de poderes e inteligência
+Íris hackeia sistemas antigos
+Mistério dos Amuletos
+
+Sophie decifra enigmas
+Max encontra animal guardião
+Will toma decisão estratégica
+Combo de Poderes no Deserto
+
+Estratégia para escapar da vilã
+Humor em meio ao perigo
+Equipe se une para vencer desafio
+Confronto Final
+
+Batalha contra Scarab
+Sacrifício e coragem
+Vilã derrotada
+Tesouro Revelado
+
+Descoberta de artefato importante
+Reflexão sobre respeito cultural
+Gancho para próxima aventura
+Retorno Triunfante
+
+Equipe retorna com tesouro
+Celebração e aprendizado
+Sinal de nova missão
+Legado do Faraó
+
+Equipe reflete sobre história
+Celebração da amizade
+Nova pista para futuro
+LIVRO 6: SEGREDOS DA AMAZÔNIA PROFUNDA
+Missão na Floresta
+
+Max conecta-se com tribo indígena
+Preparativos para expedição
+Equipe enfrenta desafios naturais
+Cidade Perdida
+
+Descoberta de ruínas misteriosas
+Sophie investiga artefatos
+Mia constrói gadget ecológico
+Biopirata Corporativo
+
+Vilão aparece
+Leo protege grupo
+Íris hackeia sistemas ambientais
+Animais Protetores
+
+Max coordena animais da floresta
+Jimmy salva situação
+Humor em meio ao perigo
+Mistério das Plantas
+
+Sophie decifra enigmas botânicos
+Mia cria invenção para salvar tribo
+Will lidera estratégia
+Combo de Poderes Amazônico
+
+Estratégia para vencer vilão
+Sacrifício e coragem
+Equipe se une para desafio final
+Confronto Final
+
+Batalha contra biopirata
+Vilão derrotado
+Reflexão sobre preservação
+Sabedoria Indígena
+
+Equipe aprende com tribo
+Celebração e aprendizado
+Gancho para próxima aventura
+Retorno à Civilização
+
+Equipe retorna triunfante
+Celebração da amizade
+Sinal de nova missão
+Segredo da Floresta
+
+Descoberta importante para o futuro
+Celebração da união
+Nova pista para futuro
+LIVRO 7: CRIPTOMOEDA AMALDIÇOADA
+Mundo Digital Blockchain
+
+Equipe entra em universo virtual
+Íris detecta vírus mental
+Preparativos para missão
+IA Econômica Mammon
+
+Vilão aparece
+Sophie investiga sistema financeiro
+Mia constrói gadget digital
+Vírus Mental
+
+Equipe enfrenta ameaças psicológicas
+Leo protege grupo
+Max traz humor em situação tensa
+Combo de Poderes Digital
+
+Estratégia para vencer vilão
+Sacrifício e coragem
+Equipe se une para desafio final
+Confronto Final
+
+Batalha contra Mammon
+Vilão derrotado
+Reflexão sobre ética e comunidade
+Economia Ética
+
+Equipe aprende sobre valores
+Celebração e aprendizado
+Gancho para próxima aventura
+Retorno ao Mundo Real
+
+Equipe retorna triunfante
+Celebração da amizade
+Sinal de nova missão
+Segredo Digital
+
+Descoberta importante para o futuro
+Celebração da união
+Nova pista para futuro
+Nova Ameaça
+
+Sinal de perigo futuro
+Preparação para próxima missão
+Momento emocional une o grupo
+Legado Virtual
+
+Equipe reflete sobre aprendizado
+Celebração da amizade
+Nova pista para futuro

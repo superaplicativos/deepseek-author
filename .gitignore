@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+temp/
+tmp/
+
+# Microsoft Office
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+.~lock.*
+
+# Project specific
+*.epub
+*.mobi
+*.azw3
+relatorio_growth/
+output/
+
+# Large DOCX files (>100MB) - GitHub limit
+ARQUIVADOS/LIVRO1-VERSOES-ANTIGAS/*.docx
+LIVROS/SERIE-VIAJANTES-DO-TEMPO/LIVRO-01-MAQUINA-DO-TEMPO/DE/Serie_Turma_da_Aventura-DE-GRATUITO.docx
+# Files with unusual names
+LIVROS/SERIE-VIAJANTES-DO-TEMPO/LIVRO-06-FUTURO/EN && *
+
+nul
+*.nul

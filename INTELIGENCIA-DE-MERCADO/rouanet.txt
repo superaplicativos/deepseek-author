@@ -1,0 +1,307 @@
+Análise Técnica de Viabilidade e Gestão de Projetos Literários via Lei Rouanet: Do Ciclo Orçamentário à Captação Estratégica
+O cenário do fomento cultural brasileiro, regido pelo Programa Nacional de Apoio à Cultura (Pronac), estabelecido pela Lei n.º 8.313/1991 (Lei Rouanet), atravessa um momento de consolidação técnica sob a égide da Instrução Normativa MinC n.º 23, de 5 de fevereiro de 2025. Para proponentes do setor editorial e de humanidades, a transição para este novo marco regulatório exige uma compreensão profunda dos mecanismos de renúncia fiscal, que permitem a pessoas jurídicas tributadas pelo lucro real deduzirem até 4% do imposto de renda devido, enquanto pessoas físicas podem deduzir até 6%. O mercado de livros, especificamente, ocupa uma posição singular dentro deste ecossistema, pois transita entre a produção de bens tangíveis — a obra física — e a realização de eventos de difusão, como feiras e festivais literários, que têm demonstrado maior capacidade de atração de grandes investidores.   
+
+A análise dos dados extraídos do sistema Versalic e do Salic aponta para uma tendência de profissionalização extrema na elaboração das propostas. A complexidade do sistema de fomento não reside apenas na aprovação técnica pelo Ministério da Cultura, mas na superação do gargalo da captação de recursos. Evidências empíricas indicam uma concentração histórica de capital: cerca de 50% dos recursos captados anualmente são direcionados a apenas 3% dos proponentes, evidenciando que organizações com maior musculatura administrativa e histórico de execução possuem vantagens competitivas na negociação com patrocinadores. No entanto, projetos literários de menor escala encontram viabilidade através de editais específicos de fundações e programas de responsabilidade social corporativa (ESG), que buscam impacto direto em comunidades vulneráveis ou na formação de novos leitores.   
+
+Análise de Projetos Literários Referenciais: Desempenho e Impacto
+A seleção dos projetos abaixo reflete a diversidade do segmento de Humanidades e Livros nos últimos seis anos. Os dados foram compilados a partir do Portal Versalic e de relatórios de transparência de grandes incentivadores, como Petrobras e Vale. Observa-se que projetos que integram a edição de livros com ações de mediação de leitura ou eventos de circulação apresentam taxas de captação mais elevadas devido ao potencial de exposição de marca para o patrocinador.   
+
+Lista de Projetos Literários com Captação Comprovada (Seção A)
+Título do Projeto	Proponente	Link Versalic / PRONAC	Ano Aprovação	Valor Aprovado (R$)	Valor Captado (R$)	Patrocinadores Principais	Tipo / Impacto	Execução (Sim/Não; Evidência)
+Fliaraxá - Festival Literário de Araxá	Associação Cultural de Araxá	(https://versalic.cultura.gov.br/)	2024	R$ 1.500.000,00	R$ 1.500.000,00	Instituto Cultural Vale, Gerdau, Cedro, Ferro Puro	
+Circulação/Evento; Impacto regional em MG e formação de público 
+
+Sim; Evento realizado anualmente com prestação de contas ativa.
+A Feira do Livro 2025	Associação Quatro Cinco Um	(https://versalic.cultura.gov.br/)	2024	R$ 2.000.000,00+	Captado (Master)	Petrobras (Apresentadora Exclusiva)	
+Circulação; Debates literários e transmissão ao vivo no Pacaembu 
+
+Sim; Programação anunciada para Junho de 2025.
+Ler e Aprender é Viver 2025	Instituto Brasil Cidadão	PRONAC 246015	2024	R$ 534.776,59	Em captação	Editais corporativos e individuais	
+Edição/Mediação; Atendimento a 303 crianças e oficinas de leitura 
+
+Sim; Continuidade de ações iniciadas em ciclos anteriores.
+Memória do Transporte Brasileiro – Etapa 2	Fundação Memória do Transporte (FuMTran)	PRONAC 221494	2022	R$ 1.408.140,00	R$ 1.358.060,31	Empresas do setor de logística e transportes	
+Acervo/Edição; Organização de portal e publicação de livros históricos 
+
+Sim; Finalização da execução prevista para 31/12/2024.
+Livro: A História do Transporte na Amazônia	Fundação Memória do Transporte (FuMTran)	PRONAC 245199	2024	R$ 895.323,32	Disponível	Segmento industrial e logístico	
+Produção Editorial; Registro histórico regional com foco em infraestrutura 
+
+Sim; Início da execução em Janeiro de 2025.
+Projeto LER Faz Bem	Proponente Institucional (Apoio Mann+Hummel)	(https://versalic.cultura.gov.br/)	2024	Não divulgado	Efetivado	MANN+HUMMEL Brasil	
+Edição/Educação; Impacto em 20 mil alunos e celebração da leitura 
+
+Sim; Premiação de animações digitais baseadas em livros realizada.
+Leitores em Ação	Organização Des. Potencial Humano	(https://versalic.cultura.gov.br/)	2024	Faixa R$ 200k-500k	Efetivado	Gazeta do Povo, SESI PR	
+Circulação; Curadoria literária para Educação Infantil e Médio 
+
+Sim; Relatório de Boas Práticas e Prêmio SESI ODS 2025.
+XII Bienal do Livro de Campos dos Goytacazes	Fund. Cultural Jornalista Oswaldo Lima	(https://versalic.cultura.gov.br/)	2023	R$ 1.200.000,00 (Est.)	Captado Parcial	Empresas Locais e Governo Municipal	
+Circulação/Evento; Bienal regional com lançamentos e palestras 
+
+Sim; Realizada em 2024 com ampla cobertura de imprensa.
+Livro: A História e a Linha do Tempo do Transporte	Fundação Memória do Transporte (FuMTran)	PRONAC 238888	2023	R$ 889.834,69	Disponível	Setor Rodoviário	
+Edição/Produção; Publicação técnica e histórica com cronologia setorial 
+
+Sim; Fase de captação concluída para execução em 2025.
+Plano Anual Casa Fiat de Cultura 2023	Casa Fiat de Cultura	(https://versalic.cultura.gov.br/)	2022	R$ 6.462.853,42	R$ 6.462.853,42	Stellantis (Fiat Chrysler)	
+Acervo/Integrado; Inclui catálogos literários e edições de luxo 
+
+Sim; Execução completa com ações de literatura e artes visuais.
+  
+A análise qualitativa destes projetos revela que a aprovação no Ministério da Cultura é apenas o primeiro passo técnico. Projetos como a "A Feira do Livro" utilizam a visibilidade de palcos abertos e transmissões digitais para atrair patrocinadores máster como a Petrobras, que busca alinhar sua marca a eixos de diversidade e economia criativa. Já projetos focados em nichos, como os da FuMTran, utilizam a relevância técnica para atrair empresas do próprio setor (logística), demonstrando que o conhecimento do "stakeholder" é fundamental para a viabilidade financeira.   
+
+Arquitetura Orçamentária e Modelos de Projeto (Seções B e C)
+O planejamento financeiro de um projeto literário deve respeitar os tetos estabelecidos pela Instrução Normativa vigente e as tabelas referenciais de mercado, como as do Sindicato de Agências de Propaganda e indicadores da FGV. De acordo com a IN 23/2025, os custos de captação de recursos estão limitados a 10% do valor total do projeto, não podendo exceder o teto de R$150.000,00 por projeto (ou por ano, em caso de planos plurianuais).   
+
+Modelos de Projeto por Escala de Investimento
+A estruturação orçamentária varia conforme o "produto principal" do projeto. Em projetos de livros, o orçamento deve equilibrar os custos de produção (pré-impressão e gráfica) com os custos vinculados (divulgação e acessibilidade), que são fundamentais para a aprovação técnica.   
+
+Categoria do Modelo	Faixa de Valor Sugerida (R$)	Justificativa Estratégica	Itens de Orçamento Prioritários
+Pequeno Porte (Obra Única/Independente)	R$50.000,00 a R$180.000,00	Foco em excelência editorial e distribuição dirigida (doação a bibliotecas). Menor risco de execução.	Direitos autorais, Revisão (2 turnos), Diagramação, ISBN, Capa, Impressão (tiragem 1k), Administração (Contador).
+Médio Porte (Coleção ou Circulação Regional)	R$200.000,00 a R$750.000,00	Permite equipe profissional e ações de lançamento itinerantes em 3 a 5 cidades. Atrai empresas de médio porte.	Equipe técnica (Produtor executivo), Coordenação editorial, Logística de distribuição, Assessoria de imprensa, Audiolivro (Acessibilidade).
+Grande Porte (Festivais ou Planos Plurianuais)	R$800.000,00 a R$3.000.000,00+	Alta visibilidade, atrai grandes corporações e estatais. Requer infraestrutura complexa e curadoria.	Curadoria internacional, Montagem de stands, Transmissão digital, Marketing de grande escala, Captação de recursos, Assessoria jurídica.
+Em termos de facilidade de captação, observa-se uma dinâmica contra-intuitiva: projetos de grande porte muitas vezes encontram patrocinadores com maior celeridade do que pequenos projetos. Isso se deve ao fato de que grandes incentivadores, como bancos e mineradoras, possuem departamentos de marketing que buscam projetos capazes de absorver grandes montantes de incentivo fiscal em uma única operação, reduzindo o custo operacional de gestão de dezenas de pequenos contratos. O pequeno proponente deve compensar essa dificuldade através de "redes de confiança" e parcerias com fornecedores locais.   
+
+Estimativa de Custos Unitários para Serviços Editoriais
+Para a elaboração da planilha no Salic, o proponente deve utilizar valores que reflitam a realidade de mercado para evitar glosas (cortes) por sobrepreço.
+
+Diagramação: R$20,00 a R$55,00 por página (dependendo da complexidade gráfica).
+
+Tradução (Inglês/Espanhol): R$65,00 a R$130,00 por lauda de 2.100 caracteres.
+
+Revisão de Texto: R$12,00 a R$30,00 por lauda (duas leituras: gramatical e prova técnica).
+
+Capa e Projeto Gráfico: R$1.500,00 a R$8.000,00 (dependendo do renome do designer).
+
+Impressão (Offset): Estimada em R$25,00 a R$45,00 por unidade para livros de arte em capa dura (tiragem 1.000).
+
+Acessibilidade (Braille/Audiolivro): Item obrigatório. Um audiolivro de 200 páginas pode variar entre R$4.000,00 e R$12.000,00.   
+
+Mapeamento de Oportunidades: Onde e Como Captar (Seção D)
+A captação de recursos exige uma abordagem segmentada. Não se deve prospectar empresas aleatoriamente, mas sim aquelas com histórico de investimento no setor de humanidades e livros. A priorização deve ocorrer conforme o alinhamento de valores entre o projeto e a marca.   
+
+Matriz de Patrocinadores e Programas Literários
+Perfil do Patrocinador	Exemplos de Empresas/Institutos	Canais de Acesso / Links	Estratégia de Abordagem
+Estatais (Editais)	Petrobras, Banco do Brasil, BNDES, Caixa	
+(https://petrobras.com.br/cultural/selecoes-publicas-culturais) 
+
+Participação em seleções públicas anuais. Foco em brasilidade e diversidade regional.
+
+Mineradoras e Siderúrgicas	Instituto Cultural Vale, Gerdau, ArcelorMittal	
+Instituto Vale 
+
+Projetos com impacto em áreas de influência (MG, PA, ES, RS). Foco em patrimônio e festivais.
+
+Setor Financeiro	Itaú (Fundação Itaú), Santander Cultural, Bradesco	
+(https://www.itausocial.org.br/editais/) 
+
+Foco em educação, formação de leitores e bibliotecas comunitárias.
+
+Setor Automotivo e Industrial	Fiat (Stellantis), MANN+HUMMEL, Cummins	
+Portal do Incentivo 
+
+Patrocínio direto focado em ESG e sustentabilidade. Relacionamento com RH e Marketing.
+
+Crowdfunding Complementar	Catarse (Matchfunding BNDES), Benfeitoria	Catarse	Arrecadação de contrapartida para pequenos projetos ou pré-venda de exemplares.
+  
+A captação bem-sucedida baseia-se na transparência. O uso de plataformas como o Versalic permite ao proponente identificar exatamente quanto cada empresa investiu e em quais tipos de projetos, permitindo uma prospecção cirúrgica.   
+
+Rigor Técnico e Governança no SALIC (Seção E)
+O Sistema de Apoio às Leis de Incentivo à Cultura (SALIC) é a interface obrigatória para a submissão de propostas. A reprovação técnica muitas vezes não decorre do mérito artístico, mas de falhas na instrução documental ou na justificativa legal.   
+
+Checklist de Submissão e Documentos Obrigatórios
+Identificação do Proponente: Para pessoas jurídicas, o estatuto social deve prever atividades culturais. O CNAE (Classificação Nacional de Atividades Econômicas) deve ser compatível com o setor editorial (ex: 5811-5/00 - Edição de Livros).   
+
+Certidões de Regularidade (CND): O proponente deve estar em dia com a Receita Federal, FGTS e Justiça do Trabalho. Inadimplências impedem a movimentação de contas bancárias vinculadas ao Pronac.   
+
+Justificativa e Objetivos: A redação deve demonstrar como o projeto atende aos princípios do Artigo 1º da Lei Rouanet, focando na preservação do patrimônio cultural e estímulo à produção nacional.   
+
+Democratização do Acesso: É obrigatório detalhar como o projeto será acessível a pessoas com deficiência (Art. 75 da IN) e as medidas de gratuidade (mínimo de 20% da tiragem para doação gratuita em bibliotecas públicas ou escolas).   
+
+Acessibilidade Comunicacional: Custos com intérpretes de Libras, braille ou audiodescrição são considerados custos vinculados essenciais para a aprovação.   
+
+Indicadores de Risco e Mitigação
+Risco de Subcaptação: Mitigar através da apresentação de cartas de interesse de patrocinadores ou histórico de execução. Projetos que não captam o mínimo necessário (geralmente 20% para início) podem ter o prazo de captação encerrado sem execução.
+
+Inconsistência Orçamentária: Utilizar a plataforma "Salic Comparar" para validar se os preços de fornecedores estão alinhados com o histórico de projetos similares aprovados.   
+
+Falha de Direitos Autorais: Anexar contrato de cessão de direitos ou autorização expressa do autor. No caso de obras em domínio público, apresentar a devida comprovação.
+
+Estratégia de Captação e Contrapartidas (Seção F)
+A estratégia de captação deve ser profissionalizada, separando a "proposta cultural" (MinC) da "proposta de patrocínio" (Empresa). As empresas buscam retorno institucional e alinhamento com metas de sustentabilidade.   
+
+O Passo a Passo da Mobilização
+Montagem do Mailing: Pesquise empresas tributadas pelo Lucro Real que operam na região do projeto. Utilize o Portal da Transparência e o Versalic para filtrar por "Incentivadores" recorrentes no estado.   
+
+Desenvolvimento do Pitch Comercial: O foco não deve ser apenas o livro, mas o impacto social. Use o modelo: "O projeto [Nome] visa impactar [Público] em [Localidade], oferecendo à sua empresa visibilidade em [Plataforma] e alinhamento com o ODS [Número].".   
+
+Definição de Contrapartidas:
+
+Visibilidade Master: Inclusão de logomarca em destaque na capa, contracapa, site oficial e todas as peças de divulgação (obrigatória a marca da Lei Rouanet e Governo Federal).   
+
+Quotas de Exemplares: Cessão de até 10% da tiragem para que o patrocinador utilize em suas ações de relacionamento.   
+
+Ações de Engajamento: Palestras exclusivas do autor para colaboradores da empresa ou workshops literários para filhos de funcionários.   
+
+Naming Rights: Para festivais, a empresa pode assinar o nome de um palco ou auditório (ex: "Auditório Petrobras").   
+
+Anexos e Evidências Normativas (Seção G)
+Para aprofundamento técnico e conformidade jurídica, o proponente deve consultar os seguintes documentos e ferramentas oficiais:
+
+Portal VERSALIC: Para pesquisa de projetos similares, valores captados e patrocinadores ativos (versalic.cultura.gov.br).   
+
+SALIC Comparar: Ferramenta de BI para comparação de custos e indicadores de captação (sistemas.cultura.gov.br/comparar).   
+
+Manual do Proponente 2025 (Módulo I e II): Orientações passo a passo sobre navegação no sistema, monitoramento e prestação de contas.   
+
+Instrução Normativa MinC nº 23/2025: O texto legal que rege todas as submissões atuais.   
+
+Manual de Uso de Marcas Pronac: Guia obrigatório para aplicação de logotipos em produtos culturais.   
+
+Conclusões e Recomendações Estratégicas
+A análise aplicada dos projetos literários no âmbito da Lei Rouanet demonstra que o sucesso na captação de recursos é fruto de um planejamento que transcende a obra literária em si. O setor de livros no Brasil, embora enfrente desafios estruturais de distribuição, encontra no incentivo fiscal uma alavanca poderosa para a democratização do conhecimento e o fortalecimento da economia criativa. Para maximizar as chances de êxito, recomendam-se as seguintes diretrizes práticas:
+
+Integre o Livro a uma Ação de Mediação: Projetos que preveem apenas a impressão tendem a ter menor interesse corporativo. Inclua circuitos de lançamento, debates em escolas ou programas de formação de mediadores para aumentar o valor social da proposta.   
+
+Aposte na Regionalização: O Ministério da Cultura e grandes estatais como a Petrobras têm priorizado projetos que descentralizam o investimento cultural. Apresentar propostas que ocorram fora do eixo Rio-São Paulo aumenta a competitividade em editais.   
+
+Zele pela Conformidade do CNAE: Antes de submeter, certifique-se de que o objeto social da sua empresa/instituição é estritamente cultural. Falhas simples na Classificação de Atividades Econômicas são causas frequentes de inabilitação precoce.   
+
+Desenvolva um Relacionamento ESG com Patrocinadores: Aborde as empresas não apenas pedindo patrocínio, mas oferecendo uma solução para os seus relatórios de sustentabilidade. Mostre como o projeto literário contribui para os Objetivos de Desenvolvimento Sustentável (ODS).   
+
+Utilize a Acessibilidade como Diferencial Qualitativo: Não trate a acessibilidade apenas como um custo obrigatório. Transforme-a em um produto (ex: uma versão sonora de alta qualidade ou um aplicativo interativo), o que amplia o público-alvo e a atratividade para o investidor social.   
+
+
+gov.br
+MANUAL DO PROPONENTE - Portal Gov.br
+Abre em uma nova janela
+
+gov.br
+INSTRUÇÃO NORMATIVA MinC nº 23, DE 5 DE FEVEREIRO DE 2025 - Portal Gov.br
+Abre em uma nova janela
+
+direcaocultura.com.br
+Tabela de Incentivos
+Abre em uma nova janela
+
+quatrocincoum.com.br
+A Feira do Livro 2025 tem Petrobras como principal patrocinador - Quatro cinco um
+Abre em uma nova janela
+
+valorcultural.com.br
+Qual Transparência as 6 Maiores Patrocinadoras Dão ao Seu Incentivo Fiscal?
+Abre em uma nova janela
+
+repositorio.utad.pt
+PANORAMA E IMPACTOS DOS FESTIVAIS CULTURAIS NO ESTADO DO CEARÁ - BRASIL Dissertação de mestrado
+Abre em uma nova janela
+
+blog.prosas.com.br
+10 Maiores Organizações Culturais Beneficiadas em 2024 - Blog Prosas
+Abre em uma nova janela
+
+fadc.org.br
+incentivos-fiscais-em-beneficio-de-crianacas-e-adolescentes.pdf - Fundação Abrinq
+Abre em uma nova janela
+
+indaiatuba.sp.gov.br
+Segunda edição do Indaiatuba Sustentável amplia ações
+Abre em uma nova janela
+
+itausocial.org.br
+Relatório Anual 2024 - Fundação Itaú Social
+Abre em uma nova janela
+
+versalic.cultura.gov.br
+VERSALIC - Portal de Visualização do Sistema de Apoio às Leis de ...
+Abre em uma nova janela
+
+arteemcurso.com
+O que é possível oferecer como contrapartida às empresas patrocinadoras? - Arte em Curso
+Abre em uma nova janela
+
+brasilcidadao.org.br
+O Projeto - LER E APRENDER É VIVER 2025 ICAPUÍ - CE - Fundação Brasil Cidadão
+Abre em uma nova janela
+
+brasilcidadao.org.br
+Ler e aprender é viver 2025 - Fundação Brasil Cidadão
+Abre em uma nova janela
+
+fumtran.org.br
+Como Patrocinar - FuMTran
+Abre em uma nova janela
+
+sesipr.org.br
+Boas Práticas Parcerias Sustentáveis 2025 - Sesi
+Abre em uma nova janela
+
+campos.rj.gov.br
+Lei Rouanet: Projetos para Carnaval e Bienal serão anunciados nesta quarta-feira - Prefeitura de Campos dos Goytacazes
+Abre em uma nova janela
+
+radiovia5.com
+Projetos da Lei Rouanet são divulgados e visam patrocínio para Carnaval e Bienal
+Abre em uma nova janela
+
+j3news.com
+Projetos para o Carnaval e a Bienal serão anunciados nesta quarta-feira pela Prefeitura de Campos - J3News
+Abre em uma nova janela
+
+graficos.poder360.com.br
+projetos aprovados pela Lei Rouanet - Poder360
+Abre em uma nova janela
+
+petrobras.com.br
+Programa Petrobras Cultural: cultura é energia
+Abre em uma nova janela
+
+secult.es.gov.br
+Tabelas referenciais - SECULT
+Abre em uma nova janela
+
+pncp.gov.br
+Lista Referencial de Preços - Portal Nacional de Contratações Públicas - PNCP
+Abre em uma nova janela
+
+institutoayrtonsenna.org.br
+Lei Rouanet: Como apoiar os projetos do Instituto Ayrton Senna
+Abre em uma nova janela
+
+petrobras.com.br
+Seleções Públicas Culturais | Petrobras
+Abre em uma nova janela
+
+secult.mg.gov.br
+Noticias - Secretaria de Estado de Cultura e Turismo - SECULT
+Abre em uma nova janela
+
+itausocial.org.br
+Editais | Itaú Social
+Abre em uma nova janela
+
+portaldoincentivo.com.br
+Patrocinadores por Edital - Portal do Incentivo
+Abre em uma nova janela
+
+gov.br
+Pesquise projetos e dados — Ministério da Cultura - Portal Gov.br
+Abre em uma nova janela
+
+institutoculturalvale.org
+Manual de Elaboração e Gestão de Projetos Culturais para a Lei Federal de Incentivo à Cultura - Instituto Cultural Vale |
+Abre em uma nova janela
+
+transparencia.petrobras.com.br
+Seleções Públicas Culturais - Portal de Transparência da Petrobras
+Abre em uma nova janela
+
+legisweb.com.br
+Instrução Normativa MINC Nº 23 DE 05/02/2025 - Federal - LegisWeb
+Abre em uma nova janela
+
+gov.br
+MANUAL DO PROPONENTE - Portal Gov.br
+Abre em uma nova janela
+

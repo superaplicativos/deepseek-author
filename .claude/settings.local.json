@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__serena__list_dir",
+      "Bash(ls:*)",
+      "Bash(for i in {01..09})",
+      "Bash(do mkdir -p \"LIVROS/LIVRO-$i\")",
+      "Bash(done)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "WebSearch",
+      "Bash(dir /s PITCH-DECK-TECH-AUTOMATION.pdf)",
+      "Bash(findstr:*)",
+      "Bash(dir \"D:\\\\TRAE-PROJETOS\\\\livro1\\\\BIZANTINO\\\\LIVROS\" /b /ad)",
+      "Bash(if not exist \"D:\\\\TRAE-PROJETOS\\\\livro1\\\\BIZANTINO\\\\LIVROS\\\\LIVRO-07-CONSTANTINOPLA\\\\EN\" mkdir \"D:\\\\TRAE-PROJETOS\\\\livro1\\\\BIZANTINO\\\\LIVROS\\\\LIVRO-07-CONSTANTINOPLA\\\\EN\")",
+      "Bash(mkdir:*)",
+      "Bash(tasklist:*)",
+      "Bash(find:*)",
+      "Bash(file:*)",
+      "Bash(git pull:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git rm:*)",
+      "Bash(git branch:*)"
+    ]
+  }
+}
