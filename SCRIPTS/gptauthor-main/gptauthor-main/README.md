@@ -1,4 +1,4 @@
-# GPT Author
+# DeepSeekAuthor
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/gptauthor.svg?1)](https://badge.fury.io/py/gptauthor)
@@ -7,7 +7,7 @@
 [![Downloads](https://static.pepy.tech/badge/gptauthor)](https://pepy.tech/project/gptauthor)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dylanhogg/gptauthor/blob/master/notebooks/gptauthor_colab_custom_story.ipynb)
 
-Unleash your storytelling genius: GPTAuthor is an easy to use command-line tool for writing long form, multi-chapter stories given a story prompt.
+Unleash your storytelling genius: DeepSeekAuthor is an easy to use command-line tool for writing long form, multi-chapter stories given a story prompt. It supports OpenAI-compatible providers, including DeepSeek.
 
 ![A GPT human cybord writing a manuscript](https://github.com/dylanhogg/gptauthor/blob/main/docs/img/header.jpg?raw=true)
 
@@ -15,9 +15,9 @@ Unleash your storytelling genius: GPTAuthor is an easy to use command-line tool 
 
 1. **Human written story description:** You describe your story outline, writing style, characters etc in a story prompt ([see an example](https://github.com/dylanhogg/gptauthor/blob/main/gptauthor/prompts-openai-drama.yaml)).
 1. **Run GPTAuthor:** As described below, choosing model, temperature, and number of chapters to write.
-1. **AI generated synopsis:** Given the story prompt, GPTAuthor uses ChatGPT to automatically turn this into a synopsis that has chapter summaries for the number of chapters you specify.
+1. **AI generated synopsis:** Given the story prompt, DeepSeekAuthor uses your selected model to automatically turn this into a synopsis that has chapter summaries for the number of chapters you specify.
 1. **Human review of synopsis:** You are given a chance to review the synopsis and (optionally) make changes, only proceeding to the next step if/when you are happy with it. If it isn't what you want, you can generate another before proceeding.
-1. **AI generated story:** Each chapter is iteratively written by ChatGPT given the common synopsis and previous chapter. (This approach is to keep token count within limits).
+1. **AI generated story:** Each chapter is iteratively written by the chosen model given the common synopsis and previous chapter. (This approach is to keep token count within limits).
    The full story is written as Markdown and HTML to an `./_output/` folder for your reading pleasure.
 
 ## Example GPTAuthor Story Outputs
