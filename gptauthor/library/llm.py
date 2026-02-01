@@ -8,11 +8,13 @@ from tenacity import retry, retry_if_not_exception_type, stop_after_attempt, wai
 
 from .classes import AppUsageException
 
-memory = Memory(".joblib_cache", verbose=0)
+# Optional import; present when using Anthropic provider
+try:
+    from anthropic import Anthropic
+except Exception:
+    Anthropic = None  # type: ignore
 
-# TODO: try/catch! E.g.
-#       APIError: HTTP code 502 from API
-#       Timeout: Request timed out: HTTPSConnectionPool(host='api.openai.com', port=443): Read timed out. (read timeout=600)
+memory = Memory(".joblib_cache", verbose=0)
 
 
 def log_retry(state):
@@ -33,24 +35,57 @@ def log_retry(state):
     retry=retry_if_not_exception_type(AppUsageException),
 )
 def make_call(system: str, prompt: str, llm_config: DictConfig) -> tuple[str, int]:
-    client = OpenAI(
-        api_key=llm_config.api_key if not llm_config.use_localhost else "localhost",
-        base_url="http://localhost:8081" if llm_config.use_localhost else (llm_config.get("base_url") or None),
-    )
-
-    messages = [{"role": "system", "content": system}, {"role": "user", "content": prompt}]
-
+    provider = (llm_config.get("provider") or "openai").lower()
     start = datetime.now()
+
     try:
-        api_response = client.chat.completions.create(
-            model=llm_config.model, messages=messages, temperature=llm_config.temperature, top_p=llm_config.top_p
-        )
+        if provider == "anthropic":
+            if Anthropic is None:
+                raise AppUsageException("Anthropic library not installed. Please add 'anthropic' dependency.")
+
+            client = Anthropic(api_key=llm_config.api_key)
+            max_tokens = llm_config.get("max_tokens") or 1024
+            api_response = client.messages.create(
+                model=llm_config.model,
+                max_tokens=max_tokens,
+                system=system,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=llm_config.temperature,
+            )
+
+            chat_response = "".join([c.text for c in api_response.content if hasattr(c, "text")])
+            usage = getattr(api_response, "usage", None)
+            if usage and hasattr(usage, "input_tokens") and hasattr(usage, "output_tokens"):
+                total_tokens = int(usage.input_tokens) + int(usage.output_tokens)
+            else:
+                total_tokens = -1
+
+        else:
+            client = OpenAI(
+                api_key=llm_config.api_key if not llm_config.use_localhost else "localhost",
+                base_url="http://localhost:8081" if llm_config.use_localhost else (llm_config.get("base_url") or None),
+            )
+            messages = [{"role": "system", "content": system}, {"role": "user", "content": prompt}]
+
+            kwargs = {
+                "model": llm_config.model,
+                "messages": messages,
+                "temperature": llm_config.temperature,
+                "top_p": llm_config.top_p,
+            }
+            if llm_config.get("max_tokens"):
+                kwargs["max_tokens"] = llm_config.max_tokens
+            api_response = client.chat.completions.create(**kwargs)
+
+            chat_response = api_response.choices[0].message.content
+            total_tokens = int(api_response.usage.total_tokens)
+
     except AuthenticationError as ex:
         raise AppUsageException(str(ex)) from ex
-    took = datetime.now() - start
+    except Exception as ex:
+        raise AppUsageException(str(ex)) from ex
 
-    chat_response = api_response.choices[0].message.content
-    total_tokens = int(api_response.usage.total_tokens)  # TODO: add input/output tokens
+    took = datetime.now() - start
 
     logger.debug(f"{llm_config.use_localhost=}")
     logger.debug(f"{system=}")

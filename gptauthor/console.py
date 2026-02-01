@@ -22,6 +22,12 @@ def version_callback(value: bool):
 @typer_app.command()
 def run(
     story: Annotated[str, typer.Option(help="The name of the yaml file defining the story and prompts")],
+    llm_provider: Annotated[
+        str,
+        typer.Option(
+            help="LLM provider: openai | deepseek | openrouter | anthropic",
+        ),
+    ] = "openai",
     llm_model: Annotated[str, typer.Option(help="The model name")] = consts.default_llm_model,
     llm_temperature: Annotated[
         float, typer.Option(help="LLM temperature value (0 to 2, OpenAI default is 1)")
@@ -35,6 +41,14 @@ def run(
     llm_base_url: Annotated[
         str, typer.Option(help="LLM base URL for OpenAI-compatible providers (e.g., https://api.deepseek.com)")]
     = consts.default_llm_base_url,
+    llm_api_key: Annotated[
+        str,
+        typer.Option(
+            help="LLM API key override (if not set via environment variable)",
+        ),
+    ] = "",
+    llm_max_tokens: Annotated[
+        int, typer.Option(help="LLM max tokens per response (provider-specific limit)")] = 0,
     total_chapters: Annotated[int, typer.Option(help="Total chapters to write")] = consts.default_write_total_chapters,
     allow_user_input: Annotated[bool, typer.Option(help="Allow command line user input")] = True,
     version: Annotated[
@@ -50,15 +64,26 @@ def run(
         log.configure()
         example_usage = f"Example usage: [bold green]{consts.package_name} --story prompts-openai-drama --total-chapters 3 --llm-model gpt-3.5-turbo --llm-temperature 0.1 --llm-top-p 1.0[/bold green]"
 
-        openai_key = env.get("OPENAI_API_KEY", "")
-        deepseek_key = env.get("DEEPSEEK_API_KEY", "")
-        llm_api_key = openai_key or deepseek_key
+        provider = llm_provider.lower()
+        if not llm_api_key:
+            if provider == "openai":
+                llm_api_key = env.get("OPENAI_API_KEY", "")
+            elif provider == "deepseek":
+                llm_api_key = env.get("DEEPSEEK_API_KEY", "")
+            elif provider == "openrouter":
+                llm_api_key = env.get("OPENROUTER_API_KEY", "")
+            elif provider == "anthropic":
+                llm_api_key = env.get("ANTHROPIC_API_KEY", "")
+            else:
+                llm_api_key = env.get("OPENAI_API_KEY", "")  # fallback
 
         if not llm_use_localhost and not llm_api_key:
             raise AppUsageException(
-                "Expected an environment variable 'OPENAI_API_KEY' or 'DEEPSEEK_API_KEY' to be set."
-                "\nOpenAI: https://platform.openai.com/docs/quickstart/step-2-setup-your-api-key"
-                "\nDeepSeek: https://api-docs.deepseek.com/"
+                "Expected an environment variable for the selected provider to be set."
+                "\nOpenAI: set OPENAI_API_KEY"
+                "\nDeepSeek: set DEEPSEEK_API_KEY"
+                "\nOpenRouter: set OPENROUTER_API_KEY"
+                "\nAnthropic (Claude): set ANTHROPIC_API_KEY"
                 "\nAlternatively you can use the '--llm_use_localhost 1' argument to use a local OpenAI-compatible LLM server."
             )
 
@@ -68,6 +93,7 @@ def run(
             {
                 "version": consts.version,
                 "api_key": llm_api_key,
+                "provider": provider,
                 "model": llm_model,
                 "temperature": llm_temperature,
                 "top_p": llm_top_p,
@@ -78,6 +104,7 @@ def run(
                 "story_file": story_file,
                 "allow_user_input": allow_user_input,
                 "base_url": base_url_value,
+                "max_tokens": llm_max_tokens,
             }
         )
 

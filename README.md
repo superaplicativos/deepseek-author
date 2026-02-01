@@ -1,4 +1,4 @@
-# DeepSeekAuthor
+# DeepSeekAuthor (fork com suporte multi-provedor)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/gptauthor.svg?1)](https://badge.fury.io/py/gptauthor)
@@ -7,7 +7,9 @@
 [![Downloads](https://static.pepy.tech/badge/gptauthor)](https://pepy.tech/project/gptauthor)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dylanhogg/gptauthor/blob/master/notebooks/gptauthor_colab_custom_story.ipynb)
 
-Unleash your storytelling genius: DeepSeekAuthor is an easy to use command-line tool for writing long form, multi-chapter stories given a story prompt. It supports OpenAI-compatible providers, including DeepSeek.
+Este repositório é um fork de [dylanhogg/gptauthor](https://github.com/dylanhogg/gptauthor), aprimorado para funcionar não somente com modelos OpenAI-compatíveis (como DeepSeek e OpenRouter), mas também com Claude (Anthropic). Na nossa experiência prática, o Claude frequentemente entrega escrita mais consistente e de maior qualidade do que outros modelos.
+
+Unleash your storytelling genius: DeepSeekAuthor é uma ferramenta de linha de comando para escrever histórias longas, multi-capítulos, a partir de um prompt estruturado. Agora com suporte multi-provedor: OpenAI, DeepSeek, OpenRouter e Anthropic (Claude).
 
 ![A GPT human cybord writing a manuscript](https://github.com/dylanhogg/gptauthor/blob/main/docs/img/header.jpg?raw=true)
 
@@ -41,11 +43,11 @@ Alternatively, checkout [an example notebook](https://github.com/dylanhogg/gptau
 
 ## Run GPTAuthor
 
-### Example Usage and API Key
+### Uso rápido e API Key
 
 This example reads the story prompt from the example [prompts-openai-drama.yaml](https://github.com/dylanhogg/gptauthor/blob/main/gptauthor/prompts-openai-drama.yaml) file and writes 3 chapters using the `gpt-3.5-turbo` model with a temperature of `0.1`. Note that you will need to locally set your [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key) environment variable.
 
-It's recommended to experiment using the default `gpt-3.5-turbo` model as generating a few chapters will only cost a couple cents (as of Jan 2024). Once you are happy with the results you can try one of the more expensive `gpt-4` models which will produce better quality results, be slower, and cost more to run. See the [OpenAI pricing page](https://openai.com/pricing#language-models) for more details.
+É recomendado começar com um modelo mais barato (ex.: `gpt-3.5-turbo`) e, após validar o fluxo, migrar para modelos superiores. Observação: Claude (Anthropic) costuma produzir textos de melhor qualidade em muitos cenários de escrita longa.
 
 Set your OpenAI API Key on MacOS/Linux:
 
@@ -59,27 +61,30 @@ Or, set your OpenAI API Key on Windows:
 setx OPENAI_API_KEY "sk-<yourkey>"
 ```
 
-Then run the gptauthor command:
+Então execute o comando:
 
 ```bash
 gptauthor --story prompts-openai-drama --total-chapters 3 --llm-model gpt-3.5-turbo --llm-temperature 0.1
 ```
 
-### Required Arguments
+### Argumentos obrigatórios
 
 - `--story TEXT`: The name of the yaml file defining the story and prompts
 
-### Optional Arguments
+### Argumentos opcionais
 
-- `--llm-model TEXT`: The model name [default: gpt-3.5-turbo]
-- `--llm-temperature FLOAT`: LLM temperature value (0 to 2, OpenAI default is 1) [default: 1]
-- `--llm-top-p FLOAT`: LLM top_p probability value (0 to 2, OpenAI default is 1) [default: 1]
-- `--llm-use-localhost INTEGER`: LLM use localhost:8081 instead of openai [default: 0]
-- `--llm-base-url TEXT`: LLM base URL for OpenAI-compatible providers (e.g., https://api.deepseek.com)
-- `--total-chapters INTEGER`: Total chapters to write [default: 3]
-- `--allow-user-input / --no-allow-user-input`: Allow command line user input [default: allow-user-input]
-- `--version`: Display gptauthor version
-- `--help`: Show usage help
+- `--llm-provider TEXT`: Provedor LLM: openai | deepseek | openrouter | anthropic [default: openai]
+- `--llm-model TEXT`: Nome do modelo [default: gpt-3.5-turbo]
+- `--llm-temperature FLOAT`: Temperatura (0 a 2) [default: 1]
+- `--llm-top-p FLOAT`: Top-p (0 a 2) [default: 1]
+- `--llm-use-localhost INTEGER`: Usa localhost:8081 (OpenAI-compatible) [default: 0]
+- `--llm-base-url TEXT`: Base URL para provedores OpenAI-compatíveis (ex.: https://api.deepseek.com)
+- `--llm-api-key TEXT`: API key (override, se não quiser usar variável de ambiente)
+- `--llm-max-tokens INTEGER`: Máximo de tokens por resposta (limite por provedor)
+- `--total-chapters INTEGER`: Total de capítulos [default: 3]
+- `--allow-user-input / --no-allow-user-input`: Permite input no terminal [default: allow-user-input]
+- `--version`: Exibe versão
+- `--help`: Mostra ajuda
 
 ## Produced Output Files
 
@@ -102,33 +107,49 @@ export OPENAI_API_KEY=sk-<your key>
 gptauthor --story prompts-my-really-great-story --total-chapters 5 --llm-model gpt-3.5-turbo --llm-temperature 0.1
 ```
 
-## DeepSeek Compatibility
+## Suporte Multi-Provedor
 
-GPTAuthor supports OpenAI-compatible providers, including DeepSeek. You can use DeepSeek by setting its API key and base URL, and choosing a DeepSeek model name.
+Suportamos provedores OpenAI-compatíveis (OpenAI, DeepSeek, OpenRouter) via `base_url` e também Anthropic (Claude).
 
-On Windows:
+Variáveis de ambiente por provedor:
+
+- OpenAI: `OPENAI_API_KEY`
+- DeepSeek: `DEEPSEEK_API_KEY` e `LLM_BASE_URL=https://api.deepseek.com`
+- OpenRouter: `OPENROUTER_API_KEY` e `LLM_BASE_URL=https://openrouter.ai/api/v1`
+- Anthropic (Claude): `ANTHROPIC_API_KEY`
+
+No Windows:
 
 ```bash
-setx DEEPSEEK_API_KEY "<your_deepseek_key>"
+setx DEEPSEEK_API_KEY "<sua_chave_deepseek>"
 setx LLM_BASE_URL "https://api.deepseek.com"
 ```
 
-On MacOS/Linux:
+No MacOS/Linux:
 
 ```bash
-export DEEPSEEK_API_KEY="<your_deepseek_key>"
+export DEEPSEEK_API_KEY="<sua_chave_deepseek>"
 export LLM_BASE_URL="https://api.deepseek.com"
 ```
 
-Example run using DeepSeek:
+Exemplo com DeepSeek:
 
 ```bash
-gptauthor --story prompts-openai-drama --total-chapters 3 --llm-model deepseek-chat --llm-temperature 0.1 --llm-base-url https://api.deepseek.com
+gptauthor --story prompts-openai-drama --llm-provider deepseek --total-chapters 3 --llm-model deepseek-chat --llm-temperature 0.1 --llm-base-url https://api.deepseek.com
+
+Exemplo com Anthropic (Claude):
+
+```bash
+setx ANTHROPIC_API_KEY "<sua_chave_anthropic>"   # Windows
+# export ANTHROPIC_API_KEY="<sua_chave_anthropic>"  # Mac/Linux
+gptauthor --story prompts-openai-drama --llm-provider anthropic --total-chapters 3 --llm-model claude-3-7-sonnet --llm-temperature 0.1 --llm-max-tokens 4096
+```
 ```
 
-Notes:
-- If both `OPENAI_API_KEY` and `DEEPSEEK_API_KEY` are set, GPTAuthor uses whichever is available (prefers OpenAI if both are set).
-- You can also pass `--llm-use-localhost 1` to use a local OpenAI-compatible server (e.g., vLLM) at `http://localhost:8081`.
+Notas:
+- Provedores OpenAI-compatíveis utilizam `--llm-base-url`. Anthropic não requer `base_url`.
+- Você pode usar `--llm-use-localhost 1` para um servidor local compatível com OpenAI (ex.: vLLM) em `http://localhost:8081`.
+- Claude frequentemente mostra melhor qualidade de escrita em longos trechos narrativos.
 
 ## Issues
 
