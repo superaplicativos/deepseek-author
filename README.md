@@ -145,7 +145,37 @@ Licensed under [MIT](https://github.com/dylanhogg/gptauthor/blob/main/LICENSE).
 
 ---
 
+# Beginner Tutorial: Using Trae IDE (Easy Mode)
+
+This is the simplest way to use the tool without prior knowledge of Python or terminals.
+
+- Requirements:
+  - Windows
+  - Python 3.10+ installed
+  - Trae IDE installed
+  - An API key for your chosen provider (OpenAI, DeepSeek, OpenRouter, or Anthropic)
+- Steps:
+  - Download ZIP of this repository (Code → Download ZIP) and unzip it to a folder.
+  - Open Trae IDE and choose “Open Folder”, selecting the unzipped folder.
+  - In Trae, open the built‑in terminal (PowerShell).
+  - Install dependencies:
+    - python -m pip install poetry
+    - poetry install
+  - Set your provider API key (examples):
+    - OpenAI: setx OPENAI_API_KEY "sk-<your_key>"
+    - DeepSeek: setx DEEPSEEK_API_KEY "<your_key>" and setx LLM_BASE_URL "https://api.deepseek.com"
+    - OpenRouter: setx OPENROUTER_API_KEY "<your_key>" and setx LLM_BASE_URL "https://openrouter.ai/api/v1"
+    - Anthropic (Claude): setx ANTHROPIC_API_KEY "<your_key>"
+  - Generate a sample book:
+    - poetry run gptauthor --story prompts-openai-drama --llm-provider deepseek --total-chapters 3 --llm-model deepseek-chat --llm-temperature 0.1 --llm-base-url https://api.deepseek.com
+    - or with Claude: poetry run gptauthor --llm-provider anthropic --story prompts-openai-drama --total-chapters 3 --llm-model claude-3-7-sonnet --llm-temperature 0.1 --llm-max-tokens 4096
+  - Open the _output folder and view the file _whole_book.html to read your book.
+- Notes:
+  - If you prefer not to use Poetry, you can try python -m pip install gptauthor, then run gptauthor, but the forked features are guaranteed when running from source with Poetry in this repository.
+
 # Versão em Português
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![PyPI version](https://badge.fury.io/py/gptauthor.svg?1)](https://badge.fury.io/py/gptauthor)
@@ -275,3 +305,33 @@ Notas:
 ## Licença
 
 MIT: [LICENSE](https://github.com/dylanhogg/gptauthor/blob/main/LICENSE).
+
+---
+
+## Tutorial para Leigos: usando o Trae IDE (Modo Fácil)
+
+O jeito mais simples de usar sem precisar saber Python ou terminal.
+
+- Requisitos:
+  - Windows
+  - Python 3.10+ instalado
+  - Trae IDE instalado
+  - Uma API key do provedor escolhido (OpenAI, DeepSeek, OpenRouter ou Anthropic)
+- Passo a passo:
+  - Baixe o ZIP deste repositório (Code → Download ZIP) e descompacte em uma pasta.
+  - Abra o Trae IDE e selecione “Open Folder”, indicando a pasta descompactada.
+  - No Trae, abra o terminal interno (PowerShell).
+  - Instale as dependências:
+    - python -m pip install poetry
+    - poetry install
+  - Defina sua API key (exemplos):
+    - OpenAI: setx OPENAI_API_KEY "sk-<sua_chave>"
+    - DeepSeek: setx DEEPSEEK_API_KEY "<sua_chave>" e setx LLM_BASE_URL "https://api.deepseek.com"
+    - OpenRouter: setx OPENROUTER_API_KEY "<sua_chave>" e setx LLM_BASE_URL "https://openrouter.ai/api/v1"
+    - Anthropic (Claude): setx ANTHROPIC_API_KEY "<sua_chave>"
+  - Gere um livro de exemplo:
+    - poetry run gptauthor --story prompts-openai-drama --llm-provider deepseek --total-chapters 3 --llm-model deepseek-chat --llm-temperature 0.1 --llm-base-url https://api.deepseek.com
+    - ou com Claude: poetry run gptauthor --llm-provider anthropic --story prompts-openai-drama --total-chapters 3 --llm-model claude-3-7-sonnet --llm-temperature 0.1 --llm-max-tokens 4096
+  - Abra a pasta _output e visualize o arquivo _whole_book.html para ler o seu livro.
+- Observações:
+  - Se não quiser usar o Poetry, você pode tentar python -m pip install gptauthor e então rodar gptauthor, mas os recursos deste fork são garantidos ao rodar a partir do código‑fonte com Poetry.
